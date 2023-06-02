@@ -1,4 +1,5 @@
 #!/bin/bash
+# Bash script, that takes a file containing a list of UUIDs (all UUIDs that were evaluated) and copies the corresponding lines from the UUID to URL mapping file into a new file.
 
 # Read all values from the third column of file1 into an array
 values=($(awk -F '\t' '{print $3}' CHS-2021/assessments/qrels.txt ))

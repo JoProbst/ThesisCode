@@ -1,3 +1,6 @@
 crawl_social
 .vscode
-./CHS-2021
+CHS-2021
+*index*
+data/Webdoc/crawl
+extracted_meta.csv
