@@ -230,4 +230,24 @@
 		<id>132</id>
 		<query>headpats scalp psoriasis </query>
 	</topic>
+	<topic>
+		<id>133</id>
+		<query>psoriasis psoariatic arthritis, lump in armpit </query>
+	</topic>
+	<topic>
+		<id>141</id>
+		<query>sores in mouth herpes </query>
+	</topic>
+	<topic>
+		<id>146</id>
+		<query>canker sores syphilis </query>
+	</topic>
+	<topic>
+		<id>147</id>
+		<query>best supplements creatine </query>
+	</topic>
+	<topic>
+		<id>150</id>
+		<query>fish oil supplement dosage </query>
+	</topic>
 </topics>
