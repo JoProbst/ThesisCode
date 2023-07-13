@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,51,What is holistic medicine and what does it include?,0.40386996991383384,0.6824073952358959,0.6939586645468995,monoT5,186,186
+qcred,51,What is holistic medicine and what does it include?,0.4544196190289664,0.7749664590715152,0.7481512198493325,monoT5,186,186
+qread,51,What is holistic medicine and what does it include?,0.46080086551066235,0.6139464977180855,0.5448245614035091,monoT5,186,186

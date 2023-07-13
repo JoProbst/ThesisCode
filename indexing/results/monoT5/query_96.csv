@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,96,most efficient and sustainable diets,0.8439754613891097,0.25318486537311774,0.27202498356344507,monoT5,89,89
+qcred,96,most efficient and sustainable diets,0.8484691774992166,0.7142040423192242,0.726403061224489,monoT5,89,89
+qread,96,most efficient and sustainable diets,0.8767247222762069,0.34820998804281483,0.35159176029962547,monoT5,89,89

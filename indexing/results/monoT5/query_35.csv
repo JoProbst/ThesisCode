@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,35,Is a ketogenic / keto diet suitable for people with diabetes?,0.5781967380524828,0.22976486395645654,0.2679584120982987,monoT5,154,154
+qcred,35,Is a ketogenic / keto diet suitable for people with diabetes?,0.32514811403847643,0.8935360139534688,0.9275771377253186,monoT5,154,154
+qread,35,Is a ketogenic / keto diet suitable for people with diabetes?,0.833962088041753,0.8953162647842225,0.9131981032665961,monoT5,154,154

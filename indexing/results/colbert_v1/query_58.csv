@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,58,Risk to develop multiple sclerosis,0.9241189044609822,0.8667305981518911,0.7188095238095225,colbert_v1,230,230
+qcred,58,Risk to develop multiple sclerosis,0.5246574464888655,0.92,0.92,colbert_v1,230,230
+qread,58,Risk to develop multiple sclerosis,1.0,0.9153957512012985,0.5745967741935484,colbert_v1,230,230

@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,1,What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?,0.7896513676023281,0.7517465955257103,0.5459123455818717,colbert_v1,244,243
+qcred,1,What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?,0.6847514709650155,0.7370107117633836,0.5107692307692316,colbert_v1,244,243
+qread,1,What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?,0.9241189044609822,0.9555753696599391,0.6379132231404959,colbert_v1,244,243
