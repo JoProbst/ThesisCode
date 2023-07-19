@@ -1,5 +1,6 @@
 #!/bin/bash
 
+quiet=false
 # parse command line arguments
 while [[ $# -gt 0 ]]; do
     key="$1"
@@ -39,9 +40,9 @@ while IFS= read -r line; do
         qid=$(echo $line | sed 's/<[^>]*>//g')
         echo "Query ID: $qid"
         if [ "$quiet" = false ]; then
-            python "$script_name" "$qid"
+            python "$script_name"  "$qid" "$model_name"
         else
-            python "$script_name" "$qid" > /dev/null 2>&1
+            python "$script_name" "$qid" "$model_name" > /dev/null 2>&1
         fi
     fi
 done < "$topics_file"

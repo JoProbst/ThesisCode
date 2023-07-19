@@ -53,6 +53,14 @@ def main(qid, model_name):
     elif model_name == 'monoT5':
         monoT5 = MonoT5ReRanker()
         res = monoT5.transform(passages_for_query)
+        res_path = './results/' + model_name + '_res/query_' + qid + '.csv'
+        if os.path.exists(res_path):
+            os.remove(res_path)
+
+        # create dir
+        if not os.path.exists('./results/' + model_name + '_res'):
+            os.makedirs('./results/' + model_name + '_res')
+        res.to_csv(res_path, index=False)
     elif model_name == 'colbert_v1':
         num_docs = passages_for_query.shape[0]
         checkpoint="../colbert_model_checkpoint/colbert.dnn"
