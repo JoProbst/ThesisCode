@@ -7,14 +7,6 @@ if not pt.started():
     pt.init()
 from pyterrier_colbert.indexing import ColBERTIndexer
 from pyterrier_colbert.ranking import ColBERTFactory
-from pyterrier_t5 import MonoT5ReRanker, DuoT5ReRanker
-
-
-
-def get_text_from_docno(docno):
-    if docno_to_text[docno_to_text['docno'] == docno].empty:
-        return ''
-    return docno_to_text[docno_to_text['docno'] == docno]['text'].values[0]
 
 def load_topics(path, clean_queries=False):
     with open(path) as f:
@@ -55,7 +47,7 @@ def main(qid):
     if os.path.exists(index_path):
         shutil.rmtree(index_path)
     indexer = ColBERTIndexer(checkpoint, index_path, "colbertindex", chunksize=3)
-    indexref = indexer.index(yield_passages_from_df(passages_for_query))
+    indexer.index(yield_passages_from_df(passages_for_query))
     index=(index_path, "colbertindex")
     pytcolbert = ColBERTFactory(checkpoint, *index)
     os.rename(index_path + '/colbertindex/ivfpq.100.faiss', index_path + '/colbertindex/ivfpq.faiss')
