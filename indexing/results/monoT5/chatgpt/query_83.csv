@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,83,Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?,0.6708106698132449,0.651023132062258,0.692959536755878,monoT5,233,234
+qcred,83,Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?,0.3620489590619582,0.9545247924319943,0.8602666666666663,monoT5,233,234
+qread,83,Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?,0.7088987051131063,0.8245336445677736,0.6804336043360429,monoT5,233,234

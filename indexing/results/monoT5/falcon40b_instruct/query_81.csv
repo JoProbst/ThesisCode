@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,81,Can I work and study full-time with multiple sclerosis?,0.7128510503375907,0.6013048872173712,0.5855999999999999,monoT5,218,219
+qcred,81,Can I work and study full-time with multiple sclerosis?,1.0,0.919763523585968,0.9114420690207388,monoT5,218,219
+qread,81,Can I work and study full-time with multiple sclerosis?,0.9574284411791895,0.8279277823231825,0.5253739316239316,monoT5,218,219

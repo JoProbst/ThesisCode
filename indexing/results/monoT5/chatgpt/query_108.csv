@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,108,chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia,0.6917581804002053,0.228419208652001,0.2537951095354965,monoT5,58,59
+qcred,108,chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia,0.617843434942479,0.22830586661224753,0.24369747899159663,monoT5,58,59
+qread,108,chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia,0.6901696811590111,0.22830586661224753,0.24369747899159663,monoT5,58,59

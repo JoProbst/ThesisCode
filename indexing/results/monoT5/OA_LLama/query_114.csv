@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,114,borderline personality disorder symptoms,0.8473825580301494,0.45865065506130037,0.48806729264475734,monoT5,107,108
+qcred,114,borderline personality disorder symptoms,0.6214008619440533,0.7271411249290954,0.7580345115145283,monoT5,107,108
+qread,114,borderline personality disorder symptoms,0.690890811956699,0.4781246290317888,0.4965912189800922,monoT5,107,108

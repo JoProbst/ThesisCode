@@ -1,0 +1,7 @@
+model_name,average_llm_position,average_weighted_llm_position,top_answers,average_number_of_query_words_repeated_in_answer
+falcon7b_prompt,2.06,0.014,32,8.88
+falcon40b_prompt,4.28,0.024,32,5.82
+chatgpt,7.28,0.051,39,11.18
+falcon7b_instruct,20.18,0.137,29,53.56
+OA_LLama,38.74,0.234,23,7.12
+falcon40b_instruct,53.0,0.282,28,4.267

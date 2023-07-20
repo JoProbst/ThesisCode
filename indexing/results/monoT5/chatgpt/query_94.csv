@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,94,When will I start to feel better with multiple sclerosis?,0.6874253192566763,0.765005293412314,0.5307890855457228,monoT5,211,212
+qcred,94,When will I start to feel better with multiple sclerosis?,0.5074377867854949,0.6605164694261718,0.6003193960511025,monoT5,211,212
+qread,94,When will I start to feel better with multiple sclerosis?,0.6103653379301544,0.808025318921513,0.596246973365616,monoT5,211,212

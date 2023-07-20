@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,8,best apps daily activity exercise diabetes,0.7598959400901923,0.3630409417513111,0.35537190082644615,monoT5,235,236
+qcred,8,best apps daily activity exercise diabetes,0.5003778508400972,0.8829085123828234,0.6424056694119922,monoT5,235,236
+qread,8,best apps daily activity exercise diabetes,0.8137433739416702,0.9111966462733329,0.34475806451612906,monoT5,235,236
