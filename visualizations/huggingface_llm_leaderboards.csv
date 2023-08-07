@@ -1,0 +1,9 @@
+model,ARC,HellaSwag,MMLU
+gpt2,21.8,31.6,25.9
+gpt2-medium,27,40.2,26.6
+gpt2-large,25.9,45.6,26.1
+gpt2-xl,30.3,51.4,26.4
+tiiuae_falcon-7b-instruct,47.9,78.1,27.8
+meta-llama_Llama-2-7b-chat-hf,52.9,78.6,48.3
+meta-llama_Llama-2-13b-chat-hf,59,81.9,54.6
+chatgpt,85.2,85.5,70.0

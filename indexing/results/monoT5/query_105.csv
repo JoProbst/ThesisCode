@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,105,wisdom tooth cuts gum pain,0.5788581129237141,0.3027858592508604,0.34547908232118746,monoT5,78,78
-qcred,105,wisdom tooth cuts gum pain,0.8532721558012798,0.9010864285935403,0.9204733727810641,monoT5,78,78
-qread,105,wisdom tooth cuts gum pain,1.0,0.312,0.312,monoT5,78,78

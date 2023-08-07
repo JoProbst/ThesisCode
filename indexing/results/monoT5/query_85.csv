@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,85,Relapsing remitting multiple sclerosis,0.7407992578851577,0.39756026282902396,0.4492920750848869,monoT5,196,196
-qcred,85,Relapsing remitting multiple sclerosis,0.3545402627329839,0.9655172413793104,0.9655172413793104,monoT5,196,196
-qread,85,Relapsing remitting multiple sclerosis,0.651060705342249,0.5745901972405754,0.4761403508771929,monoT5,196,196
