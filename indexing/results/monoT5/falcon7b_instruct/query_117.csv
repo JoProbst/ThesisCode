@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,117,stage 4 metastatic lung cancer outcome,0.5124513827537095,0.5906775860621332,0.5538254517493273,monoT5,247,248
-qcred,117,stage 4 metastatic lung cancer outcome,0.4645202731518862,0.9708461464782706,0.9839357429718876,monoT5,247,248
-qread,117,stage 4 metastatic lung cancer outcome,0.8899541168509599,0.967005289505647,0.6411290322580645,monoT5,247,248

@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,98,most common complications in pregnancy,0.8755458364887027,0.6744048403330026,0.35060975609756095,monoT5,177,178
-qcred,98,most common complications in pregnancy,0.9305687780632227,0.8205474130614645,0.8349056603773585,monoT5,177,178
-qread,98,most common complications in pregnancy,0.8513152581927321,0.6043063889507081,0.4242277992277998,monoT5,177,178

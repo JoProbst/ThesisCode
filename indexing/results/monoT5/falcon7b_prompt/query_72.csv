@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,72,Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?,0.5026262237605024,0.3814462291361773,0.3795013850415513,monoT5,212,213
-qcred,72,Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?,0.7025909879413567,0.8770475986521127,0.8114597142436325,monoT5,212,213
-qread,72,Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?,0.7799082337019199,0.7810033065120472,0.6049999999999983,monoT5,212,213

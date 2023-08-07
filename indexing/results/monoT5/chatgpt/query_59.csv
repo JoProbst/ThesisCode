@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,59,long-term effects likelihood multiple sclerosis,0.4958848748464045,0.7655563850626198,0.8078942251604125,monoT5,203,204
-qcred,59,long-term effects likelihood multiple sclerosis,0.41970261382782126,0.888646376548448,0.9223333333333342,monoT5,203,204
-qread,59,long-term effects likelihood multiple sclerosis,0.49480479815410683,0.6811530029465689,0.453703703703703,monoT5,203,204

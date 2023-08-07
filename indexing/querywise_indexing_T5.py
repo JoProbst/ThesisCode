@@ -28,7 +28,7 @@ def yield_passages_from_df(df):
     for index, row in df.iterrows():
         yield {'docno': row['docno'], 'text': row['text']}
 
-def main(qid, model_name, llm_answers):
+def main(qid, model_name, llm_answers, prompt, answer_number):
     topics = load_topics("../data/topics/topics.txt", clean_queries=False)
     qrels = pt.io.read_qrels("../data/assessments/qrels.txt")
     qcred = pt.io.read_qrels("../data/assessments/qcredibility.txt")
@@ -47,24 +47,31 @@ def main(qid, model_name, llm_answers):
     passages_for_query['query'] = query
     num_docs = passages_for_query.shape[0]
 
+    output_path = './results/' + model_name + f'/{llm_answers}/{prompt}/{str(answer_number)}'
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+    if os.path.exists(output_path + '/query_' + qid + '_scores.csv'):
+        print('Already ranked query ' + qid + ' for model ' + model_name + ' with llm_answers ' + llm_answers + ' and prompt ' + prompt + ' and answer number ' + str(answer_number))
+        return
+
+
     if llm_answers:
-        answer_path = f'../data/all_answers_{llm_answers}.csv'
-        answers = pd.read_csv(answer_path)
+        try:
+            answer_path = f'../generate_llm_answers/answers/{llm_answers}/{prompt}.csv'
+            answers = pd.read_csv(answer_path)
+        except:
+            print(f'File not found: ../generate_llm_answers/answers/{llm_answers}/{prompt}.csv')
+            return
         answers = answers[answers['qid'] == int(qid)]
-        print(answers)
-        compatible_answers = pd.DataFrame({'docno': llm_answers + '_' + qid, 'text': answers['answer'], 'qid': qid, 'query': query})
+        colname = 'answer' + str(answer_number)
+        compatible_answers = pd.DataFrame({'docno': llm_answers + '_' + qid, 'text': answers[colname], 'qid': qid, 'query': query})
         passages_for_query = pd.concat([passages_for_query, compatible_answers], ignore_index=True)
 
     if model_name == 'monoT5':
         monoT5 = MonoT5ReRanker()
         res = monoT5.transform(passages_for_query)
-        res_path = './results/' + model_name + '/rankings/' + llm_answers + '/query_' + qid + '.csv'
-        if os.path.exists(res_path):
-            os.remove(res_path)
-
-        # create dir
-        if not os.path.exists('./results/' + model_name + '/rankings/' + llm_answers):
-            os.makedirs('./results/' + model_name + '/rankings/' + llm_answers)
+        
+        res_path = output_path + '/query_' + qid + '_rankings.csv'
         # sort by rank
         res = res.sort_values(by=['rank'])
         res.to_csv(res_path, index=False)
@@ -80,13 +87,8 @@ def main(qid, model_name, llm_answers):
         result_df = pd.DataFrame({'judgement': name, 'qid': qid, 'query': query, 'ndcg@10': ndcg, 'map': exp['map'][0], 'bpref': exp['bpref'][0], 'name': model_name, 'num_docs': num_docs, 'num_results': num_results}, index=[0])
         retrieval_results = pd.concat([retrieval_results, result_df], ignore_index=True)
     
-    output_path = './results/' + model_name + f'/{llm_answers}/query_' + qid + '.csv'
-    if os.path.exists(output_path):
-        os.remove(output_path)
-    # create dir
-    if not os.path.exists('./results/' + model_name + f'/{llm_answers}'):
-        os.makedirs('./results/' + model_name + f'/{llm_answers}')
-    retrieval_results.to_csv(output_path, index=False)
+    csv_path = output_path + '/query_' + qid + '_scores.csv'
+    retrieval_results.to_csv(csv_path, index=False)
     return 
 
 
@@ -100,5 +102,7 @@ if __name__ == '__main__':
                         chatgpt, falcon7b_instruct, falcon7b_prompt, falcon40b_instruct, falcon40b_prompt, OA_LLama
                         """
                         )
+    parser.add_argument('prompt', type=str, help='the name of the prompt to use. Possible values: q, question, multimedqa, no_prompt')
+    parser.add_argument('answer_number', type=int, help='the number of answers to use')
     args = parser.parse_args()
-    main(args.qid, args.model_name, args.llm_answers)
+    main(args.qid, args.model_name, args.llm_answers, args.prompt, args.answer_number)

@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,62,"disclosing multiple sclerosis at work, how will colleagues react?",0.8626400768096387,0.5263083910440375,0.575015943877551,monoT5,219,220
-qcred,62,"disclosing multiple sclerosis at work, how will colleagues react?",0.45260581781522463,0.9519354615325124,0.9275472655754339,monoT5,219,220
-qread,62,"disclosing multiple sclerosis at work, how will colleagues react?",0.9052116356304493,0.8832684127171039,0.8300709219858169,monoT5,219,220

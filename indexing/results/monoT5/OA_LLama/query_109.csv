@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,109,ehlers danlos syndrome POTS nausea stomach pain,0.8899541168509599,0.1462191611775878,0.156,monoT5,39,40
-qcred,109,ehlers danlos syndrome POTS nausea stomach pain,0.6954636921001107,0.1462191611775878,0.156,monoT5,39,40
-qread,109,ehlers danlos syndrome POTS nausea stomach pain,0.8899541168509599,0.1462191611775878,0.156,monoT5,39,40

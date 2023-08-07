@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,52,What are the most common mental health problems? How can I prevent or manage the most common mental health problems?,0.24573132854020638,0.6245374430265029,0.6846989588048895,monoT5,189,190
-qcred,52,What are the most common mental health problems? How can I prevent or manage the most common mental health problems?,0.5973584904224645,0.9711310281317291,0.9742806213394465,monoT5,189,190
-qread,52,What are the most common mental health problems? How can I prevent or manage the most common mental health problems?,0.6118298082393188,0.6201379260614239,0.4694637537239331,monoT5,189,190

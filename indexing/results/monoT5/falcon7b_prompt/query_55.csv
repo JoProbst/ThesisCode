@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,55,How to manage multiple sclerosis?,0.6220653694391104,0.4886268261407241,0.4736111111111108,monoT5,245,246
-qcred,55,How to manage multiple sclerosis?,0.44978165701229705,0.9596616866235401,0.98,monoT5,245,246
-qread,55,How to manage multiple sclerosis?,0.7467811219747253,0.9555623077362115,0.7422402159244238,monoT5,245,246

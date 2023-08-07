@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,112,symptoms of asthma,1.0,0.8803140883448195,0.8769349845201228,monoT5,209,210
-qcred,112,symptoms of asthma,0.6821257275966053,0.9346244020597407,0.9081297849070381,monoT5,209,210
-qread,112,symptoms of asthma,1.0,0.8363213775505006,0.7452049051462121,monoT5,209,210

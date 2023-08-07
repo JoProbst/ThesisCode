@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,54,What does multiple sclerosis diagnosis include? What does it change?,0.6533094752328932,0.5206277295711393,0.5798387919600037,monoT5,245,246
-qcred,54,What does multiple sclerosis diagnosis include? What does it change?,0.47527815054974204,0.952482818434135,0.5181451612903226,monoT5,245,246
-qread,54,What does multiple sclerosis diagnosis include? What does it change?,0.7799082337019199,0.9543738244712572,0.8459729570840693,monoT5,245,246

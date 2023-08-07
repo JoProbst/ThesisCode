@@ -1,4 +1,0 @@
-judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
-qrels,93,Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?,0.6361440024310954,0.5801895288200863,0.6439452124935996,monoT5,197,198
-qcred,93,Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?,0.619320582400297,0.8483558768217218,0.8212155817789635,monoT5,197,198
-qread,93,Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?,0.7740675795170285,0.7420075104400539,0.6027298850574706,monoT5,197,198
