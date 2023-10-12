@@ -2,23 +2,22 @@
 # Bash script, downloads the extracted_meta file containing all UUIds.
 # Then, it loops through each UUID and searches for it in the extracted_meta file.
 
+uuid_file="data/extracted_meta.csv"
+assessed_uuids="../assessments/qrels.txt"
+output_file="data/assessed_docs2.csv"
+
 # check if file 'assessed_docs.csv' exists
-if [ -f assessed_docs.csv ]; then
-    echo "File assessed_docs.csv already exists. Exiting..."
+if [ -f $output_file ]; then
+    echo "File $output_file already exists. Exiting..."
     exit 1
 fi
 # check if file 'extracted_meta.csv' exists
-if [ ! -f data/extracted_meta.csv ]; then
+if [ ! -f $uuid_file ]; then
     echo "File extracted_meta.csv does not exist. Starting download..."
-    curl https://www.dropbox.com/s/1fsfwmmiea23n5z/extracted_meta.csv?dl=0 -o data/extracted_meta.csv
+    curl https://www.dropbox.com/s/1fsfwmmiea23n5z/extracted_meta.csv?dl=0 -o $uuid_file
 else
-    echo "File data/extracted_meta.csv exists. Skipping download..."
+    echo "File $uuid_file exists. Skipping download..."
 fi
-
-
-uuid_file="data/extracted_meta.csv"
-assessed_uuids="../assessments/qrels.txt"
-output_file="data/assessed_docs.csv"
 
 # Copy first line from uuid_file to output_file
 head -n 1 "$uuid_file" > "$output_file"
@@ -28,7 +27,7 @@ values=($(awk -F '\t' '{print $3}' "$assessed_uuids"))
 
 # Print number of unique values in the array
 echo "Number of unique values: ${#values[@]}"
-
+sleep 5
 # Get the length of the array
 len=${#values[@]}
 
@@ -37,7 +36,6 @@ start_time=$(date +%s)
 i=0
 # Loop through each value in the array
 for value in "${values[@]}"; do
-    clear
     # Check if value already exists in output file
     if grep -q "$value" "$output_file"; then
         # If it does, skip this iteration
@@ -48,6 +46,7 @@ for value in "${values[@]}"; do
 
     # Every 10 iterations, print the time elapsed
     if ((++i % 10 == 0)); then
+        clear
         # Get the current time
         current_time=$(date +%s)
 
