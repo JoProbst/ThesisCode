@@ -8,17 +8,17 @@ if [ -f assessed_docs.csv ]; then
     exit 1
 fi
 # check if file 'extracted_meta.csv' exists
-if [ ! -f extracted_meta.csv ]; then
+if [ ! -f data/extracted_meta.csv ]; then
     echo "File extracted_meta.csv does not exist. Starting download..."
-    curl https://www.dropbox.com/s/1fsfwmmiea23n5z/extracted_meta.csv?dl=0 -o extracted_meta.csv
+    curl https://www.dropbox.com/s/1fsfwmmiea23n5z/extracted_meta.csv?dl=0 -o data/extracted_meta.csv
 else
-    echo "File extracted_meta.csv exists. Skipping download..."
+    echo "File data/extracted_meta.csv exists. Skipping download..."
 fi
 
 
-uuid_file="extracted_meta.csv"
+uuid_file="data/extracted_meta.csv"
 assessed_uuids="../assessments/qrels.txt"
-output_file="assessed_docs.csv"
+output_file="data/assessed_docs.csv"
 
 # Copy first line from uuid_file to output_file
 head -n 1 "$uuid_file" > "$output_file"

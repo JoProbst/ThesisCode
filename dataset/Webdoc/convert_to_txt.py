@@ -1,7 +1,20 @@
 import argparse
 import os
 from resiliparse.extract.html2text import extract_plain_text
+import bs4
 
+MIN_LENGTH = 50
+
+# parses html and delets all text in text elements that are shorter than min_length
+def keep_text_longer_than_from_html(html, min_length=100):
+    soup = bs4.BeautifulSoup(html, 'html.parser')
+    # only keep elements in body
+    
+    for tag in soup.find_all():
+        if len(tag.text) < min_length:
+            tag.extract()
+    
+    return str(soup)
 
 
 if __name__ == '__main__':
@@ -14,6 +27,9 @@ if __name__ == '__main__':
 
     input_folder = args.input_folder
     output_folder = args.output_folder
+
+    if MIN_LENGTH > 0:
+        output_folder += "_min_length_" + str(MIN_LENGTH)
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -32,7 +48,14 @@ if __name__ == '__main__':
                 output_file = os.path.join(output_folder, subfolder, filename + ".txt")
                 with open(input_file, "r") as f:
                     in_file = f.read()
-                txt = extract_plain_text(in_file, preserve_formatting=False,  alt_texts=False)
+
+                txt = keep_text_longer_than_from_html(in_file, min_length=MIN_LENGTH)
+
+                
+                txt = extract_plain_text(txt, main_content=False, preserve_formatting=False,  alt_texts=False)
+                if len(txt) < MIN_LENGTH:
+                    print("skipping", input_file)
+
                 with open(output_file, "w") as f:
                     f.write(txt)
 

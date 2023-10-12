@@ -1,4 +1,4 @@
-# CommonCrawl Crawler
+# Web Document Crawler
 
 This folder contains the scripts to download the html files from CommonCrawl.
 
@@ -15,7 +15,20 @@ Careful, this takes about 1 hour to run.
 After getting the CommonCrawl URLs for all assessed documents, we can download the html files from CommonCrawl.
 
 ```bash
-    python download_warc_from_csv.py assessed_docs.csv -o crawl/warc
+python download_warc_from_csv.py assessed_docs.csv -o crawl/warc
 ```
 
 This returns a directory of subfolders, one for each domain, containing the html files.
+
+Running the python script
+```bash
+python convert_to_txt.py
+```
+generates additional subfolder which only contain the text of the html files.
+The default setting is to only keep text of html elements with 50 or more characters, this can be changed in the file.
+
+Finally, the script
+```bash
+python format_as_tsv.py
+```
+produces a tsv file with columns docid and text, which can be used as input for the indexing.
