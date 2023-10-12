@@ -1,8 +1,30 @@
 #!/bin/bash
-# Bash script, that takes a file containing a list of UUIDs (all UUIDs that were evaluated) and copies the corresponding lines from the UUID to URL mapping file into a new file.
+# Bash script, downloads the extracted_meta file containing all UUIds.
+# Then, it loops through each UUID and searches for it in the extracted_meta file.
 
-# Read all values from the third column of file1 into an array
-values=($(awk -F '\t' '{print $3}' CHS-2021/assessments/qrels.txt ))
+# check if file 'assessed_docs.csv' exists
+if [ -f assessed_docs.csv ]; then
+    echo "File assessed_docs.csv already exists. Exiting..."
+    exit 1
+fi
+# check if file 'extracted_meta.csv' exists
+if [ ! -f extracted_meta.csv ]; then
+    echo "File extracted_meta.csv does not exist. Starting download..."
+    curl https://www.dropbox.com/s/1fsfwmmiea23n5z/extracted_meta.csv?dl=0 -o extracted_meta.csv
+else
+    echo "File extracted_meta.csv exists. Skipping download..."
+fi
+
+
+uuid_file="extracted_meta.csv"
+assessed_uuids="../assessments/qrels.txt"
+output_file="assessed_docs.csv"
+
+# Copy first line from uuid_file to output_file
+head -n 1 "$uuid_file" > "$output_file"
+
+# Read all values from the third column of the qrels into an array
+values=($(awk -F '\t' '{print $3}' "$assessed_uuids"))
 
 # Print number of unique values in the array
 echo "Number of unique values: ${#values[@]}"
@@ -15,23 +37,17 @@ start_time=$(date +%s)
 i=0
 # Loop through each value in the array
 for value in "${values[@]}"; do
+    clear
     # Check if value already exists in output file
-    if grep -q "$value" assessed_docs.csv; then
+    if grep -q "$value" "$output_file"; then
         # If it does, skip this iteration
         continue
     fi
-    # Search for lines containing the value in file2 and write them to a new file
-    grep "$value" extracted_meta.csv >> assessed_docs.csv
-
-    # If value is not found in file2, add it to a different file not_found.txt 
-    if [ $? -ne 0 ]; then
-        echo "$value" >> not_found.txt
-    fi
-
+    # Search for lines containing the value in uuid_file and write them to output_file
+    grep "$value" "$uuid_file" >> "$output_file"
 
     # Every 10 iterations, print the time elapsed
     if ((++i % 10 == 0)); then
-        clear
         # Get the current time
         current_time=$(date +%s)
 
@@ -51,7 +67,7 @@ for value in "${values[@]}"; do
         estimated_time_remaining=$(date -u -d @"$estimated_time_remaining" +'%H:%M:%S')
 
         # Print number of iterations completed
-        echo "Iterations completed: $i/$len in $elapsed_time"
+        echo "UUIDs completed: $i/$len in $elapsed_time"
         echo "Average time per iteration: $average_time_per_iteration"
         # Print the estimated time remaining
         echo "Estimated time remaining (HH:MM:SS): $estimated_time_remaining"

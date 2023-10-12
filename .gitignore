@@ -11,3 +11,4 @@ colbert_model_checkpoint
 data/Webdoc/txt_over_50.tsv
 indexing/results/monoT5/*/
 indexing/results/old_ranking_results_monoT5/
+*/.ipynb_checkpoints

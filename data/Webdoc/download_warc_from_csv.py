@@ -246,7 +246,6 @@ if __name__ == "__main__":
     parser.add_argument('cdx_file',
                         help='cdx record file')
     parser.add_argument("-o", "--output_folder", required=True, help="The folder where files would be output")
-    parser.add_argument("-r", "--record_folder", required=True, help="The folder where files would be output")
     parser.add_argument('-p', '--processes', type=int, help='Number of worker processes to use')
     args = parser.parse_args()
 
@@ -263,17 +262,12 @@ if __name__ == "__main__":
         logging.info('empty cdx record')
 
     directory = "warc_files"
-    
-    rec_file_path = os.path.join(args.record_folder, os.path.basename(args.cdx_file))
-    if os.path.exists(rec_file_path):
-        logging.warning('cdx already processed')
-        sys.exit(0)
+
     # if os.path.exists(directory):
     #     logging.warning('cdx already processed')
     #     sys.exit(0)
 
     os.makedirs(directory, exist_ok=True)
-    os.makedirs(args.record_folder, exist_ok=True)
 
     recs_todo = []
     for rec in recs:
@@ -287,8 +281,7 @@ if __name__ == "__main__":
 
     if not args.processes:
         try:
-            # num_workers = cpu_count() * 2
-            num_workers = cpu_count() + 2
+            num_workers = cpu_count() * 2
         except NotImplementedError:
             num_workers = 4
     else:
@@ -304,7 +297,4 @@ if __name__ == "__main__":
     for fins in return_dict.values():
         finished.extend(fins)
 
-    with open(rec_file_path, 'wb') as f:
-        import pickle
-        pickle.dump(finished, f)
     
