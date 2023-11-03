@@ -86,7 +86,7 @@ if [ ! -z "$prompts" ]; then
 fi
 
 # load topics.txt file
-topics_file="../data/topics/topics.txt"
+topics_file="../dataset/topics/topics.txt"
 
 # execute appropriate script based on model name
 if [ "$model_name" = "colbert_v1" ]; then

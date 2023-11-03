@@ -27,22 +27,22 @@ def yield_passages_from_df(df):
         yield {'docno': row['docno'], 'text': row['text']}
 
 def main(qid):
-    topics = load_topics("../data/topics/topics.txt", clean_queries=False)
-    qrels = pt.io.read_qrels("../data/assessments/qrels.txt")
-    qcred = pt.io.read_qrels("../data/assessments/qcredibility.txt")
-    qread = pt.io.read_qrels("../data/assessments/qreadability.txt")
+    topics = load_topics("../dataset/topics/topics.txt", clean_queries=False)
+    qrels = pt.io.read_qrels("../dataset/assessments/qrels.txt")
+    qcred = pt.io.read_qrels("../dataset/assessments/qcredibility.txt")
+    qread = pt.io.read_qrels("../dataset/assessments/qreadability.txt")
 
     retrieval_results = pd.DataFrame(columns=['judgement', 'qid', 'query', 'ndcg@10', 'map', 'bpref', 'name', 'num_docs', 'num_results'])
 
     query = topics[topics['qid'] == qid]['query'].values[0]
     print(query)
-    docno_to_text = pd.read_csv('../CHS-2021/documents/Webdoc/crawl/txt_over_50.tsv', sep='\t')
+    docno_to_text = pd.read_csv('../dataset/Webdoc/data/txt_min_length_50.tsv', sep='\t')
     docno_to_text = docno_to_text.rename(columns={'docid':'docno'})
     # add qid to docno_to_text based on join with qrels . If multiple qids, add all of them
     docno_to_text['qid'] = docno_to_text['docno'].apply(lambda x: qrels[qrels['docno'] == x]['qid'].values)
     passages_for_query = docno_to_text[docno_to_text['qid'].apply(lambda x: qid in x)]
     num_docs = passages_for_query.shape[0]
-    checkpoint="../colbert_model_checkpoint/colbert.dnn"
+    checkpoint = "http://www.dcs.gla.ac.uk/~craigm/ecir2021-tutorial/colbert_model_checkpoint.zip"
     index_path = "./indexes/" + 'colbert_v1' + "/query_" + qid
     if os.path.exists(index_path):
         shutil.rmtree(index_path)
@@ -76,6 +76,7 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser(description='Process a topic qid.')
     parser.add_argument('qid', type=str, help='the topic qid to process')
+    parser.add_argument('model_name', type=str, help='Name of the retrieval model to use.')
     args = parser.parse_args()
     ndcg = main(args.qid)
     print(ndcg)
