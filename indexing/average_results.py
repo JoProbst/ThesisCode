@@ -4,7 +4,7 @@ import argparse
 
 def compute_average_results(model_name):
     # get list of all csv files in results/<model_name> directory
-    csv_files = glob.glob(f'results/{model_name}/query*.csv')
+    csv_files = glob.glob(f'results/{model_name}/retrieval_only/query*scores.csv')
 
     all_judgements = ['qrels', 'qcred', 'qread']
 
@@ -41,10 +41,15 @@ def compute_average_results(model_name):
     results_df = []
     for judgement in all_judgements:
         results_df.append([judgement + '_' + model_name, avg_map_dict[judgement], avg_bpref_dict[judgement], avg_ndcg_dict[judgement]])
-    results_df = pd.DataFrame(results_df, columns=['name', 'map', 'bpref', 'ndcg_cut_10'])
+    results_df = pd.DataFrame(results_df, columns=['name', 'map', 'bpref', 'ndcg@10'])
+    # split name column into two columns, at first underscore. Name can contain multiple underscores, so only split at first underscore
+    if not 'judgement' in results_df.columns:
+        results_df[['judgement', 'name']] = results_df['name'].str.split('_', expand=True)
+    # reorder columns
+    results_df = results_df[['judgement', 'name', 'ndcg@10', 'map', 'bpref']]
 
     # save results to csv file
-    results_df.to_csv(f'results/{model_name}/average_results.csv', index=False)
+    results_df.to_csv(f'results/{model_name}_scores.csv', index=False)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Compute average results for a given model.')

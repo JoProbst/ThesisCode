@@ -46,7 +46,7 @@ def main(qid):
     index_path = "./indexes/" + 'colbert_v1' + "/query_" + qid
     if os.path.exists(index_path):
         shutil.rmtree(index_path)
-    indexer = ColBERTIndexer(checkpoint, index_path, "colbertindex", chunksize=3)
+    indexer = ColBERTIndexer(checkpoint, index_path, "colbertindex", chunksize=16)
     indexer.index(yield_passages_from_df(passages_for_query))
     index=(index_path, "colbertindex")
     pytcolbert = ColBERTFactory(checkpoint, *index)

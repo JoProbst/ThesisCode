@@ -3,8 +3,8 @@ import pandas as pd
 import glob
 
 # Get a list of all CSV files
-files = glob.glob('results/*.csv')
-
+files = glob.glob('results/*scores.csv') 
+print(files)
 # Create an empty DataFrame
 df = pd.DataFrame()
 
@@ -12,16 +12,16 @@ df = pd.DataFrame()
 for file in files:
     # Read the CSV file
     df_file = pd.read_csv(file)
+    # Concatenate the DataFrames
+    df = pd.concat([df, df_file], ignore_index=True)
 
-    # Append the data to the DataFrame
-    df = df.append(df_file)
-
+print(df['name'].unique())
 # Filter the dataframe for each judgement
 for judgement in df['judgement'].unique():
     df_judgement = df[df['judgement'] == judgement]
 
     # Create a new figure
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, len(df_judgement['name'].unique())))
 
     # Create a bar chart for each metric
     for metric in ['ndcg@10', 'map', 'bpref']:

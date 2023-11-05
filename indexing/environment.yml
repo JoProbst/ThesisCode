@@ -1,10 +1,9 @@
 name: faiss
 dependencies:
-  - python=3.8
+  - python=3.9
   - pip
   - chardet
-  - pandas=1.5.3
+  - pandas
   - pytorch::faiss-gpu
   - pip:
-    - python-terrier==0.9.0
-    - "--upgrade=git+https://github.com/terrierteam/pyterrier_colbert.git"
+    - git+https://github.com/terrierteam/pyterrier_colbert.git

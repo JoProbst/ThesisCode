@@ -29,16 +29,16 @@ def yield_passages_from_df(df):
         yield {'docno': row['docno'], 'text': row['text']}
 
 def main(qid, model_name, llm_answers, prompt, answer_number):
-    topics = load_topics("../data/topics/topics.txt", clean_queries=False)
-    qrels = pt.io.read_qrels("../data/assessments/qrels.txt")
-    qcred = pt.io.read_qrels("../data/assessments/qcredibility.txt")
-    qread = pt.io.read_qrels("../data/assessments/qreadability.txt")
+    topics = load_topics("../dataset/topics/topics.txt", clean_queries=False)
+    qrels = pt.io.read_qrels("../dataset/assessments/qrels.txt")
+    qcred = pt.io.read_qrels("../dataset/assessments/qcredibility.txt")
+    qread = pt.io.read_qrels("../dataset/assessments/qreadability.txt")
 
     retrieval_results = pd.DataFrame(columns=['judgement', 'qid', 'query', 'ndcg@10', 'map', 'bpref', 'name', 'num_docs', 'num_results'])
 
     query = topics[topics['qid'] == qid]['query'].values[0]
     print(query)
-    docno_to_text = pd.read_csv('../CHS-2021/documents/Webdoc/crawl/txt_over_50.tsv', sep='\t')
+    docno_to_text = pd.read_csv('../dataset/Webdoc/data/txt_min_length_50.tsv', sep='\t')
     docno_to_text = docno_to_text.rename(columns={'docid':'docno'})
     # add qid to docno_to_text based on join with qrels . If multiple qids, add all of them
     docno_to_text['qid'] = docno_to_text['docno'].apply(lambda x: qrels[qrels['docno'] == x]['qid'].values)
@@ -47,7 +47,11 @@ def main(qid, model_name, llm_answers, prompt, answer_number):
     passages_for_query['query'] = query
     num_docs = passages_for_query.shape[0]
 
-    output_path = './results/' + model_name + f'/{llm_answers}/{prompt}/{str(answer_number)}'
+    output_path = './results/' + model_name
+    if llm_answers is not None:
+        output_path = './results/' + model_name + f'/{llm_answers}/{prompt}/{str(answer_number)}'
+    else:
+        output_path = './results/' + model_name + f'/retrieval_only'
     if not os.path.exists(output_path):
         os.makedirs(output_path)
     if os.path.exists(output_path + '/query_' + qid + '_scores.csv'):
@@ -97,12 +101,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process a topic qid.')
     parser.add_argument('qid', type=str, help='the topic qid to process')
     parser.add_argument('model_name', type=str, help='the name of the model to use. Possible values: duoT5, monoT5, colbert_v1')
-    parser.add_argument('llm_answers', type=str, help="""
+    parser.add_argument('--llm_answers', type=str, help="""
                         the name of the llm which generated the answers. Possible values:
                         chatgpt, falcon7b_instruct, falcon7b_prompt, falcon40b_instruct, falcon40b_prompt, OA_LLama
-                        """
-                        )
-    parser.add_argument('prompt', type=str, help='the name of the prompt to use. Possible values: q, question, multimedqa, no_prompt')
-    parser.add_argument('answer_number', type=int, help='the number of answers to use')
+                        """,
+                        required=False)
+    parser.add_argument('--prompt', type=str, help='the name of the prompt to use. Possible values: q, question, multimedqa, no_prompt', required=False)
+    parser.add_argument('--answer_number', type=int, help='the number of answers to use', required=False)
     args = parser.parse_args()
+
     main(args.qid, args.model_name, args.llm_answers, args.prompt, args.answer_number)
