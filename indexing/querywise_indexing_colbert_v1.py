@@ -63,12 +63,12 @@ def main(qid):
         result_df = pd.DataFrame({'judgement': name, 'qid': qid, 'query': query, 'ndcg@10': ndcg, 'map': exp['map'][0], 'bpref': exp['bpref'][0], 'name': simple_name, 'num_docs': num_docs, 'num_results': num_results}, index=[0])
         retrieval_results = pd.concat([retrieval_results, result_df], ignore_index=True)
     
-    output_path = './results/' + 'colbert_v1' + '/query_' + qid + '.csv'
+    output_path = './results/' + simple_name + '/query_' + qid + '.csv'
     if os.path.exists(output_path):
         os.remove(output_path)
     # create dir
-    if not os.path.exists('./results/' + 'colbert_v1'):
-        os.makedirs('./results/' + 'colbert_v1')
+    if not os.path.exists('./results/' + simple_name):
+        os.makedirs('./results/' + simple_name)
     retrieval_results.to_csv(output_path, index=False)
     return retrieval_results.groupby(['judgement', 'name'])['ndcg@10'].mean().values[0]
 
