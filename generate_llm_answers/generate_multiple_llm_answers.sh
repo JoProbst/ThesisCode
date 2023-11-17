@@ -1,12 +1,10 @@
 #!/bin/bash
 
-# Define LLM identifiers
-llm_identifiers=("bert-base-uncased" "roberta-base" "roberta-large" "distilbert-base-uncased" "distilbert-large-uncased")
+llm_identifiers=("gpt2" "gpt2-medium" "gpt2-large" "gpt2-xl" "tiiuae/falcon-7b-instruct" "meta-llama/Llama-2-7b-chat-hf" "meta-llama/Llama-2-13b-chat-hf")
 
 # Define prompts
-prompts=("Q: <query>\nA:" "Question: <query>\nAnswer:" "You are a helpful medical knowledge assistant. Provide useful, complete, and scientifically-grounded answers to common consumer search queries about health.\nQuestion: <query>\nComplete Answer:")
-promp_identifiers=("q" "question" "multimedqa")
-
+prompts=("" "Q: <query>\nA:" "Question: <query>\nAnswer:" "You are a helpful medical knowledge assistant. Provide useful, complete, and scientifically-grounded answers to common consumer search queries about health.\nQuestion: <query>\nComplete Answer:")
+promp_identifiers=("no_prompt" "q" "question" "multimedqa")
 # topics file path
 topics_path="./topics.txt"
 
@@ -31,6 +29,6 @@ for llm_identifier in "${llm_identifiers[@]}"; do
         pre_prompt_identifier="${promp_identifiers[$i]}"
         echo "Generating answers for LLM $llm_identifier with pre-prompt $pre_prompt_identifier"
         echo "Pre-prompt text: $pre_prompt_text"
-        python generate_llm_answers.py "$llm_identifier" "$pre_prompt_text" "$pre_prompt_identifier" "$num_answers" --topics_path "$topics_path" --output_dir "$output_dir" --model_params "$model_params"
+        python3 generate_llm_answers.py "$llm_identifier" "$pre_prompt_text" "$pre_prompt_identifier" "$num_answers" --topics_path "$topics_path" --output_dir "$output_dir" --model_params "$model_params"
     done
 done
