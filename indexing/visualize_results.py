@@ -7,7 +7,6 @@ files = glob.glob('results/*scores.csv')
 print(files)
 # Create an empty DataFrame
 df = pd.DataFrame()
-
 # Loop over the files
 for file in files:
     # Read the CSV file
@@ -15,7 +14,8 @@ for file in files:
     # Concatenate the DataFrames
     df = pd.concat([df, df_file], ignore_index=True)
 
-print(df['name'].unique())
+df['is_baseline'] = df['name'].str.contains('DPH|TF_IDF')
+print(df)
 # Filter the dataframe for each judgement
 for judgement in df['judgement'].unique():
     df_judgement = df[df['judgement'] == judgement]
@@ -36,3 +36,9 @@ for judgement in df['judgement'].unique():
     # Show the plot
     plt.tight_layout()
     plt.savefig(f'results/{judgement}.png')
+
+# create table with only ndcg@10, new index on name, columns on judgement, values on ndcg@10
+ndcg_df = df[['judgement', 'name', 'ndcg@10']].pivot(index='name', columns='judgement', values='ndcg@10')
+# round scores to 3 decimals
+ndcg_df = ndcg_df.round(3)
+ndcg_df.to_csv('results/ndcg.csv')
