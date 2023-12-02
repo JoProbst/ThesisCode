@@ -1,0 +1,986 @@
+,docno,text,qid,query,score,rank,prompt,answer_number,weighted_position,num_answer_words,num_matching_words,model,is_natural_question,query_prompt
+2788,chatgpt_117,"The outcome of stage 4 metastatic lung cancer can vary greatly depending on several factors, including the overall health of the patient, the specific characteristics of the cancer, and the effectiveness of the treatment. In general, stage 4 metastatic lung cancer is considered advanced and has a poor prognosis. The five-year survival rate for stage 4 lung cancer is typically less than 10%. However, it is important to remember that every individual is unique, and some patients may respond better to treatment and have a more favorable outcome. It is essential for patients to discuss their specific situation and treatment options with their medical team.",117,stage 4 metastatic lung cancer outcome,-0.001805224805139,0,question,6,0.0,105,15,ChatGPT,False,"question
+(query)"
+2787,chatgpt_81,"Yes, it is possible to work and study full-time with multiple sclerosis (MS). However, it can be challenging due to the potential impact of MS on physical and cognitive abilities. It is important to find a balance that works for you and to make necessary accommodations and adjustments in order to manage your symptoms effectively. This may involve working with your employer or educational institution to implement reasonable accommodations such as flexible work hours, reduced workload, or access to assistive technology. Additionally, it is important to prioritize self-care and to communicate openly with your support network about your needs and limitations. It may also be helpful to seek guidance from healthcare professionals or support groups who specialize in MS to develop strategies for managing work and study responsibilities effectively.",81,Can I work and study full-time with multiple sclerosis?,-0.0018255725735798,0,question,6,0.0,129,18,ChatGPT,True,"question
+(question)"
+2786,chatgpt_105,"Wisdom tooth cutting into the gum can cause pain and discomfort. It is common for wisdom teeth to become impacted or partially erupt, leading to inflammation and irritation of the surrounding gum tissues. This can result in pain, swelling, tenderness, and difficulty in opening the mouth fully. In some cases, the impacted wisdom tooth may also cause infection or damage to nearby teeth. If you are experiencing pain due to a wisdom tooth cutting into the gum, it is advisable to consult with a dentist or oral surgeon for evaluation and appropriate treatment. They may recommend extraction of the impacted tooth to alleviate the pain and prevent further complications.",105,wisdom tooth cuts gum pain,-0.0062511865980923,0,question,6,0.0,109,13,ChatGPT,False,"question
+(query)"
+2784,chatgpt_112,"Symptoms of asthma can vary from person to person, but some common symptoms include:
+
+1. Shortness of breath: Feeling like you can't catch your breath or struggling to breathe.
+
+2. Wheezing: A whistling or squeaky sound when you breathe, especially during exhaling.
+
+3. Chest tightness: A feeling of pressure or discomfort in the chest.
+
+4. Coughing: A persistent cough, especially at night or early in the morning.
+
+5. Difficulty sleeping: Waking up due to coughing, wheezing, or shortness of breath.
+
+6. Fatigue: Feeling tired or exhausted due to the extra effort required to breathe.
+
+7. Rapid breathing: Breathing faster than normal, also known as tachypnea.
+
+8. Anxiety and panic: Feeling anxious or panicked due to difficulty breathing.
+
+It's important to note that these symptoms can range from mild to severe and can be triggered by various factors such as allergens, exercise, cold air, respiratory infections, and stress. If you suspect you have asthma or experience these symptoms, it is essential to consult a healthcare professional for a proper diagnosis and treatment plan.",112,symptoms of asthma,-0.0348024778068065,0,question,6,0.0,172,9,ChatGPT,False,"question
+(query)"
+2783,chatgpt_83,"There are several reasons why it is important to have an episode of multiple sclerosis (MS) diagnosed by a doctor as a relapse:
+
+1. Accurate diagnosis: A relapse is defined as the occurrence of new or worsening symptoms lasting for at least 24 hours, at least 30 days after a previous relapse. A doctor's diagnosis ensures that the symptoms being experienced are indeed a relapse of MS and not due to other underlying conditions.
+
+2. Treatment planning: Proper diagnosis by a doctor allows for appropriate treatment planning. Different treatment options may be available depending on the severity and duration of the relapse. This can help manage symptoms, shorten the duration of the relapse, and potentially slow down disease progression.
+
+3. Monitoring disease progression: Tracking relapses and their frequency is important for monitoring disease progression in MS. By having a doctor diagnose and document relapses, they can assess the overall course of the disease and determine if any adjustments to the treatment plan are necessary.
+
+4. Ruling out other causes: MS symptoms can sometimes overlap with other conditions, making an accurate diagnosis challenging. A doctor's evaluation can help rule out other potential causes for the symptoms, ensuring that appropriate treatment is provided.
+
+5. Access to specialized care: Having an MS relapse diagnosed by a doctor can facilitate referral to specialists, such as neurologists or MS clinics, who have expertise in managing the disease. These specialists can provide comprehensive care and guidance specific to MS, improving overall management and outcomes.
+
+Overall, getting an episode diagnosed by a doctor as a relapse of multiple sclerosis is important for accurate diagnosis, appropriate treatment planning, monitoring disease progression, ruling out other causes, and accessing specialized care.",83,Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?,-0.0023374636657536,0,question,6,0.0,281,57,ChatGPT,True,"question
+(question)"
+2782,chatgpt_98,"Some of the most common complications in pregnancy include:
+
+1. Gestational diabetes: This is a condition where blood sugar levels become elevated during pregnancy, which can increase the risk of complications for both the mother and baby.
+
+2. Pre-eclampsia: This is a condition characterized by high blood pressure and damage to organs, such as the liver and kidneys. It typically occurs after 20 weeks of pregnancy and can lead to complications such as premature birth and low birth weight.
+
+3. Miscarriage: This refers to the loss of a pregnancy before the 20th week. It is estimated that about 10-20% of known pregnancies end in miscarriage.
+
+4. Preterm labor: This is when a woman goes into labor before 37 weeks of pregnancy. Babies born prematurely may face health problems and require special care.
+
+5. Placenta previa: This occurs when the placenta partially or completely covers the cervix, which can lead to bleeding during the second or third trimester.
+
+6. Placental abruption: This is a condition where the placenta separates from the uterine wall before delivery, which can cause heavy bleeding and can be life-threatening for both the mother and baby.
+
+7. Infections: Certain infections, such as urinary tract infections or sexually transmitted infections, can pose risks to both the mother and baby if left untreated.
+
+8. Anemia: This is a condition characterized by low levels of red blood cells, which can lead to fatigue, weakness, and increased risk of complications during pregnancy and childbirth.
+
+It is important for pregnant women to receive regular prenatal care and consult with their healthcare provider to monitor and manage any potential complications.",98,most common complications in pregnancy,-0.0123852435499429,0,question,6,0.0,267,12,ChatGPT,False,"question
+(query)"
+2781,chatgpt_102,"Eczema is a common skin condition that can occur randomly and without any specific trigger. It is often caused by a combination of genetic and environmental factors. If you have recently developed eczema, it is important to keep your skin moisturized, avoid irritants or allergens that may worsen the condition, and consult a dermatologist for proper diagnosis and treatment options.",102,randomly gotten eczema,-0.0180959925055503,0,question,6,0.0,60,2,ChatGPT,False,"question
+(query)"
+2780,chatgpt_54,"A multiple sclerosis (MS) diagnosis typically includes a variety of tests and evaluations. These may include a thorough medical history, neurological examination, magnetic resonance imaging (MRI) scans of the brain and spinal cord, analysis of cerebrospinal fluid, and other tests to rule out other possible conditions.
+
+When someone is diagnosed with MS, it can have a significant impact on their life and the way they live. MS is a chronic autoimmune disease that affects the central nervous system, leading to various symptoms such as fatigue, difficulty walking, muscle weakness, numbness or tingling, problems with coordination and balance, vision problems, and cognitive changes.
+
+MS can affect a person's physical abilities, mobility, and overall quality of life. It may require lifestyle modifications, including changes in diet, exercise, and medication management. Additionally, individuals with MS may experience emotional and psychological changes, as they navigate the challenges and uncertainties that come with this condition. Support from healthcare professionals, family, and friends is crucial in managing the physical, emotional, and social aspects of living with MS.",54,What does multiple sclerosis diagnosis include? What does it change?,-0.0049880114383995,0,question,6,0.0,171,5,ChatGPT,True,"question
+(question)"
+2779,chatgpt_101,"There are several potential causes for heavy flares and swollen lymph nodes. Here are a few possibilities:
+
+1. Infection: Infections can cause inflammation and swelling of lymph nodes. This could include bacterial, viral, or fungal infections. Common examples include strep throat, ear infections, or flu.
+
+2. Autoimmune diseases: Certain autoimmune diseases, such as lupus or rheumatoid arthritis, can cause flares and swollen lymph nodes. These conditions occur when the immune system mistakenly attacks healthy tissues.
+
+3. Cancer: In some cases, swollen lymph nodes can be a sign of cancer, such as lymphoma or leukemia. However, it's important to note that swollen lymph nodes are more commonly caused by infections rather than cancer.
+
+4. Allergic reactions: Severe allergic reactions can cause flares and swelling in various parts of the body, including the lymph nodes.
+
+If you are experiencing heavy flares and swollen lymph nodes, it's important to consult with a healthcare provider to determine the underlying cause and receive appropriate treatment. They may perform a physical examination, order laboratory tests, or recommend imaging studies to help with the diagnosis.",101,heavy flares swelling lymph nodes,-0.0044145751744508,0,question,6,0.0,178,17,ChatGPT,False,"question
+(query)"
+2778,chatgpt_57,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It is characterized by the destruction of the protective covering of nerve fibers, called myelin, which disrupts the communication between the brain and the rest of the body. MS progresses differently in each individual, and the symptoms and stages can vary.
+
+However, generally, multiple sclerosis can be classified into four main stages or phases:
+
+1. Relapsing-Remitting MS (RRMS): This is the most common form of MS, affecting about 85% of people with the condition. It is characterized by episodes of relapses or exacerbations, during which new symptoms appear or existing ones worsen. These relapses are followed by periods of partial or complete recovery, known as remissions.
+
+2. Secondary Progressive MS (SPMS): After several years of having RRMS, some individuals may transition to SPMS. In this stage, there is a progressive worsening of symptoms and disability, with or without relapses. Remissions may become less frequent, and the disease begins to progress steadily.
+
+3. Primary Progressive MS (PPMS): Unlike RRMS, PPMS is characterized by a gradual and steady progression of symptoms from the beginning, without distinct relapses and remissions. This form of MS affects around 10-15% of people with MS.
+
+4. Progressive-Relapsing MS (PRMS): This is the rarest form of MS, affecting only a small percentage of individuals. It is characterized by a steady progression of symptoms from the beginning, with occasional relapses or exacerbations that may or may not result in some degree of recovery.
+
+It's important to note that not all individuals will experience every stage, and the progression of MS can vary widely from person to person. Additionally, there are various disease-modifying treatments available that can help manage symptoms and slow down the progression of the disease. It is crucial for individuals with MS to work closely with their healthcare team to develop a personalized treatment plan.",57,multiple sclerosis stages phases,-0.0137595245614647,0,question,6,0.0,312,6,ChatGPT,False,"question
+(query)"
+2777,chatgpt_119,"The best pillow for neck pain will vary depending on individual preferences and needs. However, there are a few factors to consider when choosing a pillow for neck pain:
+
+1. Support: Look for a pillow that provides proper support for your neck and keeps your spine aligned. Memory foam pillows or ones with adjustable fillings can be good options as they contour to the shape of your head and neck.
+
+2. Height: The height of the pillow is important as it should keep your neck in a neutral position. Side sleepers may need a thicker pillow to fill the gap between the shoulder and neck, while back sleepers may require a thinner pillow to avoid straining the neck.
+
+3. Material: Opt for a pillow made of hypoallergenic materials to minimize the chances of triggering allergies. Additionally, pillows with cooling properties can help regulate temperature and prevent overheating during sleep.
+
+4. Trial period: Look for pillows that offer a trial period, allowing you to test the pillow and return it if it doesn't provide the desired comfort and relief.
+
+Remember, what works for one person may not work for another, so it may be necessary to try a few different pillows before finding the best one for your neck pain. Consulting with a healthcare professional can also provide personalized recommendations.",119,best pillow neck pain,-0.0021849824115633,0,question,6,0.0,219,16,ChatGPT,False,"question
+(query)"
+2776,chatgpt_52,"The most common mental health problems are anxiety disorders, mood disorders (such as depression or bipolar disorder), and substance use disorders. Here are some strategies to prevent or manage these common mental health problems:
+
+1. Maintain a healthy lifestyle: Engage in regular physical exercise, eat a balanced diet, get enough sleep, and avoid smoking, excessive alcohol consumption, and drug use. These lifestyle factors can greatly impact your mental health.
+
+2. Manage stress: Learn effective stress management techniques such as deep breathing exercises, meditation, or engaging in activities you enjoy. Regularly practicing stress management can help prevent the development of mental health problems.
+
+3. Build a strong support system: Cultivate positive relationships with family and friends who can provide emotional support and understanding. Social connections play a crucial role in mental well-being.
+
+4. Seek professional help: If you notice persistent signs of mental health problems, consult a mental health professional such as a therapist or psychiatrist. Early intervention and treatment can prevent the conditions from worsening.
+
+5. Practice self-care: Prioritize your own self-care by engaging in activities that promote relaxation, self-reflection, and self-expression. This can include hobbies, creative outlets, or engaging in activities that bring you joy and fulfillment.
+
+6. Monitor and manage your thoughts: Be aware of negative or distorted thinking patterns and practice cognitive-behavioral techniques to challenge and reframe these thoughts. Developing healthy thinking patterns can contribute to better mental health.
+
+7. Limit exposure to stressors: Identify and minimize exposure to situations or environments that consistently cause stress or trigger mental health symptoms. This may involve setting boundaries, seeking support, or making necessary lifestyle changes.
+
+Remember, mental health problems can vary greatly from person to person, and it is important to consult with a mental health professional for personalized advice and treatment.",52,What are the most common mental health problems? How can I prevent or manage the most common mental health problems?,-0.0044818664900958,0,question,6,0.0,293,74,ChatGPT,True,"question
+(question)"
+2775,chatgpt_79,"Multiple sclerosis (MS) is not directly inherited, but there is a genetic component to the disease. Having a family member with MS does slightly increase the risk of developing the condition compared to the general population. However, the overall risk of inheriting MS is still relatively low. It is important to note that the exact cause of MS is not fully understood and likely involves a combination of genetic and environmental factors.",79,Can I pass multiple sclerosis to other family members?,-0.0209274515509605,0,question,6,0.0,72,6,ChatGPT,True,"question
+(question)"
+2801,chatgpt_95,"MS, or multiple sclerosis, can cause various symptoms that can affect reading ability. These may include:
+
+1. Visual disturbances: MS can cause problems with vision, such as blurred or double vision, reduced contrast sensitivity, or difficulty focusing. These visual impairments can make it challenging to read text accurately.
+
+2. Cognitive difficulties: MS can affect cognitive function, including attention, concentration, and processing speed. These cognitive impairments can make it harder to sustain focus while reading or to comprehend and remember the information.
+
+3. Fatigue: Fatigue is a common symptom of MS, and it can make reading tiring and mentally draining. Individuals with MS may find it difficult to concentrate and retain information due to excessive tiredness.
+
+4. Physical limitations: MS can cause muscle weakness, tremors, or coordination problems, which can make it challenging to hold a book or turn the pages. These physical limitations can make reading physically uncomfortable or inefficient.
+
+5. Optic neuritis: Optic neuritis is inflammation of the optic nerve, which can occur in MS. It can cause pain, blurred vision, or blind spots, making reading difficult or painful.
+
+If someone with MS is experiencing reading problems, it is essential to consult with healthcare professionals, such as neurologists or occupational therapists, who can provide appropriate interventions, accommodations, or strategies to improve reading ability.",95,Reading problems in MS,-0.0054117371328175,0,question,7,0.0,214,14,ChatGPT,False,"question
+(query)"
+2803,chatgpt_72,"Yes, the Covid-19 vaccine is generally considered safe for people taking multiple sclerosis (MS) drugs. The available Covid-19 vaccines, such as Pfizer-BioNTech, Moderna, and Johnson & Johnson, have been extensively tested and approved for emergency use by regulatory authorities. However, it is recommended that individuals with MS consult with their healthcare provider to discuss any specific concerns or considerations related to their medications and the vaccine.",72,Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?,-0.0014354411978274,0,question,7,0.0,66,15,ChatGPT,True,"question
+(question)"
+2713,chatgpt_132,"Headpats can provide temporary relief for scalp psoriasis by gently massaging the affected area and helping to loosen any scales or flakes. However, it is important to note that scalp psoriasis is a chronic condition and requires ongoing treatment to effectively manage symptoms. Consulting with a dermatologist is recommended for a proper diagnosis and tailored treatment plan.",132,headpats scalp psoriasis,-0.0043039550073444,0,question,5,0.0,57,5,ChatGPT,False,"question
+(query)"
+2804,chatgpt_53,"Psychotherapy refers to the process of treating mental disorders or emotional distress through psychological means. It involves a professional therapist or counselor working with an individual or group to explore and understand their thoughts, feelings, and behaviors. The goal of psychotherapy is to help individuals develop healthier coping mechanisms, improve their mental well-being, and address specific issues or challenges they may be facing. It can be conducted through various approaches, such as cognitive-behavioral therapy, psychoanalysis, or humanistic therapy, among others.",53,what is psychotherapy?,-0.0251066535711288,0,question,7,0.0,80,1,ChatGPT,True,"question
+(question)"
+2832,chatgpt_98,"Some of the most common complications in pregnancy include:
+
+1. Gestational diabetes: This is a type of diabetes that develops during pregnancy and can affect both the mother and the baby.
+
+2. Pre-eclampsia: This condition is characterized by high blood pressure and damage to organs such as the liver and kidneys. It usually occurs after 20 weeks of pregnancy and can be life-threatening if left untreated.
+
+3. Miscarriage: This refers to the loss of a pregnancy before the 20th week. It can be caused by various factors, including genetic abnormalities, hormonal issues, or maternal health conditions.
+
+4. Preterm labor: This is when a woman goes into labor before 37 weeks of pregnancy. Preterm babies may have health issues and require specialized care.
+
+5. Placenta previa: This occurs when the placenta partially or completely covers the cervix, blocking the baby's path for delivery. It can cause bleeding during pregnancy and may require a cesarean delivery.
+
+6. Placental abruption: This is the separation of the placenta from the uterus before the baby is born. It can cause heavy bleeding and jeopardize the baby's oxygen and nutrient supply.
+
+7. Intrauterine growth restriction (IUGR): This refers to a condition where the baby doesn't grow at a normal rate inside the womb. It can occur due to various reasons, such as maternal health issues, placental problems, or fetal abnormalities.
+
+8. Ectopic pregnancy: This is when a fertilized egg implants and grows outside the uterus, usually in the fallopian tube. It is not a viable pregnancy and can lead to a medical emergency if not treated promptly.
+
+9. Postpartum depression: This is a mood disorder that can occur after childbirth, characterized by feelings of sadness, anxiety, and exhaustion. It is important to seek support and treatment for postpartum depression.
+
+It is essential for pregnant individuals to receive regular prenatal care to monitor their health and promptly identify and manage any complications that may arise.",98,most common complications in pregnancy,-0.0168161690235137,0,question,7,0.0,318,12,ChatGPT,False,"question
+(query)"
+2831,chatgpt_102,"I'm sorry to hear that you have randomly developed eczema. Eczema is a chronic skin condition that can cause redness, itching, and inflammation. It can occur for various reasons such as genetic factors, environmental triggers, or a compromised immune system. It's important to consult with a dermatologist for an accurate diagnosis and appropriate treatment options. They may recommend moisturizers, topical steroids, antihistamines, or other medications depending on the severity of your symptoms. Additionally, identifying and avoiding triggers such as certain soaps, detergents, or allergens can help manage and prevent flare-ups.",102,randomly gotten eczema,-0.010177619755268,0,question,7,0.0,90,2,ChatGPT,False,"question
+(query)"
+2830,chatgpt_54,"A multiple sclerosis (MS) diagnosis includes a thorough evaluation of a person's medical history, physical examination, and various diagnostic tests. These tests may include magnetic resonance imaging (MRI) scans, blood tests, lumbar puncture (spinal tap), and evoked potentials.
+
+Once diagnosed with MS, it often brings significant changes to a person's life. Some of the changes may include physical symptoms such as muscle weakness, coordination problems, fatigue, numbness or tingling, difficulty walking, and problems with balance. MS can also lead to cognitive changes, including difficulties with memory, attention, and problem-solving. Additionally, emotional changes such as depression and anxiety are common in individuals with MS.
+
+The diagnosis can also bring about changes in daily life, including adjustments to work or school routines, changes in relationships, and the need for regular medical appointments and treatments. It may also require making accommodations and modifications to living environments to ensure accessibility and safety.
+
+It is important for individuals diagnosed with MS to work closely with healthcare professionals, including neurologists and other specialists, to manage symptoms, develop a treatment plan, and make necessary lifestyle adjustments.",54,What does multiple sclerosis diagnosis include? What does it change?,-0.0028389885555952,0,question,7,0.0,179,7,ChatGPT,True,"question
+(question)"
+2829,chatgpt_101,"There are several possible reasons why heavy flares may cause swelling of the lymph nodes. 
+
+One possibility is that the inflammation and immune response associated with the flares can lead to increased activity and enlargement of the lymph nodes. The lymph nodes are part of the body's immune system and act as filters for harmful substances and cells. When there is an infection or inflammation in the body, the lymph nodes may become swollen as they work to fight off the infection or respond to the inflammation.
+
+Another possibility is that the heavy flares may be a sign of an underlying condition that is causing both the flares and the swollen lymph nodes. Some examples of conditions that can cause both symptoms include autoimmune disorders like rheumatoid arthritis or lupus, viral infections like mononucleosis or HIV, or certain types of cancer such as lymphoma.
+
+It is important to consult a healthcare professional if you are experiencing heavy flares and swollen lymph nodes, as they can help determine the underlying cause and provide appropriate treatment.",101,heavy flares swelling lymph nodes,-0.0030639867763966,0,question,7,0.0,174,17,ChatGPT,False,"question
+(query)"
+2828,chatgpt_57,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It can progress through different stages or phases over time. However, it is important to note that the course of MS can vary greatly among individuals, and not everyone will experience the same stages or progress through them in the same order. 
+
+The most commonly recognized stages or phases of MS include:
+
+1. Relapsing-remitting MS (RRMS): This is the most common form of MS and is characterized by unpredictable relapses or flare-ups of new or worsening symptoms, followed by periods of partial or complete recovery (remission) where symptoms improve or disappear.
+
+2. Secondary progressive MS (SPMS): After several years of relapsing-remitting MS, some individuals may transition to a secondary progressive phase. In this stage, there is a progressive accumulation of disability and fewer or no relapses or remissions.
+
+3. Primary progressive MS (PPMS): This form of MS is less common than RRMS and SPMS. PPMS is characterized by a gradual progression of symptoms and disability from the onset of the disease, without distinct relapses or remissions.
+
+4. Progressive-relapsing MS (PRMS): This is the least common form of MS, characterized by a steady progression of symptoms from the beginning, with occasional relapses and periods of remission.
+
+It is important to remember that these stages or phases are not always clearly defined, and individuals with MS may experience a combination of symptoms from different stages at any given time. Additionally, treatment options and disease-modifying therapies can help manage symptoms and potentially slow down the progression of the disease. It is recommended to consult with a healthcare professional for a personalized understanding of the stages and treatment options for multiple sclerosis.",57,multiple sclerosis stages phases,-0.0095520121976733,0,question,7,0.0,282,12,ChatGPT,False,"question
+(query)"
+2827,chatgpt_119,"The best pillow for neck pain is typically one that provides proper support and alignment for the neck and spine. Some options to consider include:
+
+1. Memory foam pillow: Memory foam contours to the shape of your head and neck, providing excellent support and relieving pressure points.
+
+2. Cervical pillow: These pillows are specially designed to support the natural curvature of the neck. They usually have a dip in the center to cradle your head and support the neck.
+
+3. Buckwheat pillow: Buckwheat pillows are filled with buckwheat hulls that can be adjusted to conform to your neck and head shape. They provide good support and airflow.
+
+4. Latex pillow: Latex pillows are known for their excellent support and durability. They provide a comfortable and responsive surface that can help alleviate neck pain.
+
+It's important to choose a pillow that suits your personal preferences and sleeping position, as well as consult with a healthcare professional for personalized advice.",119,best pillow neck pain,-0.0017051455797627,0,question,7,0.0,158,8,ChatGPT,False,"question
+(query)"
+2826,chatgpt_52,"The most common mental health problems include anxiety disorders, depression, bipolar disorder, schizophrenia, and obsessive-compulsive disorder (OCD). While it may not be possible to prevent all mental health problems, there are steps you can take to manage and reduce their impact on your life:
+
+1. Maintain a healthy lifestyle: Engage in regular exercise, eat a balanced diet, and ensure you get enough sleep. Taking care of your physical health can positively impact your mental well-being.
+
+2. Seek support: Build a support system of friends, family, or a therapist. Talking about your feelings and concerns can help alleviate stress and provide perspective.
+
+3. Manage stress: Practice stress-management techniques such as deep breathing exercises, meditation, or mindfulness. Engaging in activities you enjoy, like hobbies or spending time in nature, can also help reduce stress.
+
+4. Practice self-care: Prioritize self-care activities, such as engaging in hobbies, taking breaks, setting boundaries, and practicing self-compassion. Taking time for yourself and engaging in activities that bring you joy can improve your mental well-being.
+
+5. Avoid substance abuse: Substance abuse can worsen or trigger mental health problems. Avoid excessive alcohol or drug consumption and seek help if you have difficulties with substance abuse.
+
+6. Stay connected: Maintain social connections and build a strong support system. Engage in activities that help you connect with others, such as joining clubs or organizations or participating in community events.
+
+7. Seek professional help: If you experience persistent or worsening symptoms of mental health problems, do not hesitate to seek professional help. Mental health professionals, such as therapists or psychiatrists, can provide appropriate treatment and support.
+
+Remember, everyone's experience with mental health problems is unique, and it is important to find strategies that work best for you. If you or someone you know is struggling with mental health issues, reach out to a healthcare professional or helpline for assistance and guidance.",52,What are the most common mental health problems? How can I prevent or manage the most common mental health problems?,-0.0052712266333401,0,question,7,0.0,309,62,ChatGPT,True,"question
+(question)"
+2825,chatgpt_79,"No, multiple sclerosis (MS) is not directly passed on to family members. While there is a genetic component to MS, it is not solely determined by genetics. Research suggests that a combination of genetic and environmental factors contribute to the development of MS. Having a family member with MS may increase your risk of developing the disease, but it does not guarantee that you will develop it.",79,Can I pass multiple sclerosis to other family members?,-0.0021689240820705,0,question,7,0.0,67,7,ChatGPT,True,"question
+(question)"
+2824,chatgpt_93,"Yes, multiple sclerosis (MS) can be associated with sleeping problems and forgetfulness in older individuals. MS is a chronic neurological disease that affects the central nervous system and can cause a wide range of symptoms. Sleep disturbances, such as insomnia or excessive daytime sleepiness, can occur in people with MS. Additionally, cognitive impairments, including forgetfulness, difficulty concentrating, and problems with memory, can also be experienced by individuals with MS, particularly as the disease progresses. These symptoms can impact the quality of life and overall functioning of older people with MS.",93,Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?,-0.0018588898237794,0,question,7,0.0,90,14,ChatGPT,True,"question
+(question)"
+2822,chatgpt_108,"These symptoms may indicate the presence of dysautonomia, a disorder that affects the autonomic nervous system. Dysautonomia can result in various symptoms, including chronic diarrhea, short-term memory problems, excessive sweating, difficulty regulating body temperature, and heart palpitations. It is important to consult a healthcare professional for a proper diagnosis and appropriate treatment options.",108,chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia,-0.0111982887610793,0,question,7,0.0,53,7,ChatGPT,False,"question
+(query)"
+2820,chatgpt_77,"Menopause and multiple sclerosis (MS) are two separate conditions that can sometimes have overlapping symptoms. Menopause is a natural biological process that occurs in women typically around the age of 45 to 55, where the reproductive hormones decline and menstruation stops. MS, on the other hand, is a chronic autoimmune disease that affects the central nervous system.
+
+While menopause does not cause MS, the hormonal changes that occur during menopause can sometimes worsen certain MS symptoms. This is because estrogen, a hormone that decreases during menopause, is known to have a protective effect on the nervous system. When estrogen levels drop, it can potentially lead to an increase in MS symptoms such as fatigue, cognitive difficulties, depression, and mood swings.
+
+Additionally, some menopause symptoms, such as hot flashes and night sweats, can be similar to symptoms experienced by individuals with MS, which can make it challenging to differentiate between the two conditions. However, it's important to note that these symptoms can also occur independently in women without MS.
+
+Managing menopause symptoms in women with MS often involves a combination of strategies, including hormone replacement therapy (HRT) to alleviate menopausal symptoms, as well as symptom management strategies specific to MS, such as medication, physical therapy, and lifestyle modifications. It is crucial for women experiencing both menopause and MS symptoms to consult with their healthcare provider for personalized advice and treatment options.",77,How do menopause symptoms relate to multiple sclerosis symptoms?,-0.0169053692370653,0,question,7,0.0,230,23,ChatGPT,True,"question
+(question)"
+2819,chatgpt_92,"Fatigue is a common symptom experienced by people with multiple sclerosis (MS), and it can have various causes. Some possible causes of fatigue in MS include:
+
+1. Neurological damage: MS is a disease that affects the central nervous system, including the brain and spinal cord. The damage to the nerves can disrupt the normal functioning of the body, leading to fatigue.
+
+2. Inflammation: In MS, the immune system mistakenly attacks the protective covering of nerve fibers, known as myelin. This immune response causes inflammation, which can contribute to fatigue.
+
+3. Reduced nerve conduction: The damage to the myelin can slow down or block the transmission of nerve signals. This can result in decreased energy levels and increased fatigue.
+
+4. Muscle weakness: MS can lead to muscle weakness or spasticity, making it more difficult to perform everyday tasks. The extra effort required to move can result in fatigue.
+
+5. Heat sensitivity: Many individuals with MS are sensitive to heat, and exposure to high temperatures can worsen fatigue. Heat can cause the nerve signals to slow down, leading to increased fatigue levels.
+
+6. Sleep disturbances: MS can cause sleep problems, such as insomnia, frequent awakenings, or sleep apnea. These sleep disturbances can contribute to fatigue during the day.
+
+7. Depression and anxiety: MS is often associated with mood disorders like depression and anxiety, which can both cause fatigue. The emotional burden of living with a chronic illness can also contribute to feelings of fatigue.
+
+It is important for individuals with MS to work with their healthcare team to identify and manage the underlying causes of fatigue. This may involve lifestyle modifications, physical therapy, medications, and other interventions to help manage fatigue and improve overall quality of life.",92,causes of fatigue in MS,-0.0043073976412415,0,question,7,0.0,285,27,ChatGPT,False,"question
+(query)"
+2818,chatgpt_35,"A ketogenic diet may be suitable for people with diabetes, but it is important to consult with a healthcare professional before starting any new diet. The ketogenic diet involves consuming a high amount of fats, a moderate amount of proteins, and a very low amount of carbohydrates, which can result in a state of ketosis where the body uses fat for fuel instead of carbohydrates. This can be beneficial for managing blood sugar levels and insulin resistance in some individuals with diabetes. However, it is important to monitor blood sugar levels closely and adjust medication doses as necessary, as the ketogenic diet can cause changes in blood sugar levels. Additionally, there may be certain considerations for people with diabetes, such as the need for adequate hydration and electrolyte balance. Working with a healthcare professional can help ensure that the ketogenic diet is safe and appropriate for individual needs and goals.",35,Is a ketogenic / keto diet suitable for people with diabetes?,-0.0061395852826535,0,question,7,0.0,150,32,ChatGPT,True,"question
+(question)"
+2817,chatgpt_131,"1. Wall angels: Stand with your back against a wall and your feet about six inches away. Raise your arms up, bending at the elbows to form a 90-degree angle. Slowly slide your arms up and down the wall while keeping your back flat against it. This exercise helps to strengthen the muscles in your upper back and shoulders, promoting better posture.
+
+2. Plank: Start in a push-up position, with your hands directly under your shoulders and your toes tucked under. Engage your core and hold this position for 30 seconds to 1 minute. Planks help to strengthen your core muscles, which support proper posture.
+
+3. Cat-Cow stretch: Begin on your hands and knees, with your hands under your shoulders and your knees under your hips. Inhale and arch your back, dropping your belly towards the floor, and look up towards the ceiling (cow position). Exhale and round your back, tucking your chin towards your chest (cat position). Repeat this movement for 10-15 repetitions to improve spinal mobility and promote a neutral spine.
+
+4. Shoulder blade squeeze: Sit or stand with your arms by your sides. Imagine squeezing your shoulder blades together and hold for 5-10 seconds. Release and repeat 10 times. This exercise helps to strengthen the muscles between your shoulder blades, which can improve posture.
+
+5. Chin tucks: Sit or stand with your shoulders relaxed. Gently tuck your chin towards your chest, creating a double chin. Hold for 5-10 seconds and repeat 10 times. Chin tucks help to stretch and strengthen the muscles in the neck and upper back, promoting better alignment.
+
+Remember, consistency is key when it comes to improving posture. Aim to incorporate these exercises into your daily routine and be mindful of your posture throughout the day.",131,exercises for better posture,-0.0053000417537987,0,question,7,0.0,292,8,ChatGPT,False,"question
+(query)"
+2816,chatgpt_63,"Multiple sclerosis (MS) can potentially affect your career, but the impact will vary depending on the severity of your symptoms and how well you are able to manage them. MS is a chronic condition that affects the central nervous system, leading to various symptoms such as fatigue, difficulty with mobility, cognitive changes, and more. These symptoms can impact your ability to work and may require accommodations or adjustments to your job responsibilities.
+
+However, it is important to note that many individuals with MS are able to continue working and have successful careers with the right support and accommodations. Making lifestyle changes, managing symptoms with medication, and seeking support from healthcare professionals can help you maintain your career while living with MS.
+
+Additionally, some countries have laws in place to protect individuals with disabilities, including MS, from workplace discrimination. These laws may require employers to provide reasonable accommodations to ensure equal opportunities for individuals with MS in the workplace.
+
+It is recommended to have open and honest communication with your employer about your condition and any limitations or adjustments you may need. Working closely with your healthcare team and exploring resources available to support individuals with MS in the workplace can also be beneficial.",63,Will multiple sclerosis affect my career?,-0.0029358640313148,0,question,7,0.0,203,4,ChatGPT,True,"question
+(question)"
+2815,chatgpt_86,"Secondary progressive multiple sclerosis (SPMS) is a stage in the course of multiple sclerosis (MS) that follows the relapsing-remitting stage. In SPMS, there is a gradual worsening of symptoms and disability over time, with or without occasional relapses and remissions. Unlike relapsing-remitting MS, there is typically less recovery between relapses and a more steady progression of disability. SPMS can occur in individuals who initially had relapsing-remitting MS or it can be the initial presentation of the disease. The exact cause of SPMS is not fully understood, but it is thought to involve a combination of inflammatory processes and neurodegeneration. Treatment options for SPMS include disease-modifying therapies, symptom management, and rehabilitation strategies, although there is currently no cure for the condition.",86,Secondary progressive multiple sclerosis,-0.0054571465589106,0,question,7,0.0,120,6,ChatGPT,False,"question
+(query)"
+2814,chatgpt_68,"There are several symptoms associated with multiple sclerosis (MS). It's important to note that the symptoms can vary widely from person to person, and they may also change over time. Here is a list of common symptoms:
+
+1. Fatigue: This is one of the most common symptoms of MS, and it can be overwhelming and debilitating.
+
+2. Numbness or tingling: Many people with MS experience a sensation of numbness or tingling in different parts of their body, often in the limbs.
+
+3. Weakness: MS can cause muscle weakness, making it difficult to perform daily activities.
+
+4. Problems with coordination and balance: Many individuals with MS experience difficulties with balance, coordination, and walking.
+
+5. Muscle spasms and stiffness: MS can cause involuntary muscle spasms and stiffness, which may be painful.
+
+6. Blurred or double vision: Vision problems, such as blurred vision, decreased vision, or double vision, are common in people with MS.
+
+7. Problems with speech and swallowing: MS can affect the muscles involved in speech and swallowing, leading to difficulties in these areas.
+
+8. Cognitive difficulties: Some individuals with MS may experience cognitive impairment, including problems with memory, attention, and problem-solving.
+
+9. Emotional changes: MS can affect a person's mood and emotions, leading to depression, anxiety, irritability, or mood swings.
+
+10. Pain: Chronic pain, such as headaches, muscle pain, or nerve pain, can be a symptom of MS.
+
+11. Bladder and bowel problems: MS can impact the function of the bladder and bowel, leading to urinary urgency, frequency, or incontinence, as well as constipation or bowel incontinence.
+
+12. Sexual dysfunction: MS can affect sexual function and desire in both men and women.
+
+It's important to remember that these symptoms can also be caused by other conditions, so it's essential to consult with a healthcare professional for an accurate diagnosis.",68,List of multiple sclerosis symptoms,-0.0183096248656511,0,question,7,0.0,299,14,ChatGPT,False,"question
+(query)"
+2813,chatgpt_132,"Scalp psoriasis is a common skin condition that causes red, itchy, and scaly patches on the scalp. While headpats may provide temporary relief and soothing to the affected area, they are not a treatment for scalp psoriasis. To effectively manage scalp psoriasis, it is important to follow a proper treatment plan prescribed by a healthcare professional. This may include medicated shampoos, topical creams or ointments, oral medications, and lifestyle changes. It's best to consult a dermatologist for an accurate diagnosis and appropriate treatment options for scalp psoriasis.",132,headpats scalp psoriasis,-0.0099151479080319,0,question,7,0.0,87,6,ChatGPT,False,"question
+(query)"
+2812,chatgpt_1,"The most common chronic diseases include cardiovascular diseases (such as heart disease and stroke), cancer, chronic respiratory diseases (such as chronic obstructive pulmonary disease and asthma), diabetes, and mental health disorders (such as depression and anxiety). These diseases are characterized by long-term persistence and generally cannot be cured, but can be managed through medical treatment and lifestyle changes.
+
+Chronic diseases have significant effects on both society and individuals. At a societal level, they impose a considerable economic burden due to the high costs of healthcare, treatment, and loss of productivity. These diseases often require long-term medical care and rehabilitation, leading to increased healthcare expenditures. Additionally, they can lead to disability and premature death, resulting in reduced workforce participation and economic productivity.
+
+On an individual level, chronic diseases can significantly impact quality of life. They often require individuals to manage their symptoms, adhere to treatment plans, and make necessary lifestyle changes, which can be physically and emotionally challenging. Chronic diseases may limit individuals' ability to perform daily activities, affect their mental well-being, and lead to a decreased overall quality of life. Furthermore, these conditions often require ongoing medical care, which can be financially burdensome, especially for individuals without adequate health insurance.
+
+Overall, chronic diseases have far-reaching implications for both society and individuals, highlighting the importance of prevention, early detection, and effective management of these conditions.",1,What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?,-0.0026249974034726,0,question,7,0.0,224,58,ChatGPT,True,"question
+(question)"
+2810,chatgpt_85,"Relapsing-remitting multiple sclerosis (RRMS) is a type of multiple sclerosis (MS) characterized by alternating periods of relapse and remission. In RRMS, individuals experience flare-ups of symptoms followed by periods of partial or complete recovery.
+
+During a relapse, new symptoms may appear or existing symptoms may worsen. These relapses can last for days, weeks, or even months. Symptoms vary depending on the location of the affected nerves but commonly include fatigue, muscle weakness, difficulty walking, numbness or tingling, problems with coordination and balance, vision problems, and cognitive difficulties.
+
+After a relapse, individuals with RRMS may experience a period of remission, where symptoms improve or disappear completely. Remission can last for varying lengths of time, from weeks to years, before another relapse occurs.
+
+Treatment for RRMS focuses on managing symptoms, slowing the progression of the disease, and preventing relapses. This often involves the use of disease-modifying therapies (DMTs) that can reduce inflammation and immune system activity. Other treatments may include physical therapy, occupational therapy, and medications to manage specific symptoms.
+
+It is important for individuals with RRMS to work closely with healthcare professionals to develop a personalized treatment plan and to monitor their condition regularly. With proper management, many people with RRMS are able to lead fulfilling lives and maintain a good quality of life.",85,Relapsing remitting multiple sclerosis,-0.0104019166901707,0,question,7,0.0,213,4,ChatGPT,False,"question
+(query)"
+2809,chatgpt_130,"There are several stretches you can do to relieve tension in the neck and shoulders. Here are a few examples:
+
+1. Neck tilt: Sit or stand up straight and slowly tilt your head to one side, bringing your ear towards your shoulder. Hold this stretch for 15-30 seconds and then repeat on the other side.
+
+2. Shoulder rolls: Stand with your feet shoulder-width apart and relax your arms at your sides. Roll your shoulders forward in a circular motion for 10-15 seconds, and then reverse the direction and roll them backward for another 10-15 seconds.
+
+3. Upper trapezius stretch: Sit or stand up straight and place one hand behind your back. Tilt your head to the opposite side and use your other hand to gently pull your head down towards your shoulder. Hold for 15-30 seconds and then repeat on the other side.
+
+4. Eagle arms stretch: Sit or stand up straight and stretch your arms out in front of you. Cross one arm over the other and bend at the elbows, bringing your palms together. Lift your elbows up and away from your body to feel a stretch in your upper back and shoulders. Hold for 15-30 seconds and then switch the cross of your arms and repeat.
+
+Remember to breathe deeply and listen to your body while stretching. If you experience any pain or discomfort, stop the stretch and consult a healthcare professional.",130,neck and shoulder stretches,-0.0058692968450486,0,question,7,0.0,235,21,ChatGPT,False,"question
+(query)"
+2808,chatgpt_51,"Holistic medicine, also known as integrative or alternative medicine, is an approach that considers the whole person - mind, body, spirit, and emotions - in the treatment and prevention of illness. It focuses on addressing the underlying causes of health issues rather than just treating the symptoms.
+
+Holistic medicine includes a wide range of practices and therapies, which may vary depending on the practitioner and the specific needs of the individual. Some common elements of holistic medicine include:
+
+1. Nutrition and diet: Emphasizing the importance of a healthy and balanced diet to support overall well-being and prevent illness.
+
+2. Herbal medicine: Using plant-based remedies and supplements to promote healing and address various health conditions.
+
+3. Acupuncture: A traditional Chinese medicine practice involving the insertion of thin needles into specific points on the body to restore the flow of energy and alleviate pain.
+
+4. Chiropractic care: Manipulating the musculoskeletal system, particularly the spine, to improve health and relieve pain.
+
+5. Massage therapy: Using touch and manipulation of the body's soft tissues to promote relaxation, relieve muscle tension, and improve circulation.
+
+6. Meditation and mindfulness: Practicing techniques to calm the mind, reduce stress, and enhance overall mental and emotional well-being.
+
+7. Yoga and movement therapies: Incorporating various physical exercises, stretches, and postures to improve flexibility, strength, and balance while promoting relaxation and stress reduction.
+
+8. Energy healing: Utilizing techniques like Reiki or Qigong to balance the body's energy fields and promote healing.
+
+9. Mind-body medicine: Techniques such as hypnosis, guided imagery, and biofeedback that aim to harness the mind's influence over physical health and facilitate self-healing.
+
+Holistic medicine embraces a patient-centered approach, considering their unique circumstances and tailoring treatment plans accordingly. It seeks to address the root causes of health issues and promote harmony and balance within the body and mind.",51,What is holistic medicine and what does it include?,-0.0093527985736727,0,question,7,0.0,299,38,ChatGPT,True,"question
+(question)"
+2807,chatgpt_107,"There are several medications commonly used to treat ADHD and anxiety. Some medications that are often prescribed for ADHD include stimulants such as Adderall, Ritalin, and Vyvanse. These medications work by increasing dopamine and norepinephrine levels in the brain, which helps improve focus and reduce impulsivity.
+
+For anxiety, medications such as selective serotonin reuptake inhibitors (SSRIs) are often prescribed. Examples of SSRIs include Prozac, Zoloft, and Lexapro. These medications work by increasing the levels of serotonin in the brain, which can help reduce symptoms of anxiety.
+
+It's important to note that medication should always be prescribed by a qualified healthcare professional, such as a psychiatrist or a primary care physician. They will evaluate your specific symptoms, medical history, and individual needs to determine the most appropriate medication and dosage for you.",107,medication adhd anxiety,-0.0066004833206534,0,question,7,0.0,131,4,ChatGPT,False,"question
+(query)"
+2806,chatgpt_22,"As an AI language model, I am unable to assess your personal risk for developing type 2 diabetes without having more information about your medical history, lifestyle habits, family history, and other relevant factors. However, there are certain risk factors associated with type 2 diabetes that you can consider:
+
+1. Family history: Having a close family member (parent or sibling) with type 2 diabetes increases your risk.
+
+2. Weight: Being overweight or obese can increase your risk for developing type 2 diabetes.
+
+3. Inactivity: A sedentary lifestyle with little or no regular physical activity is a risk factor.
+
+4. Unhealthy diet: Consuming a diet high in processed foods, sugary drinks, and unhealthy fats can increase your risk.
+
+5. Age: The risk of developing type 2 diabetes increases as you get older, especially after the age of 45.
+
+6. High blood pressure: Having high blood pressure is associated with an increased risk of type 2 diabetes.
+
+7. Ethnicity: Certain ethnic groups, such as African Americans, Hispanic/Latino Americans, Native Americans, and Asian Americans, have a higher risk of developing type 2 diabetes.
+
+It is important to note that having one or more of these risk factors does not necessarily mean you will develop type 2 diabetes. Regular check-ups with your healthcare provider can help assess your risk and provide guidance on prevention and management strategies.",22,my risk for developing type 2 diabetes,-0.0133310882374644,0,question,7,0.0,223,35,ChatGPT,False,"question
+(query)"
+2805,chatgpt_96,"There are several diets that are considered efficient and sustainable in terms of both health and environmental impact. 
+
+1. Plant-based diet: A plant-based diet focuses on consuming primarily fruits, vegetables, legumes, whole grains, nuts, and seeds. It has been associated with numerous health benefits and a reduced risk of chronic diseases such as heart disease, diabetes, and certain types of cancer. Plant-based diets also have a lower carbon footprint compared to diets that include animal products.
+
+2. Mediterranean diet: The Mediterranean diet is inspired by the traditional eating patterns of countries surrounding the Mediterranean Sea. It emphasizes fruits, vegetables, whole grains, legumes, fish, and healthy fats like olive oil. This diet has been linked to lower rates of heart disease, stroke, and certain types of cancer. Additionally, it promotes sustainable food choices by including a variety of plant-based foods.
+
+3. Flexitarian diet: A flexitarian diet is primarily plant-based but allows for occasional consumption of animal products. It focuses on increasing the intake of fruits, vegetables, whole grains, and plant-based proteins while limiting the amount of meat and animal products. This diet offers the flexibility to accommodate individual preferences while still promoting sustainable and healthy eating habits.
+
+4. Locally sourced and seasonal diet: Choosing foods that are locally sourced and in season can contribute to a more sustainable diet. This reduces the carbon footprint associated with transporting food long distances and supports local farmers and businesses. By consuming locally grown foods, you can also enjoy fresher produce that has been harvested at its peak nutritional value.
+
+It's important to note that the most efficient and sustainable diet may vary depending on individual needs, preferences, and cultural considerations. It's always a good idea to consult with a healthcare professional or registered dietitian to determine the best diet plan for your specific situation.",96,most efficient and sustainable diets,-0.0041496367193758,0,question,7,0.0,300,27,ChatGPT,False,"question
+(query)"
+2774,chatgpt_93,"Yes, multiple sclerosis (MS) can contribute to sleeping problems and forgetfulness in older people. MS is a chronic neurological disease that affects the central nervous system, causing damage to the protective covering of nerve fibers. This damage can disrupt the communication between the brain and the rest of the body, leading to a variety of symptoms, including fatigue and cognitive difficulties. Sleep disturbances are common in individuals with MS, with issues such as insomnia, sleep apnea, and restless leg syndrome frequently reported. Additionally, cognitive problems, including forgetfulness and difficulties with memory and concentration, can also occur in people with MS, particularly as the disease progresses. It is important for individuals with MS to discuss these symptoms with their healthcare provider to explore appropriate management strategies.",93,Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?,-0.0022259000688791,0,question,6,0.0,125,21,ChatGPT,True,"question
+(question)"
+2773,chatgpt_97,"There are numerous benefits of physical activity, including:
+
+1. Improved physical health: Regular physical activity helps to strengthen muscles and bones, improve cardiovascular health, and maintain a healthy weight. It can reduce the risk of chronic conditions such as heart disease, type 2 diabetes, and certain types of cancer.
+
+2. Mental well-being: Physical activity stimulates the release of endorphins, which are natural mood elevators. It can reduce symptoms of depression and anxiety, improve self-esteem, and promote better sleep.
+
+3. Increased energy levels: Engaging in regular physical activity improves overall stamina and endurance, leading to increased energy levels throughout the day.
+
+4. Weight management: Physical activity helps to burn calories and maintain a healthy weight. It can also help to prevent weight gain and aid in weight loss when combined with a balanced diet.
+
+5. Improved cognitive function: Physical activity has been shown to enhance brain function, including memory, attention, and problem-solving skills. It can also reduce the risk of cognitive decline and improve overall brain health.
+
+6. Reduced risk of chronic diseases: Regular physical activity can lower the risk of various chronic diseases, including heart disease, stroke, type 2 diabetes, high blood pressure, and certain types of cancer.
+
+7. Better sleep quality: Physical activity promotes better sleep by helping to regulate sleep patterns and reducing the symptoms of insomnia. It can also improve the quality of sleep, leading to increased alertness and productivity during the day.
+
+8. Enhanced immune function: Regular exercise can boost the immune system, making individuals less prone to common illnesses such as colds and flu.
+
+9. Social interaction: Participating in physical activities often involves interacting with others, which can lead to increased social connections and a sense of belonging.
+
+10. Longevity: Engaging in regular physical activity has been linked to increased life expectancy and a reduced risk of premature death.
+
+Overall, incorporating physical activity into daily life offers numerous physical, mental, and emotional benefits, leading to a healthier and happier lifestyle.",97,benefits of physical activity,-0.0054915286600589,0,question,6,0.0,325,35,ChatGPT,False,"question
+(query)"
+2772,chatgpt_108,"The symptoms you have mentioned, including chronic diarrhea, short-term memory issues, sweating, inability to regulate body temperature, and heart palpitations, could potentially be associated with a condition called dysautonomia. Dysautonomia refers to a dysfunction of the autonomic nervous system, which controls involuntary bodily functions such as heart rate, blood pressure, digestion, and body temperature regulation. It is important to consult with a healthcare professional for a proper diagnosis and appropriate treatment options.",108,chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia,-0.0076794638298451,0,question,6,0.0,72,14,ChatGPT,False,"question
+(query)"
+2770,chatgpt_77,"Menopause symptoms and multiple sclerosis (MS) symptoms are not directly related, but they can overlap and exacerbate each other. Menopause is a natural stage in a woman's life when her menstrual periods stop and hormone levels, particularly estrogen, decline. This hormonal change can lead to a variety of symptoms such as hot flashes, mood swings, fatigue, insomnia, and cognitive difficulties.
+
+On the other hand, MS is a chronic autoimmune disease that affects the central nervous system. It causes inflammation, damage, and scarring in the brain and spinal cord, leading to a wide range of symptoms such as fatigue, muscle weakness, numbness or tingling, balance problems, cognitive impairment, and mood changes.
+
+During menopause, the fluctuating hormone levels can potentially worsen MS symptoms for some women. For example, hot flashes can trigger or worsen MS-related fatigue, and mood swings or cognitive difficulties may be more pronounced during this time. Additionally, both menopause and MS can independently cause fatigue, which can compound the overall feeling of exhaustion for women experiencing both.
+
+It is important for women with MS who are going through menopause to discuss their symptoms with their healthcare provider. They may recommend symptom management strategies such as hormone replacement therapy, lifestyle modifications, or medications to alleviate the impact of both menopause and MS symptoms.",77,How do menopause symptoms relate to multiple sclerosis symptoms?,-0.0081593990325927,0,question,6,0.0,213,17,ChatGPT,True,"question
+(question)"
+2740,chatgpt_62,"It is difficult to predict how colleagues will react to the disclosure of multiple sclerosis at work as people's reactions can vary greatly. Some colleagues may be understanding, supportive, and willing to make accommodations to help you in your work. They may offer their support and be empathetic towards your situation. Others may not be familiar with multiple sclerosis and may have misconceptions or prejudices. They may react with uncertainty, fear, or even skepticism. However, it is important to remember that most workplaces have policies in place to protect employees with disabilities and promote inclusivity. It is recommended to consult with your HR department or a trusted supervisor to discuss your specific situation and any necessary accommodations.",62,"disclosing multiple sclerosis at work, how will colleagues react?",-0.0011320855701342,0,question,5,0.0,117,9,ChatGPT,True,"question
+(question)"
+2739,chatgpt_127,"There are several types of glasses that can be beneficial for computer use:
+
+1. Computer glasses: These are specifically designed to reduce eye strain caused by staring at a computer screen for long periods. They have lenses that filter out blue light and reduce glare, which can help prevent eye fatigue, dryness, and headaches.
+
+2. Anti-glare glasses: These glasses have a special coating on the lenses that reduces reflections and glare from artificial light sources, such as computer screens. They can help improve visual comfort and clarity while working on a computer.
+
+3. Prescription glasses: If you already wear prescription glasses, you can consider getting a separate pair with lenses optimized for computer use. These can be customized to your specific vision needs and provide clear vision at the computer's typical viewing distance.
+
+4. Blue-light blocking glasses: These glasses have lenses that block or filter out blue light emitted by electronic devices, including computers. Blue light can disrupt sleep patterns and cause eye strain, so wearing blue-light blocking glasses can be beneficial, especially when using computers in the evening or at night.
+
+When choosing glasses for computer use, it's recommended to consult with an optometrist or optician who can assess your specific vision needs and provide the most suitable recommendation.",127,glasses for computer,-0.004329000134021,0,question,5,0.0,210,15,ChatGPT,False,"question
+(query)"
+2738,chatgpt_117,"The outcome of stage 4 metastatic lung cancer can vary depending on various factors such as the overall health of the patient, the specific type and location of the cancer, and the effectiveness of treatment options. In general, stage 4 lung cancer is considered advanced and has a lower survival rate compared to earlier stages. The average 5-year survival rate for stage 4 lung cancer is around 4%, meaning that only about 4% of patients survive for 5 years after diagnosis. However, it is important to note that survival rates are statistical averages and individual outcomes can vary. Some patients may respond well to treatment and have improved outcomes, while others may have a more aggressive form of cancer and experience a shorter survival time. It is important for patients with stage 4 metastatic lung cancer to work closely with their healthcare team to determine the best treatment options and to manage symptoms and quality of life.",117,stage 4 metastatic lung cancer outcome,-0.0016880085458979,0,question,5,0.0,157,20,ChatGPT,False,"question
+(query)"
+2737,chatgpt_81,"Yes, it is possible to work and study full-time with multiple sclerosis, but it may require some adjustments and accommodations. It is important to prioritize self-care and manage your energy levels. Here are some tips to help you balance work, study, and managing your condition:
+
+1. Communicate with your employer and educational institution: Inform your employer and educational institution about your condition and any accommodations you may need. This could include flexible work hours, a reduced workload, or additional breaks during the day.
+
+2. Plan your schedule: Create a structured schedule that allows for breaks and rest periods throughout the day. Prioritize important tasks and allocate time accordingly. It may be helpful to break your study or work into smaller, manageable tasks.
+
+3. Take care of your health: Ensure you are following a healthy lifestyle, including regular exercise, a balanced diet, and enough sleep. MS symptoms can be exacerbated by stress and fatigue, so it is crucial to prioritize self-care.
+
+4. Seek support: Reach out to support groups, online communities, or counseling services to connect with others who may be going through similar experiences. They can offer advice, understanding, and emotional support.
+
+5. Use assistive technology and tools: Consider using assistive technology or tools that can help you manage your workload more efficiently. This may include speech-to-text software, ergonomic equipment, or organizational apps.
+
+6. Advocate for yourself: If you require specific accommodations, don't be afraid to speak up and advocate for your needs. Remember, it is your right to receive reasonable accommodations as per the Americans with Disabilities Act (ADA) or other applicable laws.
+
+Remember, everyone's experience with multiple sclerosis is unique, and what works for one person may not work for another. It is important to listen to your body, pace yourself, and make adjustments as needed. Speak with your healthcare team for personalized advice and guidance.",81,Can I work and study full-time with multiple sclerosis?,-0.0028068928513675,0,question,5,0.0,308,35,ChatGPT,True,"question
+(question)"
+2736,chatgpt_105,"Wisdom tooth pain can occur when the tooth is erupting or pushing against the gums. This can cause the gum tissue to become inflamed, swollen, and even cut. The pain can range from mild discomfort to severe throbbing pain. It is recommended to see a dentist if you are experiencing wisdom tooth pain, as they can assess the situation and determine the best course of action, which may include extraction of the tooth. In the meantime, over-the-counter pain relievers and rinsing with warm saltwater can help alleviate the pain and reduce inflammation.",105,wisdom tooth cuts gum pain,-0.0117617230862379,0,question,5,0.0,92,10,ChatGPT,False,"question
+(query)"
+2734,chatgpt_112,"Symptoms of asthma can vary from person to person but generally include:
+
+1. Wheezing: A whistling or squeaking sound when breathing due to narrowed airways.
+2. Shortness of breath: Difficulty breathing, feeling like you can't take a deep breath or feeling out of breath.
+3. Coughing: A persistent cough, especially at night or early morning.
+4. Chest tightness: A feeling of pressure or constriction in the chest.
+5. Chest pain: Some people with asthma may experience chest pain or discomfort.
+6. Rapid breathing: Breathing faster than usual, especially during or after physical activity.
+7. Fatigue: Feeling tired or exhausted due to the extra effort required to breathe.
+8. Trouble sleeping: Asthma symptoms can worsen at night, leading to disturbed sleep.
+9. Anxiety: Some people with asthma may experience anxiety or panic due to breathing difficulties.
+10. Allergy symptoms: Asthma can be triggered by allergies, so symptoms such as sneezing, runny nose, and itchy or watery eyes may also be present.
+
+It is important to note that asthma symptoms can range from mild to severe, and they may come and go or be present all the time depending on the individual. It is recommended to consult a healthcare professional for an accurate diagnosis and appropriate treatment.",112,symptoms of asthma,-0.0225302968174219,0,question,5,0.0,205,14,ChatGPT,False,"question
+(query)"
+2733,chatgpt_83,"When experiencing an episode that may be a relapse of multiple sclerosis, it is important to consult a doctor for a proper diagnosis. This is necessary because multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system, and its symptoms can vary widely. A relapse, also known as an exacerbation or flare-up, refers to the sudden worsening or appearance of new symptoms. These symptoms can include fatigue, muscle weakness, difficulty with coordination and balance, numbness or tingling, problems with vision, and cognitive impairment, among others.
+
+A doctor will be able to assess your symptoms, review your medical history, and conduct various tests to determine if the episode is indeed a relapse of MS. They may perform a neurological examination to check for any abnormalities in your reflexes, muscle strength, coordination, and sensation. Additionally, they may order imaging tests such as magnetic resonance imaging (MRI) to visualize any new lesions or changes in your brain or spinal cord.
+
+Receiving a proper diagnosis from a doctor is essential in order to distinguish a relapse from other potential causes of symptoms, such as infections, medication side effects, or other medical conditions. Once diagnosed, appropriate treatment options can be discussed and implemented to manage the relapse and minimize its impact on your daily life.",83,Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?,-0.0031741496641188,0,question,5,0.0,214,40,ChatGPT,True,"question
+(question)"
+2732,chatgpt_98,"Some of the most common complications in pregnancy include:
+
+1. Gestational diabetes: This is a condition where high blood sugar levels develop during pregnancy. It can increase the risk of complications for both the mother and the baby.
+
+2. Pre-eclampsia: This is a condition characterized by high blood pressure and damage to organs such as the liver and kidneys. It can lead to complications such as premature birth and low birth weight.
+
+3. Miscarriage: This refers to the loss of a pregnancy before the 20th week. It is estimated that around 10-20% of known pregnancies end in miscarriage.
+
+4. Preterm labor: This occurs when contractions begin to open the cervix before the 37th week of pregnancy. It can result in premature birth, which can have various health risks for the baby.
+
+5. Placenta previa: This is a condition where the placenta partially or completely covers the cervix. It can cause bleeding during pregnancy and may require a cesarean delivery.
+
+6. Anemia: This is characterized by a decrease in the number of red blood cells, leading to fatigue and other symptoms. It can affect both the mother and the baby's health.
+
+7. Infections: Certain infections, such as urinary tract infections, bacterial vaginosis, and sexually transmitted infections, can increase the risk of complications during pregnancy.
+
+8. Ectopic pregnancy: This occurs when the fertilized egg implants outside the uterus, usually in the fallopian tube. It is a potentially life-threatening condition and requires immediate medical attention.
+
+9. Placental abruption: This is a condition where the placenta separates from the uterine wall before delivery. It can cause heavy bleeding and can be dangerous for both the mother and the baby.
+
+It is important for pregnant women to receive regular prenatal care to monitor and manage these potential complications.",98,most common complications in pregnancy,-0.0119490325450897,0,question,5,0.0,293,14,ChatGPT,False,"question
+(query)"
+2731,chatgpt_102,"It is not uncommon for individuals to develop eczema randomly, as the exact cause of the condition is still unknown. Eczema is a chronic inflammatory skin condition that can cause redness, itching, and dryness. It can be triggered by a variety of factors, including genetics, environmental factors, allergies, stress, and certain substances. If you have randomly developed eczema, it is recommended to see a dermatologist for a proper diagnosis and to develop a treatment plan. They can help identify potential triggers and provide guidance on managing and relieving symptoms.",102,randomly gotten eczema,-0.006882176734507,0,question,5,0.0,89,3,ChatGPT,False,"question
+(query)"
+2730,chatgpt_54,"A multiple sclerosis (MS) diagnosis typically includes a combination of various tests and evaluations. This may involve a medical history review, physical examination, neurological examination, blood tests, magnetic resonance imaging (MRI) scans, and sometimes a lumbar puncture (spinal tap) to analyze cerebrospinal fluid.
+
+A diagnosis of MS can change several aspects of a person's life. It can bring about physical symptoms such as fatigue, weakness, numbness, balance and coordination problems, difficulty walking, muscle spasms, and problems with vision, speech, and swallowing. MS can also affect cognition and mood, causing issues with memory, attention, problem-solving, and emotional well-being. Additionally, it can impact a person's ability to work, engage in activities they enjoy, and maintain relationships. MS is a chronic and potentially progressive condition, so it may require ongoing medical care and management.",54,What does multiple sclerosis diagnosis include? What does it change?,-0.0041026244871318,0,question,5,0.0,131,7,ChatGPT,True,"question
+(question)"
+2729,chatgpt_101,"There are several potential causes for heavy flares swelling lymph nodes. One possibility is that the lymph nodes are reacting to an infection or inflammation in the body. This could be due to a viral or bacterial infection, such as the flu or a cold. Another possibility is that the lymph nodes are reacting to a chronic condition or autoimmune disorder, such as rheumatoid arthritis or lupus. In some cases, heavy flares and swollen lymph nodes may be a sign of cancer, such as lymphoma or leukemia. It's important to consult a healthcare professional for a proper evaluation and diagnosis if you are experiencing heavy flares and swollen lymph nodes. They will be able to determine the underlying cause and recommend appropriate treatment.",101,heavy flares swelling lymph nodes,-0.0033462028950452,0,question,5,0.0,123,15,ChatGPT,False,"question
+(query)"
+2728,chatgpt_57,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It is characterized by the immune system mistakenly attacking the protective covering (myelin) of nerve fibers in the brain and spinal cord. The progression of MS can vary greatly from person to person, but there are generally four recognized stages or phases of the disease:
+
+1. Relapsing-remitting MS (RRMS): This is the most common form of MS and is characterized by periods of relapses or flare-ups of symptoms followed by periods of remission where symptoms partially or completely disappear. During relapses, new symptoms may appear or existing symptoms may worsen.
+
+2. Secondary progressive MS (SPMS): After years of having RRMS, some individuals may transition into SPMS. In this phase, there is a steady progression of disability and fewer or no periods of remission. Symptoms may gradually worsen over time.
+
+3. Primary progressive MS (PPMS): This form of MS is characterized by a gradual and steady progression of symptoms from the onset, without the presence of distinct relapses or remissions. The progression of disability may vary, with some people experiencing a slow decline while others may have periods of stability followed by rapid deterioration.
+
+4. Progressive-relapsing MS (PRMS): This is the least common form of MS, characterized by a progressive worsening of symptoms from the beginning, with occasional relapses and partial recoveries. Disability may accumulate steadily or in a stepwise manner.
+
+It's important to note that not all individuals with MS will necessarily go through all of these stages, and the progression of the disease can vary greatly among individuals. Treatment options are available to manage symptoms and slow the progression of the disease.",57,multiple sclerosis stages phases,-0.0130501464009284,0,question,5,0.0,277,4,ChatGPT,False,"question
+(query)"
+2727,chatgpt_119,"The best pillow for neck pain will vary depending on individual preferences and needs. However, some factors to look for in a pillow for neck pain include:
+
+1. Support: Look for a pillow that offers proper support and alignment for the neck and spine. Memory foam pillows or shredded memory foam pillows are often recommended for their ability to contour to the shape of your head and neck.
+
+2. Adjustable loft: A pillow with an adjustable loft allows you to customize the height and firmness to suit your needs. This can help ensure proper alignment and relieve neck pain.
+
+3. Contoured shape: Some pillows are specifically designed with a contour shape to cradle and support the neck. These pillows can help maintain a neutral neck position while sleeping.
+
+4. Material: Consider the material of the pillow. Some people find that pillows made of hypoallergenic materials, such as bamboo or cotton, are more comfortable and less likely to cause allergies or irritations.
+
+5. Size and firmness: Choose a pillow that matches your sleep position and personal preference. Side sleepers may need a firmer and higher loft pillow, while back and stomach sleepers may benefit from a softer and lower loft pillow.
+
+Ultimately, it's important to find a pillow that provides adequate support and comfort for your specific neck pain needs. It may be helpful to consult with a healthcare professional or try out different pillows to determine the best option for you.",119,best pillow neck pain,-0.0019804879557341,0,question,5,0.0,241,17,ChatGPT,False,"question
+(query)"
+2726,chatgpt_52,"The most common mental health problems include anxiety disorders, depression, bipolar disorder, schizophrenia, and substance abuse disorders. 
+
+To prevent or manage these mental health problems, here are some general strategies you can consider:
+
+1. Maintain a healthy lifestyle: Regular physical exercise, a balanced diet, and sufficient sleep can greatly contribute to overall mental well-being.
+
+2. Seek social support: Build and maintain healthy relationships with friends, family, and other supportive individuals. Social support can provide emotional comfort and help in managing stressful situations.
+
+3. Manage stress: Develop effective stress management techniques such as relaxation exercises, mindfulness, or engaging in hobbies and activities you enjoy.
+
+4. Practice self-care: Pay attention to your own needs and engage in activities that promote self-care and self-compassion. This can include engaging in hobbies, practicing relaxation techniques, or seeking therapy when needed.
+
+5. Limit substance abuse: Substance abuse can worsen mental health problems, so it is important to limit or avoid the use of alcohol, drugs, and tobacco.
+
+6. Seek professional help: If you are experiencing mental health problems, don't hesitate to seek help from mental health professionals. They can provide a diagnosis, treatment options, and support tailored to your specific needs.
+
+Remember that everyone's experience with mental health is unique, and what works for one person may not work for another. It is important to find strategies and approaches that work best for you.",52,What are the most common mental health problems? How can I prevent or manage the most common mental health problems?,-0.0036381976678967,0,question,5,0.0,228,50,ChatGPT,True,"question
+(question)"
+2725,chatgpt_79,"No, multiple sclerosis (MS) is not directly passed on to other family members. However, there is a genetic component to MS, meaning that having a family member with MS may increase the risk of developing the condition. Research suggests that certain genes may increase the susceptibility to MS, but it is not the sole cause of the disease. Environmental factors and other unknown factors also play a role in the development of MS.",79,Can I pass multiple sclerosis to other family members?,-0.0020561523269861,0,question,5,0.0,73,9,ChatGPT,True,"question
+(question)"
+2724,chatgpt_93,"Yes, multiple sclerosis (MS) can be associated with sleep problems and forgetfulness in older people. Sleep disturbances are common in people with MS, and can include difficulty falling asleep, staying asleep, or experiencing poor sleep quality. This can lead to daytime fatigue and cognitive difficulties, such as forgetfulness or difficulties with attention and concentration. These cognitive problems are often referred to as ""MS-related cognitive impairment"" and can affect memory, information processing, and problem-solving abilities. However, it is important to note that not all older people with MS will experience sleep problems or cognitive impairment, as the symptoms can vary from person to person.",93,Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?,-0.0016339774010702,0,question,5,0.0,103,21,ChatGPT,True,"question
+(question)"
+2723,chatgpt_97,"There are numerous benefits of physical activity, including:
+
+1. Improved physical health: Regular physical activity helps maintain a healthy weight, strengthen muscles and bones, and reduce the risk of chronic diseases such as heart disease, diabetes, and certain types of cancer.
+
+2. Enhanced mental health: Physical activity has been shown to reduce symptoms of depression and anxiety, improve mood, and boost overall mental well-being. It can also improve cognitive function and memory.
+
+3. Increased energy levels: Engaging in regular physical activity can increase energy levels and reduce feelings of fatigue. It improves the efficiency of the cardiovascular system, delivering oxygen and nutrients to the body's tissues more effectively.
+
+4. Better sleep: Physical activity can improve the quality of sleep, leading to better overall sleep patterns and increased feelings of restfulness.
+
+5. Stress reduction: Regular exercise helps lower stress levels by increasing the production of endorphins, which are the body's natural mood elevators. It also provides a distraction from daily worries and improves overall mental resilience.
+
+6. Social interaction: Participating in physical activities often involves being part of a team or joining group classes, which provides opportunities for social interaction, building friendships, and a sense of community.
+
+7. Increased longevity: Regular physical activity has been associated with a longer lifespan and reduced risk of premature death. It helps maintain physical function and mobility as we age.
+
+8. Improved self-esteem: Regular exercise can boost self-confidence and improve body image, leading to a more positive self-perception.
+
+9. Prevention and management of chronic diseases: Physical activity plays a crucial role in preventing chronic diseases such as heart disease, diabetes, and obesity. It can also help manage existing conditions and improve overall health outcomes.
+
+10. Better overall quality of life: Engaging in physical activity leads to an improved overall quality of life, as it enhances physical, mental, and emotional well-being. It allows individuals to have more energy, enjoy leisure activities, and perform daily tasks with ease.",97,benefits of physical activity,-0.0065623498521745,0,question,5,0.0,321,34,ChatGPT,False,"question
+(query)"
+2722,chatgpt_108,"Based on the symptoms you have described, it is possible that you may be experiencing dysautonomia. Dysautonomia refers to a dysfunction of the autonomic nervous system, which is responsible for regulating various bodily functions such as heart rate, blood pressure, body temperature, and digestion.
+
+The chronic diarrhea could be a result of dysautonomia affecting the digestive system. The inability to regulate body temperature and sweating may be due to dysautonomia disrupting the body's ability to control perspiration and thermoregulation. Heart palpitations may also be a symptom of dysautonomia as the autonomic nervous system plays a role in regulating heart rate.
+
+It is important to consult with a healthcare professional for a proper diagnosis and to explore potential treatment options for your symptoms.",108,chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia,-0.0086632138118147,0,question,5,0.0,122,22,ChatGPT,False,"question
+(query)"
+2720,chatgpt_77,"Menopause and multiple sclerosis (MS) are two separate conditions, but they can often have overlapping symptoms. 
+
+During menopause, a woman's estrogen levels decrease, leading to various physical and emotional changes. Some common symptoms of menopause include hot flashes, night sweats, mood swings, fatigue, and difficulty sleeping. 
+
+In contrast, MS is a chronic autoimmune disease that affects the central nervous system. It causes inflammation, damage, and scarring of the protective covering of nerve fibers in the brain and spinal cord. MS symptoms can vary widely but commonly include fatigue, numbness or tingling in the limbs, muscle weakness, problems with coordination and balance, cognitive difficulties, and changes in mood.
+
+While there can be some similarities between the symptoms of menopause and MS, it is important to note that they are distinct conditions with different underlying causes. However, hormonal changes during menopause can potentially impact MS symptoms. Some women with MS may experience an increase in symptoms during menopause due to the changes in hormone levels, while others may experience a decrease or no change at all. 
+
+It is crucial for women with MS who are experiencing menopause to communicate with their healthcare providers to manage both conditions effectively. Treatment options may include hormonal therapy, symptom management strategies, and appropriate medication adjustments to address the specific needs of each individual.",77,How do menopause symptoms relate to multiple sclerosis symptoms?,-0.0123918373137712,0,question,5,0.0,217,18,ChatGPT,True,"question
+(question)"
+2719,chatgpt_92,"Fatigue is a common symptom experienced by individuals with multiple sclerosis (MS). The exact cause of fatigue in MS is not fully understood, but there are several factors that may contribute to its development. These include:
+
+1. Inflammation: MS is characterized by inflammation in the central nervous system, which can disrupt the normal functioning of nerve cells. This inflammation can lead to the production of chemicals that promote fatigue.
+
+2. Nerve damage: MS causes damage to the protective covering of nerve fibers (myelin), leading to the formation of scar tissue. This damage can disrupt the transmission of nerve signals, leading to fatigue.
+
+3. Immune system dysfunction: MS is an autoimmune disease, meaning that the immune system mistakenly attacks the body's own tissues. This immune system dysfunction can contribute to fatigue.
+
+4. Heat sensitivity: Many individuals with MS experience increased fatigue when exposed to warm temperatures. This is known as heat sensitivity and is thought to be due to the disruption of nerve conduction caused by heat.
+
+5. Sleep disturbances: Sleep problems are common in individuals with MS, including difficulties falling asleep, staying asleep, or experiencing restful sleep. These sleep disturbances can contribute to fatigue.
+
+6. Depression and anxiety: Mental health conditions, such as depression and anxiety, are more common in individuals with MS. These conditions can cause or worsen fatigue.
+
+7. Medications: Certain medications used to manage MS symptoms, such as muscle relaxants or pain medications, can also contribute to fatigue.
+
+It is important for individuals with MS to work closely with their healthcare team to manage fatigue and identify any underlying causes. Strategies such as rest, regular exercise, stress management, and medication adjustments may be helpful in managing fatigue in MS.",92,causes of fatigue in MS,-0.0045276745222508,0,question,5,0.0,282,26,ChatGPT,False,"question
+(query)"
+2718,chatgpt_35,"Yes, a ketogenic or keto diet can be suitable for people with diabetes. In fact, some research suggests that a low-carbohydrate, high-fat diet like the ketogenic diet can help improve blood sugar control and reduce the need for diabetes medication in some individuals.
+
+The ketogenic diet involves consuming very low amounts of carbohydrates, moderate protein, and high amounts of fat. By restricting carbohydrate intake, the body enters a state of ketosis, where it burns fat for fuel instead of glucose. This can help stabilize blood sugar levels and improve insulin sensitivity.
+
+It is important, however, for individuals with diabetes to work closely with their healthcare team, including a registered dietitian, when implementing a ketogenic diet. Adjustments to medication dosages and close monitoring of blood sugar levels may be necessary.
+
+Additionally, the ketogenic diet may not be suitable for all individuals with diabetes, especially those with certain medical conditions or taking specific medications. It is important to seek personalized advice from a healthcare professional to determine if the ketogenic diet is appropriate for your specific situation.",35,Is a ketogenic / keto diet suitable for people with diabetes?,-0.0035046841949224,0,question,5,0.0,175,36,ChatGPT,True,"question
+(question)"
+2064,chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It can cause a wide range of symptoms, which can vary from person to person. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Excessive tiredness and lack of energy are common in MS.
+2. Numbness or tingling: Sensations of numbness, tingling, or pins and needles can occur in different parts of the body.
+3. Muscle weakness or spasms: MS can cause muscle weakness or stiffness, as well as involuntary muscle spasms or cramps.
+4. Difficulty walking or coordination problems: MS can affect balance, coordination, and the ability to walk properly.
+5. Problems with vision: Blurred vision, double vision, or loss of vision in one eye can occur due to MS affecting the optic nerves.
+6. Problems with balance and coordination: MS can lead to dizziness, unsteady gait, and coordination difficulties.
+7. Cognitive changes: Some individuals may experience problems with memory, attention, concentration, or problem-solving abilities.
+8. Bowel and bladder function problems: MS can cause issues with bladder control, leading to frequent urination or difficulty emptying the bladder. Bowel problems such as constipation or incontinence may also arise.
+9. Sexual problems: MS can affect sexual function, leading to decreased libido, erectile dysfunction, or difficulties with arousal or orgasm.
+10. Pain and spasms: Some individuals with MS may experience chronic pain, including nerve pain or muscle spasms.
+11. Emotional changes: Mood swings, depression, anxiety, or emotional instability can occur in MS.
+12. Sensitivity to heat: Many people with MS find that their symptoms worsen when exposed to heat, such as hot weather or hot baths.
+
+It's important to note that not everyone with MS will experience all of these symptoms, and the severity can vary greatly. If you suspect you may have MS or are experiencing any of these symptoms, it is best to consult with a healthcare professional for a proper diagnosis and suitable treatment options.",68,List of multiple sclerosis symptoms,-0.0225312300026416,0,multimedqa,2,0.0,324,14,ChatGPT,False,"multimedqa
+(query)"
+2716,chatgpt_63,"Multiple sclerosis (MS) can potentially affect a person's career, but the impact can vary depending on the specific symptoms experienced, the severity of the disease, and the individual's ability to manage and adapt to their condition. MS can cause fatigue, physical limitations, cognitive difficulties, and other symptoms that may impact work performance. However, with appropriate accommodations and support, many people with MS are able to continue working and maintain successful careers. It is important to communicate with your employer, healthcare team, and potentially seek guidance from vocational rehabilitation services to explore options for managing your career with MS.",63,Will multiple sclerosis affect my career?,-0.002638432662934,0,question,5,0.0,98,3,ChatGPT,True,"question
+(question)"
+2715,chatgpt_86,"Secondary progressive multiple sclerosis (SPMS) is a stage of multiple sclerosis (MS) that occurs after a period of relapsing-remitting MS. In SPMS, the disease gradually progresses and there is a steady accumulation of disability, with or without relapses. Unlike relapsing-remitting MS, there are generally no distinct periods of remission in SPMS.
+
+SPMS can present with a variety of symptoms, including fatigue, weakness, difficulty walking, balance problems, numbness or tingling, muscle spasms, and cognitive impairments. These symptoms can vary in severity and can significantly impact a person's daily functioning and quality of life.
+
+Treatment options for SPMS aim to manage symptoms, slow down disease progression, and improve quality of life. Disease-modifying therapies (DMTs) that are used to treat relapsing-remitting MS may also be used in SPMS, although their effectiveness may be limited in this stage of the disease. Other treatments may include physical therapy, occupational therapy, speech therapy, and medications to manage specific symptoms.
+
+It is important for individuals with SPMS to work closely with their healthcare team to develop a personalized treatment plan and to regularly monitor disease progression and symptom management.",86,Secondary progressive multiple sclerosis,-0.0075125321745872,0,question,5,0.0,182,6,ChatGPT,False,"question
+(query)"
+2714,chatgpt_68,"1. Fatigue: Many people with multiple sclerosis (MS) experience extreme tiredness and lack of energy, which can affect their daily activities and overall quality of life.
+2. Numbness or tingling: MS can cause sensations of numbness or tingling in different parts of the body, such as the face, arms, legs, or fingers.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles is a common symptom of MS. This can affect coordination and balance.
+4. Difficulty walking: MS can lead to problems with walking, such as a lack of coordination, unsteady gait, or difficulty lifting the feet.
+5. Coordination and balance problems: MS can affect the coordination and balance of a person, making activities like standing, walking, or even sitting difficult.
+6. Vision problems: MS can cause various vision problems, such as blurred vision, double vision, or partial loss of vision.
+7. Dizziness and vertigo: Many people with MS experience dizziness or a spinning sensation (vertigo), which can be triggered by certain head movements.
+8. Problems with speech and swallowing: MS can affect the muscles responsible for speech and swallowing, leading to difficulties in articulating words or swallowing food and liquids.
+9. Cognitive changes: MS can cause cognitive impairments, such as memory problems, decreased concentration, and difficulty with problem-solving or multitasking.
+10. Emotional changes: MS can affect a person's mood, leading to symptoms like depression, anxiety, irritability, or sudden mood swings.
+11. Bladder and bowel problems: MS can disrupt the normal functioning of the bladder and bowel, leading to symptoms like frequent urination, urgency to urinate, constipation, or loss of bowel control.
+12. Sexual dysfunction: MS can affect sexual function in both men and women, leading to problems like decreased libido, erectile dysfunction, or difficulties with arousal or orgasm.
+13. Pain and muscle spasms: Many people with MS experience chronic pain, such as headaches, back pain, or muscle spasms.
+14. Heat sensitivity: Heat can worsen MS symptoms in some individuals, causing increased fatigue, weakness, or other symptoms.
+15. Sensory disturbances: MS can cause abnormal sensations, such as itching, burning, or electric shock-like sensations in different parts of the body.",68,List of multiple sclerosis symptoms,-0.0584463030099868,0,question,5,0.0,349,16,ChatGPT,False,"question
+(query)"
+2741,chatgpt_59,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The long-term effects of MS can vary greatly from person to person, as the disease progression and severity can differ. However, some of the potential long-term effects of MS include:
+
+1. Neurological symptoms: MS can lead to various neurological symptoms such as fatigue, muscle weakness, numbness, tingling, difficulty walking, balance problems, and coordination issues. These symptoms may worsen over time and can significantly impact a person's daily life.
+
+2. Cognitive impairment: Many individuals with MS experience cognitive changes, including difficulties with memory, attention, problem-solving, and processing speed. These cognitive impairments may worsen as the disease progresses.
+
+3. Mobility issues: MS can cause muscle stiffness and spasms, leading to difficulties with mobility. In severe cases, individuals may become wheelchair-bound or require mobility aids.
+
+4. Mood and emotional changes: MS can also affect a person's mental health, leading to mood swings, depression, anxiety, and emotional instability. Coping with the physical limitations and unpredictability of the disease can contribute to these emotional changes.
+
+5. Fatigue: Fatigue is a common symptom of MS and can be debilitating. It can persist even with sufficient rest and can significantly impact a person's overall quality of life.
+
+6. Bowel and bladder dysfunction: MS can affect the nerves that control bowel and bladder function, leading to problems such as urinary urgency, frequency, incontinence, constipation, or difficulty emptying the bladder.
+
+7. Sexual dysfunction: MS can interfere with sexual function, causing problems such as decreased libido, erectile dysfunction, or difficulty achieving orgasm.
+
+It is important to note that while these long-term effects are possible, not everyone with MS will experience all of them. The disease course and progression can vary greatly, and various treatments and interventions are available to manage symptoms and slow down disease progression.",59,long-term effects likelihood multiple sclerosis,-0.0048088845796883,0,question,5,0.0,300,8,ChatGPT,False,"question
+(query)"
+2742,chatgpt_126,"There is no evidence to suggest that birth control pills or other forms of hormonal contraception have a significant impact on antral follicle count (AFC). AFC is a measure of the number of small, developing follicles in the ovaries, which contains eggs. Birth control pills work by preventing ovulation and suppressing the development of follicles, so it is possible that AFC may be temporarily affected while on birth control, but it should return to normal after discontinuation. However, research on this specific topic is limited, and more studies are needed to fully understand the relationship between birth control and AFC. It is always recommended to consult with a healthcare provider for personalized information and guidance regarding birth control and fertility.",126,birth control suppression antral follicle count,-0.0061776163056492,0,question,5,0.0,120,12,ChatGPT,False,"question
+(query)"
+2743,chatgpt_121,"Numb fingers can be a symptom of arthritis. Arthritis is a condition that causes inflammation and stiffness in the joints, and it can affect any joint in the body, including the fingers. When arthritis affects the fingers, it can cause swelling, pain, and stiffness, which can lead to numbness and tingling sensations. This numbness may be due to compression of the nerves in the fingers caused by inflammation or joint deformities. If you are experiencing numb fingers and suspect arthritis, it is recommended to consult with a healthcare professional for a proper diagnosis and treatment options.",121,numb fingers arthritis,-0.0055263834074139,0,question,5,0.0,96,7,ChatGPT,False,"question
+(query)"
+2757,chatgpt_107,"There are several different types of medications that can be used to treat ADHD and anxiety. Some common medications for ADHD include stimulant medications like Adderall and Ritalin, as well as non-stimulant medications like Strattera. These medications work by helping to increase focus and reduce impulsivity.
+
+For anxiety, medications like selective serotonin reuptake inhibitors (SSRIs) are often prescribed. These medications help to increase the levels of serotonin in the brain, which can improve mood and reduce anxiety symptoms. Some commonly prescribed SSRIs include Prozac, Zoloft, and Lexapro.
+
+It's important to note that medication should always be prescribed and managed by a healthcare professional. They will be able to determine the best course of treatment based on an individual's specific symptoms and needs. It's also important to consider therapy and other non-medication interventions as part of a comprehensive treatment plan for ADHD and anxiety.",107,medication adhd anxiety,-0.006119324825704,0,question,6,0.0,143,5,ChatGPT,False,"question
+(query)"
+2769,chatgpt_92,"Fatigue is a common symptom experienced by individuals with multiple sclerosis (MS) and can significantly impact daily functioning and quality of life. The exact cause of fatigue in MS is not fully understood, but it is believed to be multifactorial. Some possible causes of fatigue in MS include:
+
+1. Inflammation: MS is an autoimmune disease characterized by inflammation in the central nervous system. The immune system attacks the protective covering of nerve fibers, known as myelin, resulting in disruptions in nerve signaling. This ongoing inflammation can contribute to fatigue.
+
+2. Nerve damage: MS can cause damage to the nerves, leading to impaired transmission of signals between the brain and the rest of the body. This disruption in communication can contribute to fatigue.
+
+3. Brain lesions: MS can cause the formation of lesions in the brain, which can affect various cognitive functions, including energy regulation. These lesions can disrupt the brain's ability to coordinate and regulate the body's energy levels, leading to fatigue.
+
+4. Heat sensitivity: Many individuals with MS experience increased fatigue in response to heat. This phenomenon, known as Uhthoff's phenomenon, occurs due to the sensitivity of demyelinated nerves to elevated body temperature. Exposure to heat, such as hot weather or hot showers, can exacerbate fatigue symptoms.
+
+5. Sleep disturbances: MS can also be associated with sleep disturbances, such as insomnia, sleep apnea, or restless leg syndrome. Poor sleep quality or disrupted sleep can contribute to fatigue during the day.
+
+6. Depression and anxiety: MS is often accompanied by mental health conditions, such as depression and anxiety. These conditions can contribute to fatigue and may exacerbate existing MS-related fatigue symptoms.
+
+7. Medications: Some medications used to manage MS symptoms, such as muscle relaxants, antidepressants, and pain medications, can cause drowsiness and contribute to fatigue.
+
+It is important for individuals with MS to work closely with their healthcare team to identify and manage the underlying causes of their fatigue. This may involve a combination of lifestyle modifications, medication adjustments, and other interventions to help alleviate fatigue symptoms and improve overall quality of life.",92,causes of fatigue in MS,-0.0042316657491028,0,question,6,0.0,343,40,ChatGPT,False,"question
+(query)"
+2768,chatgpt_35,"Yes, a ketogenic or keto diet can be suitable for people with diabetes. In fact, research has shown that a ketogenic diet can help improve blood sugar control and reduce insulin resistance in individuals with type 2 diabetes. However, it is important for people with diabetes to work closely with their healthcare team, including a registered dietitian, to develop an individualized meal plan and monitor blood sugar levels while following a ketogenic diet. Adjustments to medication dosages may be necessary to prevent hypoglycemia (low blood sugar) when following a low-carbohydrate diet.",35,Is a ketogenic / keto diet suitable for people with diabetes?,-0.002744838129729,0,question,6,0.0,91,21,ChatGPT,True,"question
+(question)"
+2767,chatgpt_131,"There are several exercises that can help improve posture. Some of these include:
+
+1. Shoulder rolls: Stand or sit upright with your arms relaxed at your sides. Slowly roll your shoulders forward, then up, then back, and finally down in a circular motion. Repeat this several times.
+
+2. Wall slides: Stand with your back against a wall and your feet about six inches away from the wall. Slowly slide down the wall until your knees are bent at a 90-degree angle. Hold this position for a few seconds, then slide back up the wall. This exercise helps strengthen the muscles in your back and shoulders.
+
+3. Planks: Get into a push-up position, but instead of resting on your hands, rest on your forearms. Keep your body in a straight line from your head to your toes, and hold this position for as long as you can. Planks help strengthen your core muscles, which are important for maintaining good posture.
+
+4. Cat-camel stretch: Start on your hands and knees, with your hands directly under your shoulders and your knees directly under your hips. Slowly arch your back upward, like a cat stretching, and hold for a few seconds. Then, slowly lower your back, creating a sway in your lower back, and hold for a few seconds. Repeat this movement several times.
+
+5. Bridge pose: Lie on your back with your knees bent and your feet flat on the floor. Place your arms at your sides, palms facing down. Press your feet into the ground and lift your hips upward, creating a bridge shape with your body. Hold this position for a few seconds, then slowly lower your hips back to the ground. Repeat this movement several times.
+
+It's important to note that exercises alone may not be enough to correct poor posture. It's also important to be mindful of your posture throughout the day, make ergonomic adjustments to your workspace if needed, and consider seeking guidance from a healthcare professional if you have chronic posture issues.",131,exercises for better posture,-0.0038807096425443,0,question,6,0.0,335,10,ChatGPT,False,"question
+(query)"
+2766,chatgpt_63,"Multiple sclerosis (MS) can potentially affect your career, depending on the severity of your symptoms and the nature of your job. MS is a chronic condition that affects the central nervous system, leading to a range of physical and cognitive symptoms. These symptoms can include fatigue, weakness, difficulty walking, numbness or tingling, problems with coordination and balance, cognitive issues such as memory problems and difficulty concentrating, and depression or anxiety.
+
+If your symptoms are mild or well-managed, you may be able to continue working without significant impact on your career. However, if your symptoms become more severe or unpredictable, it may become more challenging to maintain your current job or perform certain tasks. Some individuals with MS may need to make adjustments to their work environment or schedule, such as reducing hours or switching to a less physically demanding job.
+
+It is important to communicate with your employer and healthcare team to discuss any necessary accommodations or modifications that may be needed to support your career. Additionally, seeking support from organizations or disability services can provide resources and guidance for navigating the impact of MS on your career.",63,Will multiple sclerosis affect my career?,-0.002572919242084,0,question,6,0.0,188,3,ChatGPT,True,"question
+(question)"
+2765,chatgpt_86,"Secondary progressive multiple sclerosis (SPMS) is a stage of multiple sclerosis (MS) that follows the initial relapsing-remitting phase. In SPMS, the disease progresses steadily over time, with or without relapses or remissions. This phase typically occurs after several years of living with relapsing-remitting MS.
+
+During SPMS, individuals may experience worsening symptoms, increased disability, and a decline in overall function. Relapses may still occur, but they are usually less frequent and less severe compared to the earlier stages of the disease. SPMS can also be characterized by a gradual accumulation of disability, such as difficulties with mobility, coordination, balance, and cognitive function.
+
+Treatment options for SPMS focus on managing symptoms, slowing disease progression, and improving quality of life. Disease-modifying therapies (DMTs) that target the underlying immune system dysfunction in MS may be prescribed, although their effectiveness in SPMS is generally limited compared to relapsing forms of MS. Symptomatic treatments, rehabilitation strategies, and supportive therapies can also be used to address specific symptoms and improve daily functioning.
+
+It is important for individuals with SPMS to work closely with their healthcare team to develop a comprehensive treatment plan that addresses their specific needs and goals. Regular monitoring of the disease progression and adjustment of treatment strategies may be necessary as the condition evolves.",86,Secondary progressive multiple sclerosis,-0.0069837514311075,0,question,6,0.0,210,6,ChatGPT,False,"question
+(query)"
+2764,chatgpt_68,"Here is a list of common symptoms experienced by individuals with multiple sclerosis (MS):
+
+1. Fatigue: Severe tiredness and lack of energy.
+2. Numbness or tingling: Sensations of pins and needles or loss of feeling in certain body parts.
+3. Muscle weakness: Difficulty in moving or controlling limbs.
+4. Balance and coordination problems: Difficulty with walking, stumbling, or lack of balance.
+5. Vision problems: Blurred or double vision, eye pain, or rapid eye movement.
+6. Cognitive difficulties: Problems with memory, attention, concentration, and problem-solving.
+7. Bladder and bowel problems: Frequent urination, urgency, difficulty in controlling urine or bowel movements.
+8. Sexual problems: Reduced libido, erectile dysfunction, or difficulty achieving orgasm.
+9. Pain and spasms: Experiencing muscle stiffness, spasms, or shooting pains.
+10. Emotional changes: Mood swings, depression, or anxiety.
+11. Speech difficulties: Slurred speech or problems articulating words.
+12. Heat sensitivity: Increased symptoms or temporary worsening of symptoms when exposed to heat.
+13. Tremors: Involuntary shaking of limbs or body parts.
+14. Swallowing difficulties: Choking or difficulty swallowing food or liquids.
+15. Hearing problems: Partial hearing loss or ringing in the ears (tinnitus).
+
+It's important to note that not all individuals with MS will experience all of these symptoms, and symptoms can vary greatly from person to person. It is recommended to consult with a healthcare professional for an accurate diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.011555878445506,0,question,6,0.0,225,16,ChatGPT,False,"question
+(query)"
+2763,chatgpt_132,"Headpats may not directly treat scalp psoriasis, as it is a chronic skin condition that often requires medical treatment. However, gentle head massage and patting can help improve blood circulation and provide temporary relief from itching or discomfort associated with scalp psoriasis. It is important to consult with a healthcare professional for an appropriate treatment plan tailored to your specific condition.",132,headpats scalp psoriasis,-0.0040427870117127,0,question,6,0.0,61,3,ChatGPT,False,"question
+(query)"
+2762,chatgpt_1,"The most common chronic diseases vary by region, but globally, the top chronic diseases include cardiovascular diseases (such as heart disease and stroke), cancer, chronic respiratory diseases, and diabetes. Other common chronic conditions include obesity, hypertension, and mental health disorders.
+
+Chronic diseases have significant effects on both society and the individual. From a societal perspective, chronic diseases impose a heavy economic burden due to healthcare costs, reduced productivity, and premature deaths. They often require long-term management and treatment, which leads to increased healthcare expenditures. Additionally, chronic diseases can strain healthcare systems, limit workforce potential, and hinder economic growth.
+
+For individuals, chronic diseases have profound physical, emotional, and financial impacts. They can lead to reduced quality of life, disability, and shorter lifespan. Chronic conditions often require ongoing medical care, medications, and lifestyle changes, which can be expensive and time-consuming. Individuals with chronic diseases may face challenges in fulfilling personal and professional commitments, leading to reduced productivity and potentially affecting their career opportunities.
+
+Furthermore, chronic diseases can cause psychological distress, anxiety, and depression due to the constant management of symptoms and the uncertainty surrounding the future. The burden of chronic diseases on individuals and their families can be considerable, both emotionally and financially.
+
+Overall, chronic diseases pose significant challenges for both society and individuals, highlighting the need for preventive measures, early detection, and effective management strategies to reduce their impact.",1,What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?,-0.0024308199062943,0,question,6,0.0,228,91,ChatGPT,True,"question
+(question)"
+2760,chatgpt_85,"Relapsing remitting multiple sclerosis (RRMS) is a form of multiple sclerosis (MS) that is characterized by periods of relapse, or flare-ups, followed by periods of remission, where symptoms may partially or completely disappear. During a relapse, new symptoms may arise or existing symptoms may worsen, while remission refers to a period of stability and improvement.
+
+RRMS is the most common form of MS, affecting approximately 85% of people with the condition. It often starts with an initial relapse, followed by periods of stability or recovery. However, over time, the disease can progress and lead to increased disability.
+
+The cause of RRMS is not fully understood, but it is believed to involve an abnormal immune response where the immune system mistakenly attacks the protective covering of nerve fibers in the central nervous system. This damage disrupts the communication between the brain and the rest of the body, leading to a wide range of symptoms including fatigue, muscle weakness, coordination problems, cognitive difficulties, and sensory disturbances.
+
+The treatment for RRMS aims to reduce the frequency and severity of relapses, manage symptoms, and slow down the progression of the disease. Medications such as disease-modifying therapies (DMTs) are commonly prescribed to help control inflammation and reduce the frequency and severity of relapses. Other medications may be used to manage specific symptoms, such as fatigue, muscle spasms, or pain.
+
+In addition to medication, lifestyle modifications, such as regular exercise, a healthy diet, and stress management, are also important in managing RRMS. Physical therapy, occupational therapy, and speech therapy may also be beneficial in improving mobility, function, and overall quality of life.
+
+While there is currently no cure for RRMS, advancements in research and treatment options have significantly improved outcomes for individuals living with the condition. Regular monitoring, adherence to treatment plans, and open communication with healthcare providers are key in managing RRMS effectively.",85,Relapsing remitting multiple sclerosis,-0.0106287579983472,0,question,6,0.0,308,6,ChatGPT,False,"question
+(query)"
+2759,chatgpt_130,"Neck and shoulder stretches can help relieve tension and stiffness in these areas. Here are a few stretches you can try:
+
+1. Neck tilt: Sit or stand with your back straight. Tilt your head to one side, bringing your ear towards your shoulder. Hold for 15-30 seconds, then repeat on the other side.
+
+2. Neck rotation: Sit or stand with your back straight. Slowly turn your head to one side, as if you're looking over your shoulder. Hold for 15-30 seconds, then repeat on the other side.
+
+3. Shoulder rolls: Stand with your feet shoulder-width apart. Roll your shoulders forward in a circular motion, making big circles. After a few rotations, reverse the direction and roll your shoulders backward.
+
+4. Shoulder stretch: Extend one arm straight across your chest. Use your other arm to gently pull the extended arm closer to your body, feeling a stretch in your shoulder. Hold for 15-30 seconds, then switch arms.
+
+5. Shoulder shrugs: Stand or sit with your back straight. Slowly raise your shoulders towards your ears, hold for a few seconds, then release them back down. Repeat this movement 10-15 times.
+
+Remember to perform these stretches gently and without any pain. If you have any existing neck or shoulder injuries, consult with a healthcare professional before attempting these stretches.",130,neck and shoulder stretches,-0.0026988293975591,0,question,6,0.0,216,16,ChatGPT,False,"question
+(query)"
+2758,chatgpt_51,"Holistic medicine, also known as alternative or complementary medicine, is an approach to healthcare that considers the whole person - mind, body, and spirit - rather than simply focusing on specific symptoms or diseases. It emphasizes the connection between various aspects of a person's life and aims to promote overall well-being and balance.
+
+Holistic medicine includes a wide range of practices and therapies, which may vary depending on the individual and their specific needs. Some common modalities and treatments used in holistic medicine include:
+
+1. Herbal medicine: The use of plants, herbs, and botanical preparations for healing purposes, often in the form of teas, tinctures, or supplements.
+
+2. Acupuncture: The insertion of thin needles into specific points on the body to stimulate energy flow and promote healing.
+
+3. Massage therapy: Manipulation of muscles and soft tissues to relieve pain, reduce stress, and improve circulation.
+
+4. Nutritional counseling: Evaluation of a person's dietary habits and the recommendation of specific foods or supplements to support optimal health.
+
+5. Meditation and mindfulness: Practices that promote relaxation, stress reduction, and mental clarity through focused breathing and awareness.
+
+6. Yoga and tai chi: Physical exercises and movements that promote flexibility, strength, and balance, as well as stress reduction and relaxation.
+
+7. Energy healing: Various methods, such as Reiki or Healing Touch, that aim to balance and restore the body's energy flow.
+
+8. Homeopathy: The use of highly diluted substances to stimulate the body's innate healing abilities.
+
+It is important to note that holistic medicine is often used in conjunction with conventional medical treatments, and individuals are advised to consult with healthcare professionals before making any significant changes to their healthcare regimen.",51,What is holistic medicine and what does it include?,-0.0095982970669865,0,question,6,0.0,276,32,ChatGPT,True,"question
+(question)"
+2062,chatgpt_1,"The most common chronic diseases include heart disease, cancer, stroke, diabetes, obesity, and chronic respiratory diseases such as asthma and chronic obstructive pulmonary disease (COPD). These conditions typically have long durations and may progress over time.
+
+Chronic diseases have significant effects on both society and individuals. On a societal level, chronic diseases place a heavy burden on healthcare systems, leading to increased healthcare costs, reduced workforce productivity, and economic strain. Chronic diseases also contribute to health inequalities, as certain populations may be more prone to developing these conditions due to socioeconomic factors, genetics, or lifestyle choices.
+
+For individuals, chronic diseases can significantly impact their quality of life. These conditions often require ongoing medical treatment, medication, and lifestyle modifications. Chronic diseases can lead to physical limitations, reduced mobility, and increased dependency on healthcare services. They may also cause emotional distress, anxiety, and depression. Additionally, individuals with chronic diseases may experience financial hardship due to medical expenses and reduced ability to work.
+
+Prevention and management of chronic diseases are crucial to mitigate their effects on both society and individuals. This involves adopting healthy lifestyle habits, such as engaging in regular physical activity, maintaining a balanced diet, avoiding tobacco and excessive alcohol consumption, and managing stress levels. Regular check-ups, early detection, and appropriate medical interventions are also essential in controlling chronic diseases and improving overall outcomes.",1,What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?,-0.0022941718343645,0,multimedqa,2,0.0,223,61,ChatGPT,True,"multimedqa
+(question)"
+2744,chatgpt_8,"There are several great apps that can help with daily activity and exercise for managing diabetes. Here are some of the best ones:
+
+1. MyFitnessPal: This app allows you to track your daily exercise, count calories, and monitor your blood sugar levels. It also provides personalized meal plans and nutrition information.
+
+2. MySugr: This app is specifically designed for people with diabetes to track their blood sugar levels, insulin, and carb intake. It also provides reminders for medication and offers insights into your daily habits.
+
+3. Fitbit: Fitbit is a popular fitness app and wearable device that can track your activity levels, heart rate, and sleep patterns. It also offers a dedicated diabetes tracker that allows you to monitor your blood sugar levels and track your progress.
+
+4. Diabetes Tracker: This app helps you track your blood sugar levels, medications, and daily activities. It also provides personalized reports and reminders for medication.
+
+5. Daily Yoga: Exercise is crucial for managing diabetes, and Daily Yoga offers a wide range of yoga classes and guided meditation sessions. It helps improve flexibility, strength, and overall well-being.
+
+6. Glucose Buddy: This app allows you to track your blood sugar levels, insulin doses, and carb intake. It also provides charts and graphs to help you analyze your data and make informed decisions about your diabetes management.
+
+Remember to consult with your healthcare provider before starting any new exercise program or using any apps to ensure they are suitable for your specific needs.",8,best apps daily activity exercise diabetes,-0.0024290361907333,0,question,5,0.0,247,18,ChatGPT,False,"question
+(query)"
+2755,chatgpt_96,"There is no one-size-fits-all answer to the most efficient and sustainable diets, as different factors such as personal health goals, cultural preferences, and environmental considerations come into play. However, some diets commonly recognized as efficient and sustainable include:
+
+1. Plant-based or vegetarian diets: These diets emphasize fruits, vegetables, legumes, whole grains, and nuts, with little to no animal products. They have been linked to reduced risk of chronic diseases and have a lower environmental impact compared to diets high in animal products.
+
+2. Mediterranean diet: This diet is rich in fruits, vegetables, whole grains, legumes, and healthy fats like olive oil. It includes moderate amounts of fish, poultry, and dairy, while red meat is consumed in small amounts. The Mediterranean diet has been associated with numerous health benefits and has a relatively low environmental impact.
+
+3. Flexitarian diet: This is a flexible approach that focuses on plant-based foods but allows for occasional consumption of animal products. By reducing meat consumption and increasing plant-based foods, it can be an efficient and sustainable diet.
+
+4. Locally sourced and organic diets: These diets prioritize foods grown or produced locally and without synthetic chemicals. By supporting local farmers and reducing the carbon footprint associated with transportation, these diets can be more sustainable.
+
+5. Mindful eating and portion control: Regardless of the specific diet followed, adopting mindful eating practices and portion control can enhance the efficiency and sustainability of any diet. This includes being aware of hunger and fullness cues, avoiding food waste, and making conscious choices about food consumption.
+
+It is essential to consult with a healthcare professional or registered dietitian to determine the best diet for your individual needs and goals.",96,most efficient and sustainable diets,-0.0027105992194265,0,question,6,0.0,278,31,ChatGPT,False,"question
+(query)"
+2754,chatgpt_53,"Psychotherapy is a type of mental health treatment that involves talking with a trained therapist to address and manage psychological issues, emotional difficulties, and behavioral problems. It is also known as talk therapy or counseling. The goal of psychotherapy is to help individuals understand their thoughts, feelings, and behaviors, and develop coping strategies to improve their mental well-being. It can be used to treat various mental health conditions such as depression, anxiety, addiction, trauma, and relationship problems. Psychotherapy can be conducted individually, in groups, or with couples and families. The therapist creates a safe and supportive environment to facilitate open and honest discussions, explore underlying issues, and work towards personal growth and positive change.",53,what is psychotherapy?,-0.0228500682860612,0,question,6,0.0,114,3,ChatGPT,True,"question
+(question)"
+2753,chatgpt_72,"The safety of the Covid-19 vaccine for people taking multiple sclerosis (MS) drugs depends on the specific medication and individual circumstances. Generally, the Covid-19 vaccines are considered safe for most people, including those with MS. However, it is important for individuals to consult their healthcare provider, who is familiar with their specific medication and medical history, for personalized advice. They can provide guidance on the potential risks and benefits of the vaccine in relation to the MS drugs being taken.",72,Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?,-0.0015981532633304,0,question,6,0.0,80,22,ChatGPT,True,"question
+(question)"
+2752,chatgpt_123,"Hypothyroidism is a condition in which the thyroid gland does not produce enough thyroid hormones. Symptoms of hypothyroidism can vary, but some common signs include:
+
+1. Fatigue and weakness: Feeling tired and lacking energy is a common symptom of hypothyroidism.
+2. Weight gain: People with hypothyroidism may experience unexplained weight gain or have difficulty losing weight.
+3. Cold intolerance: Feeling excessively cold, even in normal temperatures, is a common symptom.
+4. Dry skin and hair: Hypothyroidism can cause dryness and brittleness of the skin and hair.
+5. Muscle aches and joint pain: Some individuals with hypothyroidism may experience muscle and joint discomfort.
+6. Constipation: Hypothyroidism can slow down the digestive system, leading to constipation.
+7. Depression and mood changes: Thyroid hormones play a role in brain function, so a deficiency can affect mood and lead to depression or anxiety.
+8. Memory problems: Hypothyroidism can impair cognitive function, leading to forgetfulness and difficulty concentrating.
+9. Menstrual irregularities: Women with hypothyroidism may experience heavier or irregular periods.
+10. High cholesterol levels: Hypothyroidism can cause an increase in cholesterol levels, which can lead to heart problems if left untreated.
+
+It is important to note that these symptoms can vary in severity and may not be present in all individuals with hypothyroidism. If you suspect you may have hypothyroidism, it is best to consult with a healthcare professional for an accurate diagnosis and appropriate treatment.",123,hypothyroidism symptoms,-0.0290775392204523,0,question,6,0.0,231,11,ChatGPT,False,"question
+(query)"
+2751,chatgpt_95,"Reading problems in MS, or multiple sclerosis, can occur due to various factors. Some possible issues include:
+
+1. Visual disturbances: MS can cause optic neuritis, which leads to blurred vision, decreased color vision, and difficulty reading small print.
+2. Cognitive impairment: MS can affect cognitive function, including memory, attention, and processing speed, making it challenging to concentrate and understand written material.
+3. Fatigue: Fatigue is a common symptom of MS and can make it difficult to focus and retain information while reading.
+4. Physical difficulties: MS can cause problems with coordination and fine motor skills, making it challenging to hold a book or turn pages.
+5. Attention and concentration problems: MS can affect attention span and the ability to concentrate, leading to difficulty staying engaged while reading.
+
+To overcome reading problems in MS, individuals can try various strategies such as using assistive technology like text-to-speech software or audiobooks, using magnifiers or larger print materials, taking breaks to combat fatigue, and practicing mindfulness or relaxation techniques to improve concentration. Working with healthcare professionals, such as neurologists, occupational therapists, and speech-language pathologists, can also help develop personalized strategies to address reading difficulties in MS.",95,Reading problems in MS,-0.0031634545885026,0,question,6,0.0,192,15,ChatGPT,False,"question
+(query)"
+2063,chatgpt_132,"Scalp psoriasis is a chronic autoimmune condition that affects the scalp, leading to the formation of thick, scaly patches of skin. While headpats may feel soothing and provide temporary relief, they do not offer a cure for scalp psoriasis.
+
+To effectively manage scalp psoriasis, it's important to follow a comprehensive treatment plan recommended by a healthcare professional. This may include the use of topical treatments like medicated shampoos, creams, or ointments containing ingredients such as coal tar, salicylic acid, or corticosteroids. In some cases, oral medications or injections may be prescribed.
+
+Besides medication, there are a few self-care measures you can take to manage scalp psoriasis. These include gently removing scales or crusts from the scalp using a soft brush or comb after applying a moisturizer or oil to soften them. It's important to avoid scratching or picking at the affected areas, as this can worsen the condition and potentially lead to infection.
+
+Additionally, maintaining good scalp hygiene by regularly washing your hair with a mild shampoo can help manage symptoms. Avoiding harsh hair products or chemicals that may irritate the scalp is also advised.
+
+If you suspect you have scalp psoriasis or are experiencing persistent scalp issues, it is recommended to consult with a dermatologist or healthcare provider who can provide an accurate diagnosis and tailor a treatment plan to your specific needs.",132,headpats scalp psoriasis,-0.0339993424713611,0,multimedqa,2,0.0,224,12,ChatGPT,False,"multimedqa
+(query)"
+2749,chatgpt_109,"Ehlers-Danlos syndrome (EDS) is a group of genetic disorders that affect the connective tissues in the body. It can cause various symptoms, including joint hypermobility, skin fragility, and blood vessel fragility.
+
+POTS, which stands for postural orthostatic tachycardia syndrome, is a condition characterized by an abnormal increase in heart rate upon standing up. People with EDS are more susceptible to developing POTS.
+
+Nausea and stomach pain are common symptoms experienced by individuals with EDS and POTS. These symptoms can be caused by a variety of factors, such as gastrointestinal dysmotility, autonomic dysfunction, or medication side effects. It is important to consult with a healthcare professional for an accurate diagnosis and appropriate management of these symptoms.",109,ehlers danlos syndrome POTS nausea stomach pain,-0.0090888105332851,0,question,5,0.0,115,4,ChatGPT,False,"question
+(query)"
+2748,chatgpt_118,"Stage 4 triple negative breast cancer is an advanced and aggressive form of breast cancer that has spread to other parts of the body. Treatment options for this stage include:
+
+1. Chemotherapy: This is the main treatment for triple negative breast cancer. It involves the use of powerful drugs to kill cancer cells. Different combinations of chemotherapy drugs may be used, and the treatment may be given before or after surgery.
+
+2. Targeted therapy: Triple negative breast cancer does not respond to hormonal therapy or targeted drugs like Herceptin. However, there are ongoing clinical trials studying the effectiveness of targeted therapies specifically for triple negative breast cancer.
+
+3. Surgery: In some cases, surgery may be recommended to remove the primary tumor and nearby lymph nodes. However, surgery may not be possible if the cancer has spread extensively.
+
+4. Radiation therapy: This treatment uses high-energy beams to kill cancer cells. It may be given after surgery to destroy any remaining cancer cells or to relieve symptoms in advanced cases.
+
+5. Clinical trials: Participation in clinical trials may provide access to novel therapies or treatments being studied for triple negative breast cancer.
+
+It is important for patients with stage 4 triple negative breast cancer to work closely with their healthcare team to determine the most appropriate treatment plan based on their individual circumstances.",118,stage 4 triple negative breast cancer treatment,-0.002404419472441,0,question,5,0.0,221,37,ChatGPT,False,"question
+(query)"
+2747,chatgpt_58,"There are several risk factors that may increase the likelihood of developing multiple sclerosis (MS), but it is important to note that having these risk factors does not guarantee that a person will develop the condition. 
+
+1. Genetics: MS is not directly inherited, but having a close family member with the condition, such as a parent or sibling, increases the risk.
+
+2. Age: MS usually begins between the ages of 20 and 40, so being within this age range increases the risk.
+
+3. Gender: Women are about twice as likely as men to develop MS.
+
+4. Geography: MS is more common in certain regions, particularly in northern Europe, North America, and Canada. The risk is lower in regions closer to the equator.
+
+5. Smoking: Smoking has been linked to an increased risk of developing MS, as well as worsening symptoms and progression of the disease.
+
+6. Vitamin D deficiency: Low levels of vitamin D have been associated with an increased risk of developing MS.
+
+7. Infections: Certain viral infections, such as Epstein-Barr virus, have been linked to an increased risk of developing MS.
+
+It is important to remember that while these factors may increase the risk of developing MS, many people with the condition do not have any identifiable risk factors. Additionally, the exact cause of MS is still unknown, and more research is needed to fully understand the underlying factors contributing to its development.",58,Risk to develop multiple sclerosis,-0.0179004650563001,0,question,5,0.0,235,20,ChatGPT,False,"question
+(query)"
+2746,chatgpt_94,"The timeline for feeling better with multiple sclerosis can vary greatly from person to person. Some individuals may experience periods of remission where symptoms improve or go away completely for a time, while others may have a more chronic and progressive course of the disease. It is important to work closely with your healthcare team to develop a personalized treatment plan and to manage symptoms effectively. They will be able to provide guidance on when you may start to feel better and help monitor your progress.",94,When will I start to feel better with multiple sclerosis?,-0.0102846417576074,0,question,5,0.0,86,15,ChatGPT,True,"question
+(question)"
+2745,chatgpt_55,"Managing multiple sclerosis (MS) involves a combination of medical treatment, lifestyle changes, and support. Here are some strategies that can help:
+
+1. Work with a healthcare team: Find a neurologist experienced in treating MS and build a team of healthcare professionals, including physical and occupational therapists, to address your specific needs.
+
+2. Medication: Depending on the type of MS and its progression, your doctor may prescribe medications to manage symptoms, slow the progression, and modify the immune response.
+
+3. Physical activity: Engage in regular exercise, as it can help improve strength, balance, and overall well-being. Consult a physical therapist to develop a personalized exercise plan.
+
+4. Balanced diet: Eating a nutritious diet rich in fruits, vegetables, whole grains, and lean proteins can support overall health and potentially reduce inflammation.
+
+5. Stress management: Stress can exacerbate MS symptoms, so finding effective stress management techniques like relaxation exercises, meditation, or counseling can be beneficial.
+
+6. Rest and sleep: Fatigue is a common symptom of MS, so it's important to prioritize rest and ensure you get adequate sleep each night.
+
+7. Symptom management: Various symptoms of MS, such as spasticity, pain, bladder or bowel issues, and cognitive changes, can be managed with medications, assistive devices, and adaptive strategies. Discuss these symptoms with your healthcare team.
+
+8. Support groups: Joining a support group or connecting with others living with MS can provide emotional support, information sharing, and coping strategies.
+
+9. Assistive devices: Depending on your needs, assistive devices such as mobility aids, orthotics, or adaptive equipment can help maintain independence and improve quality of life.
+
+10. Regular check-ups: Stay in close contact with your healthcare team and attend regular check-ups to monitor your condition, adjust treatment plans, and address any concerns.
+
+Remember, everyone's experience with MS is different, so it's essential to work closely with your healthcare team to develop a personalized management plan.",55,How to manage multiple sclerosis?,-0.0034969625994563,0,question,5,0.0,310,9,ChatGPT,True,"question
+(question)"
+3999,chatgpt_109,"Ehlers-Danlos syndrome (EDS) is a group of genetic disorders that affect the connective tissues in the body. People with EDS often have hypermobile joints, stretchy skin, and fragile blood vessels. One common symptom of EDS is postural orthostatic tachycardia syndrome (POTS), which is a condition characterized by an abnormal increase in heart rate upon standing.
+
+Nausea and stomach pain can also be symptoms of EDS and POTS. These symptoms may be caused by gastrointestinal complications such as gastroesophageal reflux disease (GERD), dysautonomia (abnormal autonomic nervous system function), or gastrointestinal dysmotility (impaired movement of the digestive tract).
+
+If you are experiencing these symptoms, it is important to consult with a healthcare professional who can provide a proper diagnosis and develop a treatment plan tailored to your specific needs. Treatment options may include medication to manage symptoms, dietary changes, physical therapy, and lifestyle modifications.",109,ehlers danlos syndrome POTS nausea stomach pain,-0.0093268156051635,0,no_prompt,10,0.0,142,5,ChatGPT,False,"no_prompt
+(query)"
