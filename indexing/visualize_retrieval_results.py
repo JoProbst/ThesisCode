@@ -35,7 +35,7 @@ for judgement in df['judgement'].unique():
 
     # Show the plot
     plt.tight_layout()
-    plt.savefig(f'results/{judgement}.png')
+    plt.savefig(f'results/{judgement}.pdf', bbox_inches='tight')
 
 # create table with only ndcg@10, new index on name, columns on judgement, values on ndcg@10
 ndcg_df = df[['judgement', 'name', 'ndcg@10']].pivot(index='name', columns='judgement', values='ndcg@10')

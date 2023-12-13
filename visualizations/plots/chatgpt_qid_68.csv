@@ -1,0 +1,836 @@
+docno,text,qid,query,score,rank,prompt,answer_number,weighted_position,num_answer_words,num_matching_words,model,is_natural_question,query_prompt
+chatgpt_68,"- Fatigue
+- Difficulty walking or coordination problems
+- Numbness or tingling in the limbs
+- Muscle weakness
+- Problems with balance and dizziness
+- Blurred or double vision
+- Problems with coordination and muscle control
+- Slurred speech or difficulty swallowing
+- Bowel or bladder dysfunction
+- Cognitive problems, such as memory loss or difficulty concentrating
+- Depression or mood swings
+- Sexual dysfunction
+- Heat sensitivity, which can worsen symptoms
+- Pain or muscle spasms",68,List of multiple sclerosis symptoms,-9.270967483520508,157,question,4,0.7104072398190046,77,1,ChatGPT,False,"question
+(query)"
+chatgpt_68,"- Fatigue and weakness
+- Difficulty with coordination and balance
+- Numbness or tingling in the limbs
+- Muscle spasms and stiffness
+- Problems with speech and swallowing
+- Vision problems, such as double vision or blurry vision
+- Cognitive difficulties, including problems with memory and concentration
+- Depression and mood changes
+- Pain or discomfort, such as headaches or back pain
+- Problems with bladder and bowel function
+- Sexual dysfunction
+- Tremors or uncontrollable shaking
+- Heat sensitivity, where symptoms worsen in hot temperatures",68,List of multiple sclerosis symptoms,-9.195804595947266,157,q,10,0.7104072398190046,86,1,ChatGPT,False,"q
+(query)"
+chatgpt_68,"- Fatigue: Feeling excessively tired and lacking energy
+- Numbness or tingling: Sensations of pins and needles, often in the limbs
+- Muscle weakness: Difficulty in moving or controlling muscles
+- Issues with coordination and balance: Problems with walking, clumsiness, or unsteady movements
+- Problems with vision: Blurred or double vision, eye pain, or loss of vision
+- Cognitive difficulties: Problems with memory, concentration, and problem-solving
+- Difficulty speaking or slurred speech: Trouble articulating words or speaking clearly
+- Pain and discomfort: Chronic pain, particularly in the muscles or joints
+- Tremors or involuntary muscle movements: Shaking or twitching of the limbs or other body parts
+- Emotional changes: Depression, anxiety, mood swings, or irritability
+- Bowel or bladder problems: Difficulty controlling urination or bowel movements
+- Sexual dysfunction: Impotence, decreased libido, or difficulty achieving orgasm
+- Heat sensitivity: Worsening of symptoms when exposed to heat or hot temperatures
+- Vertigo or dizziness: Sensation of spinning or feeling lightheaded
+- Speech and swallowing difficulties: Trouble speaking clearly or swallowing food or liquids properly",68,List of multiple sclerosis symptoms,-8.781569480895996,152,q,5,0.6877828054298643,173,6,ChatGPT,False,"q
+(query)"
+chatgpt_68,"- Fatigue
+- Numbness or tingling in the limbs
+- Weakness or difficulty with coordination and balance
+- Problems with walking or gait
+- Muscle stiffness or spasms
+- Tremors
+- Problems with speech or swallowing
+- Vision problems, such as blurred or double vision
+- Dizziness or vertigo
+- Problems with thinking, memory, or concentration
+- Depression or mood changes
+- Pain or sensitivity in the affected areas
+- Sexual problems
+- Bladder or bowel dysfunction
+- Heat sensitivity, where symptoms worsen in hot weather or after hot showers or baths
+- Sensory symptoms, such as a burning or itching sensation
+- Difficulty with coordination and fine motor skills
+- Difficulty with balance and coordination
+- Problems with attention and concentration
+- Difficulty with speech and swallowing
+- Emotional changes, such as depression or irritability
+- Problems with memory and cognitive function
+- Difficulty with walking and balance
+- Trouble with coordination and fine motor skills
+- Numbness or tingling in the limbs
+- Muscle weakness or stiffness
+- Vision problems, such as double vision or blurred vision
+- Fatigue and lack of energy
+- Heat sensitivity, where symptoms worsen in hot weather or after hot showers or baths
+- Bowel and bladder problems, such as incontinence or difficulty emptying the bladder completely
+- Sexual dysfunction
+- Pain or discomfort in the affected areas
+- Difficulty with coordination and balance",68,List of multiple sclerosis symptoms,-8.794341087341309,152,question,9,0.6877828054298643,231,3,ChatGPT,False,"question
+(query)"
+chatgpt_68,"- Fatigue
+- Difficulty walking or coordination problems
+- Numbness or tingling in the limbs
+- Muscle weakness or spasms
+- Problems with balance and dizziness
+- Blurred or double vision
+- Slurred speech or difficulty swallowing
+- Cognitive impairment or memory problems
+- Emotional changes or mood swings
+- Pain or discomfort
+- Bladder or bowel problems
+- Sexual dysfunction
+- Heat sensitivity
+- Tremors or involuntary movements",68,List of multiple sclerosis symptoms,-8.699295043945312,151,question,2,0.6832579185520362,69,0,ChatGPT,False,"question
+(query)"
+chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy.
+2. Numbness or tingling: Sensations of pins and needles or numbness in the limbs, face, or body.
+3. Weakness: Muscles may become weak or difficult to control, leading to difficulty with gripping objects, walking, or other physical activities.
+4. Balance and coordination problems: Difficulty with balance, dizziness, and coordination issues.
+5. Muscle spasms and stiffness: Involuntary muscle contractions, muscle tightness, and stiffness.
+6. Vision problems: Blurred or double vision, eye pain, or loss of vision in one eye.
+7. Cognitive difficulties: Problems with memory, attention, concentration, and decision-making.
+8. Depression and anxiety: Emotional changes, including feelings of sadness, anxiety, and irritability.
+9. Problems with speech and swallowing: Slurred speech, difficulty articulating words, and difficulty swallowing.
+10. Bowel and bladder dysfunction: Incontinence, urgency, or difficulty with urination or bowel movements.
+11. Sexual dysfunction: Impotence, decreased sex drive, or difficulties with orgasm.
+12. Heat sensitivity: Increased symptoms when exposed to hot temperatures or during exercise.
+13. Pain: Chronic pain, including headaches, facial pain, or nerve pain.
+14. Tremors: Involuntary shaking or trembling in the limbs.
+15. Sensitivity to touch: Increased sensitivity to touch or pain.
+16. Difficulty with walking: Unsteady gait, stumbling, or difficulty walking in a straight line.
+17. Speech problems: Slurred speech, difficulty finding words, or changes in voice tone.
+18. Swallowing difficulties: Choking or coughing while eating or drinking.
+19. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.
+20. Emotional changes: Mood swings, irritability, or emotional instability.",68,List of multiple sclerosis symptoms,-8.333916664123535,148,no_prompt,9,0.669683257918552,248,5,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: Feeling excessively tired and lacking energy.
+2. Numbness or tingling: Sensations of pins and needles in various parts of the body.
+3. Muscle weakness: Difficulty in moving limbs or performing tasks that require strength.
+4. Balance and coordination problems: Unsteady gait and difficulty with fine motor skills.
+5. Blurred vision: Loss of clarity or double vision.
+6. Pain and spasms: Musculoskeletal pain and involuntary muscle contractions.
+7. Cognitive changes: Difficulty with memory, attention, and problem-solving.
+8. Bladder and bowel problems: Incontinence, frequent urination, or constipation.
+9. Sexual dysfunction: Reduced libido, erectile dysfunction, or difficulty with arousal or orgasm.
+10. Emotional changes: Depression, anxiety, irritability, or mood swings.
+11. Heat sensitivity: Worsening of symptoms when exposed to heat or hot temperatures.
+12. Speech difficulties: Slurred speech or difficulty articulating words.
+13. Tremors: Involuntary shaking or trembling of the hands or other body parts.
+14. Swallowing difficulties: Trouble swallowing food or liquids.
+15. Itching or numbness: Sensations of itching or numbness in the skin.
+16. Hearing loss: Partial or complete hearing loss in one or both ears.
+17. Respiratory problems: Difficulty breathing or shortness of breath.
+18. Dizziness and vertigo: Feeling lightheaded or experiencing a spinning sensation.
+19. Reduced sense of taste or smell: Decreased ability to taste or smell.
+20. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.",68,List of multiple sclerosis symptoms,-8.5093412399292,148,no_prompt,5,0.669683257918552,221,9,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"- Fatigue
+- Difficulty walking or coordination problems
+- Numbness or tingling in the limbs
+- Muscle weakness or spasms
+- Problems with balance and coordination
+- Blurred or double vision
+- Problems with speech or swallowing
+- Cognitive difficulties, such as memory loss or trouble concentrating
+- Depression or mood swings
+- Bowel or bladder problems
+- Sexual dysfunction
+- Heat sensitivity, which can worsen symptoms temporarily
+- Tremors or uncontrollable shaking
+- Vertigo or dizziness
+- Pain or discomfort in the body.",68,List of multiple sclerosis symptoms,-8.190292358398438,142,q,2,0.6425339366515838,84,1,ChatGPT,False,"q
+(query)"
+chatgpt_68,"- Fatigue and weakness
+- Numbness or tingling in the limbs
+- Muscle spasms and stiffness
+- Difficulty walking or maintaining balance
+- Problems with coordination and fine motor skills
+- Vision problems, such as blurred or double vision
+- Problems with speech and swallowing
+- Cognitive difficulties, such as trouble with memory and concentration
+- Emotional changes, including depression and mood swings
+- Pain, often described as aching or burning sensations
+- Bladder and bowel problems
+- Sexual dysfunction
+- Heat sensitivity, where symptoms worsen in hot weather or after physical activity
+- Tremors or uncontrollable shaking
+- Difficulty with swallowing or chewing",68,List of multiple sclerosis symptoms,-7.656305313110352,136,q,4,0.6153846153846154,104,1,ChatGPT,False,"q
+(query)"
+chatgpt_68,"- Fatigue and lack of energy
+- Difficulty walking or maintaining balance
+- Muscle weakness or spasticity
+- Numbness or tingling in the limbs
+- Vision problems, such as blurred or double vision
+- Vertigo or dizziness
+- Problems with coordination and fine motor skills
+- Difficulty speaking or slurred speech
+- Cognitive issues, such as difficulty concentrating or memory problems
+- Mood swings or depression
+- Bladder or bowel problems
+- Sexual dysfunction
+- Heat sensitivity, which can worsen symptoms temporarily
+- Pain or discomfort, including headaches or muscle aches
+- Tremors or involuntary muscle movements",68,List of multiple sclerosis symptoms,-6.576451778411865,132,no_prompt,4,0.5972850678733032,97,2,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic neurological disease that affects the central nervous system. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Feeling excessively tired, even after getting enough rest.
+2. Numbness or tingling: Sensations of pins and needles or loss of feeling in various parts of the body.
+3. Muscle weakness or spasms: Difficulty controlling or moving the muscles, including muscle cramps or stiffness.
+4. Difficulty walking or balance issues: Unsteady gait, clumsiness, or problems with coordination.
+5. Vision problems: Blurred or double vision, loss of vision, eye pain, or eye movement issues.
+6. Dizziness or vertigo: Feeling lightheaded, dizzy, or experiencing a spinning sensation.
+7. Problems with coordination and balance: Difficulty maintaining balance while standing or walking.
+8. Cognitive changes: Issues with memory, concentration, problem-solving, or multitasking.
+9. Emotional changes: Mood swings, depression, anxiety, irritability, or emotional instability.
+10. Pain or discomfort: Chronic pain, including headaches, facial pain, or muscle pain.
+11. Bladder and bowel problems: Incontinence, urgency, difficulty emptying the bladder, constipation, or diarrhea.
+12. Sexual dysfunction: Decreased libido, erectile dysfunction, or difficulty achieving orgasm.
+13. Speech and swallowing difficulties: Slurred speech, difficulty articulating, or trouble swallowing.
+14. Heat sensitivity: Increased symptoms or a temporary worsening of symptoms when exposed to heat.
+
+It's important to note that MS symptoms can vary greatly from person to person. Some individuals may experience only mild symptoms, while others may have more severe and debilitating symptoms. If you suspect you may have multiple sclerosis or are experiencing any of these symptoms, it's important to consult with a healthcare professional for proper diagnosis and treatment.",68,List of multiple sclerosis symptoms,-0.0169767495244741,0,question,8,0.0,268,17,ChatGPT,False,"question
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely from person to person, and may change over time. Here is a list of common symptoms that individuals with MS may experience:
+
+1. Fatigue: Feeling extremely tired and lacking energy is one of the most common symptoms of MS.
+
+2. Numbness or tingling: Many people with MS experience numbness or tingling in their limbs, face, or other body parts.
+
+3. Muscle weakness: Weakness in the arms or legs, difficulty walking, and poor coordination are common symptoms of MS.
+
+4. Balance problems: MS can affect your balance and coordination, leading to difficulties with walking or standing.
+
+5. Vision problems: Blurred or double vision, eye pain, and involuntary eye movements can occur in MS.
+
+6. Cognitive difficulties: Some individuals with MS may experience problems with memory, attention, and concentration.
+
+7. Depression and anxiety: MS can have a significant impact on mental health, leading to symptoms of depression and anxiety.
+
+8. Pain and spasms: MS can cause muscle pain, as well as involuntary muscle spasms or stiffness.
+
+9. Problems with speech and swallowing: MS can affect the muscles involved in speech and swallowing, leading to difficulties in these areas.
+
+10. Bladder and bowel dysfunction: MS can affect the nerves that control bladder and bowel function, causing problems such as urinary urgency, incontinence, or constipation.
+
+It's important to note that these symptoms can vary in severity and may come and go over time. If you are experiencing any of these symptoms or suspect you may have MS, it's essential to consult with a healthcare professional for a proper diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0166720934212207,0,multimedqa,4,0.0,279,17,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms experienced by individuals with MS can vary widely, but here is a list of common symptoms associated with the condition:
+
+1. Fatigue: Extreme exhaustion and lack of energy that may interfere with daily activities.
+2. Numbness or tingling: Often occurring in the limbs, face, or other areas of the body.
+3. Muscle weakness: Difficulty with coordination or weakened muscles, leading to problems with balance and mobility.
+4. Balance and coordination problems: Unsteady gait, difficulty maintaining balance, and coordination issues.
+5. Vision problems: Blurred vision, double vision, or partial loss of vision, usually occurring in one eye at a time.
+6. Cognitive difficulties: Problems with memory, attention, problem-solving, and other cognitive functions.
+7. Bladder and bowel dysfunction: Frequent urination, urgency, difficulty emptying the bladder, constipation, and bowel incontinence.
+8. Sensory changes: Heightened sensitivity to touch, temperature, or pain, or decreased sensitivity in certain areas.
+9. Spasticity: Muscle stiffness and involuntary muscle spasms.
+10. Speech difficulties: Slurred speech or difficulty articulating words.
+11. Emotional changes: Depression, anxiety, mood swings, and uncontrollable laughing or crying.
+12. Sexual problems: Decreased libido, erectile dysfunction, or difficulty achieving orgasm.
+13. Pain: Chronic pain, often in the form of neuropathic pain or muscle spasms.
+
+It's important to note that these symptoms can vary greatly among individuals with MS, and not all symptoms may be experienced by everyone. If you suspect you may have MS or are experiencing any of these symptoms, it's crucial to consult with a healthcare professional for an accurate diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0178701356053352,0,multimedqa,3,0.0,265,13,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It can cause a wide range of symptoms that vary from person to person. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Feeling excessively tired or lacking energy is one of the most common symptoms of MS.
+2. Numbness or tingling: Many individuals with MS experience numbness or tingling sensations, often in the limbs or face.
+3. Muscle weakness: Weakness in the limbs, difficulty with coordination, and problems with balance are common symptoms.
+4. Vision problems: MS can affect vision, causing blurred vision, double vision, or pain during eye movement.
+5. Problems with coordination and balance: Difficulty with walking, clumsiness, and unsteady movements can occur.
+6. Muscle spasms and stiffness: MS may cause muscle spasms, cramps, or stiffness, which can be painful.
+7. Cognitive difficulties: Some individuals with MS may experience problems with memory, attention, and problem-solving.
+8. Bladder and bowel issues: MS can lead to problems with urinary urgency, frequency, or incontinence, as well as constipation.
+9. Sensory changes: Changes in sensation, such as a reduced ability to taste or smell, can occur in MS.
+10. Emotional changes: Depression, anxiety, and mood swings can be associated with MS.
+
+It is important to note that the symptoms of MS can vary widely and may change over time. If you are experiencing any of these symptoms or have concerns, it is recommended to consult a healthcare professional for an accurate diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0176736265420913,0,multimedqa,7,0.0,252,15,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system, including the brain and spinal cord. The symptoms of MS can vary widely among individuals and can change over time. Here is a list of common symptoms:
+
+1. Fatigue: Feeling excessively tired and lacking energy is one of the most common symptoms of MS.
+2. Numbness or tingling: Sensations of numbness, tingling, or pins and needles in different parts of the body.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles, which can affect coordination and balance.
+4. Spasticity: Stiffness and involuntary muscle spasms, often leading to difficulties in movement.
+5. Balance and coordination problems: These can manifest as clumsiness, unsteadiness, or problems with walking.
+6. Vision problems: Blurred vision, double vision, or loss of vision are common symptoms of MS.
+7. Problems with speech and swallowing: MS can affect the muscles involved in speech and swallowing, leading to difficulties in these areas.
+8. Cognitive changes: Some people with MS may experience memory problems, difficulties with concentration, or changes in judgment.
+9. Emotional changes: MS can affect mood, leading to depression, anxiety, or mood swings.
+10. Pain and discomfort: MS can cause various types of pain, including nerve pain, muscle pain, and headaches.
+
+It is important to note that these symptoms can vary in severity and may come and go. Additionally, not everyone with MS will experience all of these symptoms. If you suspect you may have MS or are experiencing any concerning symptoms, it is recommended to consult with a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0180949382483959,0,multimedqa,5,0.0,264,17,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely from person to person, as the condition can affect different parts of the brain and spinal cord. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: One of the most common symptoms is extreme tiredness or fatigue, which can significantly affect daily activities.
+
+2. Numbness and tingling: Many individuals with MS experience sensations of numbness, tingling, or pins and needles in various parts of the body, such as the face, arms, or legs.
+
+3. Weakness: Muscle weakness or difficulty with coordination and balance is another common symptom. This may result in clumsiness, stumbling, or difficulty walking.
+
+4. Visual disturbances: MS can cause blurred or double vision, eye pain, or involuntary eye movements (nystagmus). Optic neuritis, inflammation of the optic nerve, is a common visual symptom.
+
+5. Problems with coordination and balance: MS can affect the cerebellum, leading to difficulties with coordination, balance, and tremors.
+
+6. Difficulty walking: Due to muscle weakness, poor coordination, or balance problems, individuals with MS may experience difficulties with walking or may need assistance, such as a cane or walker.
+
+7. Spasticity and muscle stiffness: MS can cause muscle spasms, stiffness, and tightness. These symptoms can be painful and affect mobility.
+
+8. Bladder and bowel problems: MS can affect the nerves that control bladder and bowel function, leading to urinary urgency, frequency, incontinence, or constipation.
+
+9. Cognitive changes: Some individuals with MS may experience cognitive difficulties, including problems with memory, attention, problem-solving, or multitasking.
+
+10. Emotional changes: MS can also affect mood and emotions, leading to depression, anxiety, irritability, or changes in personality.
+
+It's important to note that these symptoms can vary in severity and may come and go over time. If you experience any of these symptoms or suspect you may have MS, it is crucial to consult with a healthcare professional for a proper diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0161495432257652,0,multimedqa,6,0.0,329,18,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"There are several symptoms associated with multiple sclerosis (MS). It's important to note that the symptoms can vary widely from person to person, and they may also change over time. Here is a list of common symptoms:
+
+1. Fatigue: This is one of the most common symptoms of MS, and it can be overwhelming and debilitating.
+
+2. Numbness or tingling: Many people with MS experience a sensation of numbness or tingling in different parts of their body, often in the limbs.
+
+3. Weakness: MS can cause muscle weakness, making it difficult to perform daily activities.
+
+4. Problems with coordination and balance: Many individuals with MS experience difficulties with balance, coordination, and walking.
+
+5. Muscle spasms and stiffness: MS can cause involuntary muscle spasms and stiffness, which may be painful.
+
+6. Blurred or double vision: Vision problems, such as blurred vision, decreased vision, or double vision, are common in people with MS.
+
+7. Problems with speech and swallowing: MS can affect the muscles involved in speech and swallowing, leading to difficulties in these areas.
+
+8. Cognitive difficulties: Some individuals with MS may experience cognitive impairment, including problems with memory, attention, and problem-solving.
+
+9. Emotional changes: MS can affect a person's mood and emotions, leading to depression, anxiety, irritability, or mood swings.
+
+10. Pain: Chronic pain, such as headaches, muscle pain, or nerve pain, can be a symptom of MS.
+
+11. Bladder and bowel problems: MS can impact the function of the bladder and bowel, leading to urinary urgency, frequency, or incontinence, as well as constipation or bowel incontinence.
+
+12. Sexual dysfunction: MS can affect sexual function and desire in both men and women.
+
+It's important to remember that these symptoms can also be caused by other conditions, so it's essential to consult with a healthcare professional for an accurate diagnosis.",68,List of multiple sclerosis symptoms,-0.0183096248656511,0,question,7,0.0,299,14,ChatGPT,False,"question
+(query)"
+chatgpt_68,"- Fatigue: One of the most common symptoms of multiple sclerosis, causing overwhelming tiredness and a lack of energy.
+- Numbness or tingling: Many individuals with MS experience numbness or tingling sensations in various parts of their body, such as the arms, legs, or face.
+- Muscle weakness: MS can cause muscle weakness, making it difficult to perform everyday tasks or participate in physical activities.
+- Coordination and balance problems: Individuals with MS may experience difficulty with coordination and balance, leading to clumsiness or problems with walking.
+- Problems with walking: MS can cause difficulty with walking, such as a loss of balance, stumbling, or needing to use a mobility aid like a cane or walker.
+- Vision problems: Some individuals with MS may experience blurry or double vision, eye pain, or a loss of vision in one eye.
+- Dizziness and vertigo: MS can cause dizziness and a spinning sensation known as vertigo.
+- Cognitive changes: MS can affect cognitive abilities, including memory problems, difficulty concentrating, and trouble with problem-solving or multitasking.
+- Emotional changes: Many individuals with MS experience mood swings, depression, or anxiety.
+- Bladder and bowel problems: MS can cause bladder and bowel dysfunction, leading to issues such as urinary urgency, frequency, or incontinence, as well as constipation or diarrhea.
+- Sexual dysfunction: Some individuals with MS may experience sexual problems, such as decreased libido, erectile dysfunction, or difficulty achieving orgasm.
+- Pain: MS can cause various types of pain, including muscle pain, joint pain, or neuropathic pain (burning or tingling sensation).
+- Speech and swallowing difficulties: Some individuals with MS may experience problems with speech, such as slurred or difficult-to-understand speech, as well as difficulty swallowing.
+- Heat sensitivity: Many individuals with MS are sensitive to heat and may experience a worsening of symptoms when exposed to hot temperatures.
+- Sensory changes: MS can cause abnormal sensations, such as tingling, burning, or itching, often in the limbs or trunk.
+- Tremors or involuntary movements: Some individuals with MS may experience tremors or uncontrollable movements, known as spasticity.
+- Hearing loss or tinnitus: MS can cause hearing loss or ringing in the ears (tinnitus) in some individuals.
+- Swallowing difficulties: MS can affect the muscles involved in swallowing, leading to problems with eating or drinking.",68,List of multiple sclerosis symptoms,-0.0445753186941146,0,question,10,0.0,379,11,ChatGPT,False,"question
+(query)"
+chatgpt_68,"Common symptoms of multiple sclerosis (MS) can vary greatly between individuals, but some of the most common symptoms include:
+
+1. Fatigue: Feeling excessively tired and lacking energy, even after rest or sleep.
+2. Numbness and tingling: Feeling a sensation of pins and needles or numbness in various parts of the body, such as the arms, legs, or face.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles, which can affect mobility and coordination.
+4. Balance and coordination problems: Difficulties with balance, coordination, and walking, leading to unsteadiness or clumsiness.
+5. Vision problems: Blurred vision, double vision, or eye pain, often resulting from inflammation of the optic nerve (optic neuritis).
+6. Cognitive difficulties: Problems with memory, concentration, attention, and problem-solving abilities.
+7. Depression and anxiety: Emotional changes, including feelings of sadness, anxiety, or irritability.
+8. Pain and spasms: Experiencing pain, muscle spasms, or stiffness in various parts of the body.
+9. Bladder and bowel problems: Issues with bladder control, such as urgency, frequency, or incontinence, as well as constipation or diarrhea.
+10. Sexual dysfunction: Difficulties with sexual arousal, desire, or performance.
+11. Speech difficulties: Slurred speech, difficulty finding words, or changes in vocal tone or volume.
+12. Heat sensitivity: Increased symptoms or worsened functioning when exposed to heat or hot environments.
+
+It is important to note that these symptoms can vary in severity and frequency, and individuals with MS may experience a combination of different symptoms. Additionally, symptoms may come and go or change over time.",68,List of multiple sclerosis symptoms,-0.0227303989231586,0,q,1,0.0,246,15,ChatGPT,False,"q
+(query)"
+chatgpt_68,"1. Fatigue: Many individuals with multiple sclerosis experience extreme fatigue, which can impact their daily activities and quality of life.
+
+2. Muscle weakness: Weakness in the muscles, particularly in the arms and legs, can occur in multiple sclerosis. This can make it difficult to perform everyday tasks.
+
+3. Numbness or tingling: Some people with multiple sclerosis may experience numbness or tingling in different parts of their body, such as the face, arms, or legs.
+
+4. Balance and coordination problems: Multiple sclerosis can affect the nerves responsible for balance and coordination, leading to difficulties with walking, stumbling, or loss of balance.
+
+5. Problems with speech and swallowing: Damage to the nerves controlling speech and swallowing can result in slurred speech, difficulty in articulating words, or problems with swallowing.
+
+6. Blurred or double vision: Multiple sclerosis can cause inflammation or damage to the optic nerves, leading to blurred or double vision, as well as pain in the eyes.
+
+7. Problems with memory and concentration: Some individuals with multiple sclerosis may experience difficulties with memory, attention, and concentration, which can impact their ability to perform tasks or remember information.
+
+8. Emotional changes: Mood swings, depression, anxiety, or irritability can occur in multiple sclerosis due to the impact on the central nervous system.
+
+9. Bowel and bladder problems: Multiple sclerosis can disrupt the signals between the brain and the bladder or bowel, resulting in urinary urgency, frequency, incontinence, or difficulty with bowel movements.
+
+10. Pain and muscle spasms: Some people with multiple sclerosis may experience chronic pain, including headaches, back pain, or muscle spasms throughout the body.
+
+It is important to note that multiple sclerosis symptoms can vary greatly between individuals, and not everyone will experience all of these symptoms. Additionally, the severity and progression of symptoms can also vary from person to person.",68,List of multiple sclerosis symptoms,-0.0299089346081018,0,question,3,0.0,300,26,ChatGPT,False,"question
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic neurological condition that affects the central nervous system. The symptoms of MS can vary widely among individuals, and they can also change over time. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Feeling extremely tired, even after getting enough rest, is a common symptom of MS.
+
+2. Muscle weakness and spasms: MS can cause muscle weakness, stiffness, or difficulty coordinating movements. Muscle spasms or involuntary muscle contractions may also occur.
+
+3. Numbness or tingling: Many people with MS experience numbness or tingling sensations, often in the limbs, which may come and go or persist for extended periods.
+
+4. Balance and coordination problems: MS can affect balance, making it difficult to walk or maintain coordination.
+
+5. Problems with walking: MS can cause difficulties with walking due to muscle weakness, spasticity, or balance issues.
+
+6. Vision problems: Blurred or double vision, decreased visual acuity, or pain during eye movement are common visual symptoms of MS.
+
+7. Cognitive difficulties: Some individuals with MS may experience problems with memory, attention, problem-solving, or other cognitive functions.
+
+8. Bladder and bowel dysfunction: MS can affect the control of urination and bowel movements, leading to issues such as urinary urgency, frequency, or incontinence.
+
+9. Sexual dysfunction: MS may also cause sexual problems, including decreased libido, erectile dysfunction, or difficulties with arousal or orgasm.
+
+10. Pain and tingling sensations: MS-related pain can manifest as sharp, stabbing, or burning sensations, often in the face or limbs.
+
+It is important to note that these symptoms can vary in severity and frequency among individuals with MS. If you experience any of these symptoms or have concerns about your health, it is recommended to consult with a healthcare professional for a proper diagnosis and management plan.",68,List of multiple sclerosis symptoms,-0.0155844679102301,0,multimedqa,10,0.0,295,15,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It can cause a wide range of symptoms, which can vary from person to person. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Excessive tiredness and lack of energy are common in MS.
+2. Numbness or tingling: Sensations of numbness, tingling, or pins and needles can occur in different parts of the body.
+3. Muscle weakness or spasms: MS can cause muscle weakness or stiffness, as well as involuntary muscle spasms or cramps.
+4. Difficulty walking or coordination problems: MS can affect balance, coordination, and the ability to walk properly.
+5. Problems with vision: Blurred vision, double vision, or loss of vision in one eye can occur due to MS affecting the optic nerves.
+6. Problems with balance and coordination: MS can lead to dizziness, unsteady gait, and coordination difficulties.
+7. Cognitive changes: Some individuals may experience problems with memory, attention, concentration, or problem-solving abilities.
+8. Bowel and bladder function problems: MS can cause issues with bladder control, leading to frequent urination or difficulty emptying the bladder. Bowel problems such as constipation or incontinence may also arise.
+9. Sexual problems: MS can affect sexual function, leading to decreased libido, erectile dysfunction, or difficulties with arousal or orgasm.
+10. Pain and spasms: Some individuals with MS may experience chronic pain, including nerve pain or muscle spasms.
+11. Emotional changes: Mood swings, depression, anxiety, or emotional instability can occur in MS.
+12. Sensitivity to heat: Many people with MS find that their symptoms worsen when exposed to heat, such as hot weather or hot baths.
+
+It's important to note that not everyone with MS will experience all of these symptoms, and the severity can vary greatly. If you suspect you may have MS or are experiencing any of these symptoms, it is best to consult with a healthcare professional for a proper diagnosis and suitable treatment options.",68,List of multiple sclerosis symptoms,-0.0225312300026416,0,multimedqa,2,0.0,324,14,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"1. Fatigue: Many people with multiple sclerosis (MS) experience extreme tiredness and lack of energy, which can affect their daily activities and overall quality of life.
+2. Numbness or tingling: MS can cause sensations of numbness or tingling in different parts of the body, such as the face, arms, legs, or fingers.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles is a common symptom of MS. This can affect coordination and balance.
+4. Difficulty walking: MS can lead to problems with walking, such as a lack of coordination, unsteady gait, or difficulty lifting the feet.
+5. Coordination and balance problems: MS can affect the coordination and balance of a person, making activities like standing, walking, or even sitting difficult.
+6. Vision problems: MS can cause various vision problems, such as blurred vision, double vision, or partial loss of vision.
+7. Dizziness and vertigo: Many people with MS experience dizziness or a spinning sensation (vertigo), which can be triggered by certain head movements.
+8. Problems with speech and swallowing: MS can affect the muscles responsible for speech and swallowing, leading to difficulties in articulating words or swallowing food and liquids.
+9. Cognitive changes: MS can cause cognitive impairments, such as memory problems, decreased concentration, and difficulty with problem-solving or multitasking.
+10. Emotional changes: MS can affect a person's mood, leading to symptoms like depression, anxiety, irritability, or sudden mood swings.
+11. Bladder and bowel problems: MS can disrupt the normal functioning of the bladder and bowel, leading to symptoms like frequent urination, urgency to urinate, constipation, or loss of bowel control.
+12. Sexual dysfunction: MS can affect sexual function in both men and women, leading to problems like decreased libido, erectile dysfunction, or difficulties with arousal or orgasm.
+13. Pain and muscle spasms: Many people with MS experience chronic pain, such as headaches, back pain, or muscle spasms.
+14. Heat sensitivity: Heat can worsen MS symptoms in some individuals, causing increased fatigue, weakness, or other symptoms.
+15. Sensory disturbances: MS can cause abnormal sensations, such as itching, burning, or electric shock-like sensations in different parts of the body.",68,List of multiple sclerosis symptoms,-0.0584463030099868,0,question,5,0.0,349,16,ChatGPT,False,"question
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely depending on the location and severity of the damage to the nerves.
+
+1. Fatigue and weakness: Many individuals with MS experience severe fatigue and weakness, which can greatly impact daily activities and quality of life.
+
+2. Numbness or tingling: MS often causes abnormal sensations, such as numbness, tingling, or a ""pins and needles"" sensation in various parts of the body.
+
+3. Balance and coordination problems: MS can affect the ability to maintain balance and coordination, leading to issues with walking, dizziness, and clumsiness.
+
+4. Muscle spasms and stiffness: Many people with MS experience muscle spasms, stiffness, or uncontrollable muscle movements, which can be painful and affect mobility.
+
+5. Vision problems: MS can cause blurred or double vision, eye pain, and difficulty in controlling eye movements. In some cases, it may lead to partial or complete vision loss.
+
+6. Cognitive difficulties: MS can affect cognitive function, leading to problems with memory, attention, problem-solving, and decision-making.
+
+7. Emotional changes: Depression, anxiety, mood swings, and irritability are common emotional symptoms experienced by individuals with MS.
+
+8. Bladder and bowel problems: MS can lead to bladder dysfunction, causing symptoms such as frequent urination, urgency, and difficulty emptying the bladder. It may also cause constipation or diarrhea.
+
+9. Sexual problems: MS can affect sexual function, leading to decreased libido, erectile dysfunction in men, and decreased vaginal lubrication in women.
+
+10. Speech and swallowing difficulties: Some individuals with MS may experience slurred speech, difficulty articulating words, or problems with swallowing.
+
+11. Heat sensitivity: Many people with MS find that their symptoms worsen when they are exposed to heat, such as hot weather, hot showers, or fever.
+
+It is important to note that these symptoms can vary from person to person, and some individuals may experience only a few symptoms while others may experience multiple. Additionally, the symptoms of MS can change over time, with periods of relapse and remission. If you or someone you know is experiencing any of these symptoms, it is important to consult a healthcare professional for a proper diagnosis and management plan.",68,List of multiple sclerosis symptoms,-0.0402785576879978,0,question,1,0.0,361,16,ChatGPT,False,"question
+(query)"
+chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme fatigue that is not relieved by rest.
+
+2. Visual disturbances: Blurred or double vision, loss of vision in one eye, or involuntary eye movements can occur.
+
+3. Numbness or tingling: Sensations of numbness, tingling, or pins and needles may be felt in the limbs or other parts of the body.
+
+4. Muscle weakness: Weakness or difficulty moving the limbs, often on one side of the body, can be a symptom.
+
+5. Problems with coordination and balance: Difficulty with balance, coordination, and walking may be present, leading to unsteady movements or clumsiness.
+
+6. Muscle stiffness and spasms: Muscles may become stiff, tight, or spastic, leading to pain, cramping, or involuntary muscle contractions.
+
+7. Problems with speech and swallowing: Difficulty speaking or swallowing, slurred speech, or changes in voice can occur.
+
+8. Cognitive problems: Issues with memory, attention, concentration, problem-solving, and decision-making can be symptoms of multiple sclerosis.
+
+9. Bowel and bladder dysfunction: Problems with controlling the bladder or bowel, such as urinary urgency, frequency, or incontinence, can be experienced.
+
+10. Emotional changes: Depression, anxiety, mood swings, and irritability may be present due to the impact of multiple sclerosis on the brain and nervous system.
+
+11. Heat sensitivity: Many people with multiple sclerosis find that their symptoms worsen in hot temperatures or after exercise.
+
+12. Sexual dysfunction: Erectile dysfunction, reduced libido, or difficulties with orgasm may occur in both men and women with multiple sclerosis.
+
+13. Pain: Chronic pain, including neuropathic pain, muscle pain, and joint pain, can be a symptom of multiple sclerosis.
+
+14. Sensory disturbances: Sensitivity to touch, temperature, or pain, as well as abnormal sensations like burning or itching, can be experienced.
+
+15. Tremors: Involuntary shaking or tremors, usually in the hands or arms, can occur.
+
+It's important to note that not everyone with multiple sclerosis will experience all of these symptoms, and the severity and combination of symptoms can vary greatly among individuals.",68,List of multiple sclerosis symptoms,-0.0256743915379047,0,no_prompt,1,0.0,324,23,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely from person to person, and may change over time. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Feeling tired and lacking energy is a common symptom of MS, often occurring daily and worsening as the day progresses.
+
+2. Numbness and tingling: Many individuals with MS experience abnormal sensations such as numbness, tingling, or a ""pins and needles"" sensation in various parts of their body.
+
+3. Muscle weakness: Weakness in the arms or legs, difficulty with coordination, and a reduced ability to perform fine motor tasks may occur due to the damage to the nerves that control muscle movement.
+
+4. Balance and coordination problems: MS can affect the coordination of movements, leading to issues with balance and stability. This may result in stumbling, clumsiness, or difficulty walking.
+
+5. Vision problems: MS can cause inflammation of the optic nerve, leading to various vision problems. These may include blurred vision, double vision, eye pain, or partial or complete loss of vision.
+
+6. Cognitive difficulties: Some individuals with MS may experience problems with memory, attention, concentration, and problem-solving. These cognitive impairments can affect daily functioning and require management strategies.
+
+7. Bowel and bladder problems: MS can disrupt the normal functioning of the bowel and bladder, leading to issues such as constipation, diarrhea, urinary urgency, frequency, or incontinence.
+
+8. Sensitivity to heat: Many people with MS experience increased symptoms when exposed to heat, such as hot weather, hot showers, or fever. This phenomenon is known as Uhthoff's phenomenon.
+
+9. Emotional changes: MS can affect mood and emotional well-being. Depression, anxiety, irritability, and uncontrollable laughter or crying (known as pseudobulbar affect) may occur.
+
+10. Pain and muscle spasms: Chronic pain, including headaches, back pain, or muscle spasms, can be experienced by individuals with MS.
+
+It's important to note that these symptoms are not exclusive to MS and can also occur in other conditions. If you suspect you may have MS or experience any of these symptoms, it is crucial to consult a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.017229288816452,0,multimedqa,8,0.0,360,17,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely depending on the location and extent of the damage to the nerves. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: Feeling excessively tired, even after rest or sleep.
+2. Difficulty walking: This can include problems with balance, coordination, and muscle weakness.
+3. Numbness or tingling: Sensations of pins and needles or loss of feeling in certain body parts.
+4. Muscle weakness: Weakness or difficulty controlling muscles, particularly in the arms and legs.
+5. Spasticity: Stiffness and involuntary muscle spasms, which can affect movement.
+6. Vision problems: Blurred vision, double vision, or pain when moving the eyes.
+7. Balance and coordination problems: Difficulty with balance, coordination, and clumsiness.
+8. Cognitive changes: Problems with memory, attention, and problem-solving skills.
+9. Bladder and bowel dysfunction: Difficulty controlling urination or bowel movements.
+10. Sexual problems: Reduced libido, erectile dysfunction, or difficulty reaching orgasm.
+11. Emotional changes: Depression, anxiety, mood swings, or uncontrollable laughing or crying.
+12. Pain and muscle spasms: Chronic pain, often in the back or legs, as well as muscle spasms.
+
+It's important to note that not all individuals with MS experience the same symptoms, and the severity of symptoms can vary. If you suspect you may have MS or are experiencing any of these symptoms, it is recommended to consult with a healthcare professional for a proper diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0168025698512792,0,multimedqa,9,0.0,246,14,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely between individuals, depending on which areas of the central nervous system are affected. Here is a list of common symptoms associated with multiple sclerosis:
+
+1. Fatigue: One of the most common symptoms experienced by individuals with MS is excessive fatigue, which can significantly impact daily activities.
+
+2. Numbness or tingling: Many people with MS experience numbness or tingling sensations in various parts of their body. This can occur in the face, arms, legs, or other areas.
+
+3. Muscle weakness: Weakness in the muscles, often accompanied by difficulty with coordination and balance, is another common symptom. This can lead to problems with walking or performing fine motor tasks.
+
+4. Problems with coordination and balance: MS can affect the cerebellum and other areas of the brain responsible for coordination and balance, leading to difficulties in walking or maintaining balance.
+
+5. Vision problems: Blurred or double vision, eye pain, and impaired color vision are common visual symptoms of MS. Optic neuritis, inflammation of the optic nerve, is frequently associated with multiple sclerosis.
+
+6. Cognitive difficulties: Some individuals with MS may experience problems with memory, attention, and information processing. This can affect their ability to concentrate and perform tasks that require mental effort.
+
+7. Bowel and bladder dysfunction: MS can cause disruptions in the normal functioning of the bowel and bladder, leading to problems such as constipation, diarrhea, urinary urgency, or incontinence.
+
+8. Sensitivity to heat: Many people with MS experience a worsening of symptoms when exposed to heat. This can lead to temporary exacerbation of existing symptoms or the appearance of new symptoms.
+
+9. Pain and muscle spasms: MS can cause chronic pain, often in the form of spasms or stiffness in the muscles. This can occur in various parts of the body and may be difficult to manage.
+
+10. Emotional changes: Depression, anxiety, mood swings, and irritability are commonly reported in individuals with MS. These emotional changes may be related to the physical and cognitive challenges associated with the condition.
+
+It's important to note that the symptoms of MS can vary greatly from person to person, and some individuals may experience additional symptoms not listed here. If you suspect you may have MS or are experiencing any concerning symptoms, it is recommended to consult with a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0173784382641315,0,multimedqa,1,0.0,403,28,ChatGPT,False,"multimedqa
+(query)"
+chatgpt_68,"1. Fatigue: People with multiple sclerosis often experience extreme fatigue, even after minimal physical or mental exertion.
+
+2. Numbness or tingling: Many individuals with MS may develop numbness or tingling sensations in various parts of their body, particularly in the limbs.
+
+3. Muscle weakness: Weakness or difficulty in controlling the muscles may occur, making it challenging to perform everyday tasks like walking or holding objects.
+
+4. Coordination and balance problems: MS can cause issues with coordination and balance, leading to clumsiness, difficulty walking, and a higher risk of falling.
+
+5. Problems with vision: Visual disturbances are common in MS, including blurred vision, double vision, or partial or complete loss of vision.
+
+6. Tremors or uncontrollable shaking: Some individuals with MS may experience tremors or shaking, especially in the hands or limbs.
+
+7. Difficulty with speech and swallowing: MS can affect the muscles involved in speech and swallowing, resulting in slurred speech or difficulty swallowing.
+
+8. Cognitive problems: Many people with MS experience cognitive impairments, which can include problems with memory, attention, concentration, and problem-solving.
+
+9. Emotional changes: MS can cause emotional changes such as depression, anxiety, irritability, or mood swings.
+
+10. Pain and muscle spasms: Individuals with MS may experience muscle pain, as well as involuntary muscle spasms or cramps.
+
+11. Bladder and bowel problems: MS can lead to bladder and bowel dysfunction, causing difficulties with urination or bowel movements.
+
+12. Sexual dysfunction: Some individuals with MS may experience problems with sexual function, including decreased libido, erectile dysfunction, or difficulty achieving orgasm.
+
+13. Sensitivity to heat: Many people with MS are sensitive to heat, which can worsen existing symptoms or trigger new ones.
+
+14. Dizziness and vertigo: MS can cause dizziness, lightheadedness, or a spinning sensation (vertigo), making it difficult to maintain balance.
+
+It is important to note that the symptoms and their severity can vary significantly among individuals with multiple sclerosis. Additionally, symptoms may come and go or change over time.",68,List of multiple sclerosis symptoms,-0.04600116237998,0,no_prompt,2,0.0,322,9,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: MS often causes extreme fatigue and lack of energy, which can affect daily activities.
+
+2. Numbness or tingling: Many people with MS experience numbness or tingling in their limbs, face, or other parts of their body.
+
+3. Muscle weakness: Weakness or difficulty with coordination and balance are common symptoms of MS.
+
+4. Vision problems: MS can cause blurred or double vision, eye pain, or even loss of vision in some cases.
+
+5. Dizziness and vertigo: Many individuals with MS experience dizziness, lightheadedness, or a spinning sensation (vertigo).
+
+6. Difficulty with coordination and balance: MS can affect the ability to walk steadily, maintain balance, or coordinate movements.
+
+7. Problems with speech and swallowing: MS can cause slurred speech, difficulty finding words, or trouble swallowing.
+
+8. Cognitive changes: Some individuals with MS may experience problems with memory, attention, concentration, and other cognitive functions.
+
+9. Emotional changes: MS can also cause mood swings, depression, anxiety, or other emotional changes.
+
+10. Pain and muscle spasms: Many people with MS experience pain, including muscle spasms, back pain, or general discomfort.
+
+11. Bladder and bowel dysfunction: MS can affect bladder and bowel control, leading to urinary urgency, frequency, or incontinence, as well as constipation or diarrhea.
+
+12. Sexual dysfunction: MS can also cause sexual problems, including decreased libido, erectile dysfunction, or difficulty reaching orgasm.
+
+13. Sensitivity to heat: Many individuals with MS experience increased symptoms or temporary worsening of symptoms when exposed to heat, such as during hot weather or a hot shower.
+
+14. Tremors: Some people with MS may have involuntary trembling or shaking movements.
+
+15. Difficulty with coordination and fine motor skills: MS can make it challenging to perform tasks that require fine motor skills, such as writing or buttoning a shirt.
+
+It's important to note that not everyone with MS will experience all of these symptoms, and the severity and progression of symptoms can vary widely from person to person.",68,List of multiple sclerosis symptoms,-0.061999324709177,0,no_prompt,3,0.0,319,11,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme fatigue, often unrelated to the level of physical activity or exertion.
+2. Numbness or tingling: This symptom commonly occurs in the limbs, face, or other parts of the body.
+3. Muscle weakness: Weakness or difficulty moving the limbs or maintaining balance.
+4. Problems with coordination and balance: People with multiple sclerosis may have trouble walking or may experience frequent falls.
+5. Problems with walking: This can include difficulty with balance, coordination, or maintaining a normal gait.
+6. Muscle spasms or stiffness: Involuntary muscle contractions or stiffness, especially in the legs.
+7. Problems with speech and swallowing: Speech may become slurred or difficult to understand, and swallowing may become challenging.
+8. Vision problems: Blurred vision, double vision, or partial loss of vision are common symptoms.
+9. Dizziness and vertigo: A feeling of lightheadedness, spinning, or imbalance.
+10. Problems with bowel and bladder function: This can include incontinence, urgency, or difficulty emptying the bladder or bowels.
+11. Cognitive changes: Many people with multiple sclerosis experience difficulties with memory, attention, problem-solving, and other cognitive functions.
+12. Emotional changes: Mood swings, depression, anxiety, and irritability are common symptoms.
+13. Pain and tingling: Chronic pain, such as burning or aching sensations, may be present.
+14. Heat sensitivity: Many people with multiple sclerosis find that heat, such as hot weather or hot baths, worsens their symptoms.
+15. Sexual dysfunction: Problems with sexual desire, arousal, or function can occur.
+16. Tremors: Involuntary shaking or trembling, often in the hands or limbs.
+17. Difficulty with swallowing and chewing: This can lead to problems with eating and maintaining proper nutrition.
+18. Respiratory problems: People with multiple sclerosis may experience difficulty breathing or have a higher risk of respiratory infections.
+19. Sensitivity to cold temperatures: Cold weather or exposure to cold temperatures may worsen symptoms.
+20. Hearing loss or ringing in the ears (tinnitus): Some individuals with multiple sclerosis develop hearing problems or experience a persistent ringing in the ears.",68,List of multiple sclerosis symptoms,-0.0223960187286138,0,no_prompt,10,0.0,329,17,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: MS often causes extreme tiredness and lack of energy.
+2. Numbness or tingling: Many people with MS experience numbness or tingling in their limbs or other parts of their body.
+3. Muscle weakness: MS can cause weakness in the muscles, making it difficult to move or perform everyday tasks.
+4. Balance and coordination problems: MS can affect balance and coordination, leading to difficulty walking or performing fine motor tasks.
+5. Vision problems: Some people with MS experience blurred vision, double vision, or loss of vision in one eye.
+6. Difficulty with speech and swallowing: MS can affect the muscles involved in speech and swallowing, leading to slurred speech or difficulty swallowing.
+7. Cognitive problems: Many people with MS experience difficulties with memory, attention, and problem-solving.
+8. Emotional changes: MS can cause mood swings, depression, anxiety, and other emotional changes.
+9. Pain and muscle spasms: Some people with MS experience pain and muscle spasms, which can be severe and debilitating.
+10. Bladder and bowel problems: MS can affect the nerves that control the bladder and bowel, leading to urinary urgency, frequency, or incontinence, as well as constipation or bowel incontinence.
+11. Sexual dysfunction: MS can cause sexual problems such as decreased libido, erectile dysfunction, or difficulty reaching orgasm.
+12. Heat sensitivity: Many people with MS find that their symptoms worsen when they are exposed to heat, such as in hot weather or during a hot shower.
+13. Tremors or shaking: Some people with MS experience tremors or shaking in their limbs.
+14. Difficulty with coordination and fine motor skills: MS can make it difficult to perform precise movements, such as writing or buttoning a shirt.
+15. Dizziness and vertigo: Some people with MS experience dizziness or a spinning sensation (vertigo).
+It's important to note that everyone's experience with MS is different, and not all individuals will experience all of these symptoms. Additionally, symptoms can vary in severity and frequency. It is recommended to consult a healthcare professional for a proper diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.0786909908056259,0,no_prompt,6,0.0,336,7,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: Many individuals with multiple sclerosis experience extreme tiredness and lack of energy, even after a good night's sleep.
+2. Numbness or tingling: Some people with multiple sclerosis may experience a sensation of numbness or tingling in various parts of their body, often in the limbs.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles, especially in the legs, is a common symptom of multiple sclerosis.
+4. Balance and coordination problems: People with multiple sclerosis may have difficulty with balance and coordination, leading to problems with walking or performing everyday tasks.
+5. Vision problems: Visual disturbances such as blurred vision, double vision, or partial loss of vision can occur in individuals with multiple sclerosis.
+6. Pain and discomfort: Some people with multiple sclerosis may experience pain, particularly in the muscles or joints.
+7. Cognitive changes: Problems with memory, attention, and processing information are common in individuals with multiple sclerosis.
+8. Emotional changes: Mood swings, depression, or anxiety can occur as a result of multiple sclerosis.
+9. Bladder and bowel problems: Frequent urination, difficulty emptying the bladder, or constipation are common symptoms.
+10. Sexual dysfunction: Many individuals with multiple sclerosis experience problems with sexual function, such as reduced libido or difficulty achieving orgasm.
+11. Speech difficulties: Some people with multiple sclerosis may have difficulty speaking clearly or forming words.
+12. Tremors or shaking: Uncontrollable shaking or tremors, particularly in the hands, can occur in multiple sclerosis.
+13. Sensitivity to heat: Many individuals with multiple sclerosis find that their symptoms worsen in hot weather or after physical activity.
+14. Dizziness or vertigo: Feeling lightheaded, dizzy, or experiencing a spinning sensation can be a symptom of multiple sclerosis.
+15. Difficulty swallowing: Some people with multiple sclerosis may have trouble swallowing or feel like food is getting stuck in their throat.
+It's important to note that these symptoms can vary greatly from person to person and may change over time. It is recommended to consult a healthcare professional for a proper diagnosis and management of multiple sclerosis symptoms.",68,List of multiple sclerosis symptoms,-0.0207524430006742,0,no_prompt,7,0.0,336,34,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy are common symptoms of multiple sclerosis (MS).
+
+2. Numbness or tingling: Many individuals with MS experience numbness or tingling in their limbs, which can range from mild to severe.
+
+3. Muscle weakness: Weakness in the muscles, particularly in the arms and legs, is a common symptom of MS.
+
+4. Difficulty walking: MS can affect a person's coordination and balance, making it difficult to walk or maintain a steady gait.
+
+5. Problems with coordination and balance: Individuals with MS may experience difficulty with coordination, such as clumsiness or a lack of balance.
+
+6. Muscle spasms or stiffness: MS can cause muscles to become stiff or spasm, leading to pain and discomfort.
+
+7. Blurred vision: MS can affect the optic nerves, leading to blurred or double vision.
+
+8. Problems with speech: Some individuals with MS may experience difficulty speaking clearly or slurred speech.
+
+9. Cognitive difficulties: MS can affect cognitive function, leading to problems with memory, attention, and problem-solving.
+
+10. Bowel and bladder problems: MS can cause issues with bowel and bladder control, including frequent urination or constipation.
+
+11. Sexual dysfunction: MS can affect sexual function, leading to decreased libido or difficulties with arousal or orgasm.
+
+12. Dizziness and vertigo: Some individuals with MS may experience dizziness or a spinning sensation (vertigo).
+
+13. Pain and tingling: MS can cause various types of pain, including sharp or stabbing sensations, aching, or burning pain.
+
+14. Emotional changes: MS can cause mood swings, depression, anxiety, and irritability.
+
+15. Heat sensitivity: Many individuals with MS are sensitive to heat and may experience worsening symptoms when exposed to hot temperatures.
+
+It's important to note that the symptoms of multiple sclerosis can vary widely from person to person, and not everyone with MS will experience all of the listed symptoms. Additionally, symptoms can fluctuate and change over time. If you are experiencing any of these symptoms or suspect you may have MS, it is important to consult with a healthcare professional for an accurate diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0387367308139801,0,no_prompt,8,0.0,338,17,ChatGPT,False,"no_prompt
+(query)"
+chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme fatigue, often described as a lack of energy or a feeling of exhaustion even after minimal physical or mental exertion.
+
+2. Numbness or tingling: Numbness or a pins-and-needles sensation in various parts of the body, such as the face, arms, legs, or fingers, is a common symptom.
+
+3. Muscle weakness: Weakness or difficulty in moving certain muscles can occur, making activities such as walking, lifting objects, or holding utensils challenging.
+
+4. Balance and coordination problems: Many individuals with multiple sclerosis experience issues with balance and coordination, leading to difficulties in walking, coordination of movements, or maintaining posture.
+
+5. Vision problems: Blurred or double vision, often accompanied by eye pain or discomfort, can be a symptom of multiple sclerosis. Some individuals may also experience partial or total loss of vision.
+
+6. Cognitive difficulties: Many people with multiple sclerosis experience problems with memory, attention, concentration, and problem-solving. They may also have difficulty with information processing and multitasking.
+
+7. Emotional changes: Mood swings, depression, anxiety, and irritability are common emotional changes associated with multiple sclerosis. Some individuals may also experience episodes of uncontrollable laughter or crying.
+
+8. Pain and muscle spasms: Chronic pain, including muscle and joint pain, as well as muscle spasms or stiffness, can occur in individuals with multiple sclerosis.
+
+9. Bladder and bowel problems: Multiple sclerosis can lead to bladder and bowel dysfunction, causing issues such as frequent urination, urgency, difficulty emptying the bladder, constipation, or loss of bowel control.
+
+10. Sexual dysfunction: Many individuals with multiple sclerosis may experience decreased libido, difficulties with arousal or orgasm, or other sexual dysfunction.
+
+11. Heat sensitivity: Excessive heat, such as hot weather or hot baths, can exacerbate symptoms in people with multiple sclerosis. It may cause temporary worsening of symptoms or lead to fatigue and weakness.
+
+12. Speech and swallowing difficulties: Some individuals with multiple sclerosis may experience slurred speech, difficulty articulating words, or problems with swallowing.
+
+It's important to note that multiple sclerosis symptoms can vary widely among individuals, and not everyone will experience all of these symptoms. Additionally, the severity and progression of symptoms can also differ from person to person. If you suspect you may have multiple sclerosis or are experiencing any of these symptoms, it's important to consult a healthcare professional for an accurate diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0221647191792726,0,q,7,0.0,389,36,ChatGPT,False,"q
+(query)"
+chatgpt_68,"Some common symptoms of multiple sclerosis include:
+
+1. Fatigue: Feeling excessively tired and lacking energy.
+2. Numbness or tingling: Sensations of numbness or tingling in the limbs, usually starting in the fingers or toes.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles.
+4. Balance and coordination problems: Difficulty maintaining balance and coordination, leading to unsteady movements or difficulty walking.
+5. Vision problems: Blurred or double vision, loss of vision in one eye, or pain with eye movement.
+6. Cognitive difficulties: Problems with memory, attention, problem-solving, or overall cognitive function.
+7. Depression and anxiety: Feeling sad, hopeless, or anxious.
+8. Pain and muscle spasms: Experience of chronic pain, muscle stiffness, or muscle spasms.
+9. Sexual dysfunction: Difficulty with sexual arousal, performance, or satisfaction.
+10. Bladder and bowel problems: Difficulty with bladder control, frequent urination, urgency to urinate, constipation, or loss of bowel control.
+
+It's important to note that the symptoms of multiple sclerosis can vary greatly from person to person, and some individuals may experience additional symptoms not listed here.",68,List of multiple sclerosis symptoms,-0.0161990411579608,0,q,6,0.0,171,13,ChatGPT,False,"q
+(query)"
+chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
+
+1. Fatigue: Feeling excessively tired or lacking energy.
+2. Numbness or tingling: Sensation of pins and needles, often in the limbs.
+3. Muscle weakness: Difficulty in controlling or moving muscles.
+4. Problems with coordination and balance: Difficulty walking or maintaining balance.
+5. Vision problems: Blurred or double vision, loss of vision, or eye pain.
+6. Cognitive difficulties: Problems with memory, attention, or problem-solving.
+7. Bowel and bladder dysfunction: Incontinence, constipation, or frequent urination.
+8. Sexual dysfunction: Decreased libido or difficulty achieving orgasm.
+9. Pain and spasms: Musculoskeletal pain, muscle spasms, or burning sensations.
+10. Depression and anxiety: Feeling sad, hopeless, or excessively worried.
+11. Speech difficulties: Slurred speech or difficulty finding the right words.
+12. Swallowing problems: Difficulty swallowing food or liquids.
+13. Heat sensitivity: Experiencing worsened symptoms in hot weather or after hot showers.
+14. Emotional changes: Mood swings, irritability, or emotional instability.
+15. Tremors: Involuntary shaking movements in one or more parts of the body.
+
+It is important to note that MS symptoms can vary widely between individuals and may change over time. It is recommended to consult a healthcare professional for a proper diagnosis and management of MS symptoms.",68,List of multiple sclerosis symptoms,-0.0192880071699619,0,q,3,0.0,200,10,ChatGPT,False,"q
+(query)"
+chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
+
+1. Fatigue: Many people with MS experience extreme tiredness and a lack of energy.
+2. Numbness or tingling: MS can cause sensations of numbness, tingling, or pins and needles in various parts of the body.
+3. Muscle weakness: Weakness or difficulty in moving certain muscles, especially in the legs, is a common symptom of MS.
+4. Problems with coordination and balance: MS can affect coordination and balance, leading to clumsiness, unsteady gait, and difficulty with fine motor skills.
+5. Vision problems: Blurred or double vision, loss of vision in one eye, or involuntary eye movements can occur due to MS.
+6. Cognitive difficulties: Many people with MS experience problems with memory, attention, problem-solving, and other cognitive functions.
+7. Bowel and bladder problems: MS can cause issues with bowel and bladder control, leading to urinary urgency, frequency, or incontinence, as well as constipation.
+8. Pain and muscle spasms: MS can cause various types of pain, including muscle spasms, shooting or burning pains, and nerve pain.
+9. Emotional changes: Depression, anxiety, mood swings, and difficulty controlling emotions can be associated with MS.
+10. Speech difficulties: Some individuals with MS may have slurred speech, difficulty articulating words, or changes in voice quality.
+11. Sexual dysfunction: MS can affect sexual function, leading to decreased libido, erectile dysfunction, or difficulty achieving orgasm.
+12. Heat sensitivity: Many people with MS experience a worsening of symptoms when exposed to heat, such as hot weather or hot baths.
+13. Sensory disturbances: MS can cause abnormal sensations like itching, burning, or a feeling of tightness in the skin.
+14. Dizziness and vertigo: Some individuals with MS may experience dizziness, lightheadedness, or a spinning sensation (vertigo).
+15. Difficulty walking: As MS progresses, it can cause significant mobility issues, including difficulty walking or even complete loss of mobility.
+
+It is important to note that MS symptoms can vary widely between individuals, and not everyone will experience all of these symptoms. Additionally, the severity and frequency of symptoms can also vary. It is recommended to consult a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0255832970142364,0,q,9,0.0,351,18,ChatGPT,False,"q
+(query)"
+chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
+
+1. Fatigue: Feeling extremely tired and lacking energy.
+2. Numbness or tingling: Sensations of pins and needles in the extremities.
+3. Muscle weakness: Difficulty in controlling and coordinating muscle movements.
+4. Balance and coordination problems: Trouble with walking, dizziness, and clumsiness.
+5. Vision problems: Blurred or double vision, eye pain, and loss of vision.
+6. Cognitive difficulties: Problems with memory, attention, and problem-solving.
+7. Depression and anxiety: Emotional changes and mood swings.
+8. Speech and swallowing problems: Difficulty in speaking clearly and swallowing food or liquids.
+9. Bladder and bowel dysfunction: Frequent urination, urgency, constipation, and incontinence.
+10. Sexual dysfunction: Loss of libido, erectile dysfunction, and difficulty in achieving orgasm.
+11. Pain and muscle spasms: Chronic pain and involuntary muscle contractions.
+12. Heat sensitivity: Worsening of symptoms in response to heat exposure.
+13. Tremors and involuntary movements: Shaking or uncontrollable movements.
+14. Sensitivity to touch and temperature: Increased sensitivity to pain, touch, and extreme temperatures.
+15. Vertigo: A spinning sensation or feeling off-balance.
+
+It is important to note that the symptoms of MS can vary greatly from person to person, and individuals may experience a combination of these symptoms or different symptoms altogether. It is recommended to consult a healthcare professional for an accurate diagnosis and personalized treatment plan.",68,List of multiple sclerosis symptoms,-0.0213192719966173,0,q,8,0.0,217,14,ChatGPT,False,"q
+(query)"
+chatgpt_68,"Here is a list of common symptoms experienced by individuals with multiple sclerosis (MS):
+
+1. Fatigue: Severe tiredness and lack of energy.
+2. Numbness or tingling: Sensations of pins and needles or loss of feeling in certain body parts.
+3. Muscle weakness: Difficulty in moving or controlling limbs.
+4. Balance and coordination problems: Difficulty with walking, stumbling, or lack of balance.
+5. Vision problems: Blurred or double vision, eye pain, or rapid eye movement.
+6. Cognitive difficulties: Problems with memory, attention, concentration, and problem-solving.
+7. Bladder and bowel problems: Frequent urination, urgency, difficulty in controlling urine or bowel movements.
+8. Sexual problems: Reduced libido, erectile dysfunction, or difficulty achieving orgasm.
+9. Pain and spasms: Experiencing muscle stiffness, spasms, or shooting pains.
+10. Emotional changes: Mood swings, depression, or anxiety.
+11. Speech difficulties: Slurred speech or problems articulating words.
+12. Heat sensitivity: Increased symptoms or temporary worsening of symptoms when exposed to heat.
+13. Tremors: Involuntary shaking of limbs or body parts.
+14. Swallowing difficulties: Choking or difficulty swallowing food or liquids.
+15. Hearing problems: Partial hearing loss or ringing in the ears (tinnitus).
+
+It's important to note that not all individuals with MS will experience all of these symptoms, and symptoms can vary greatly from person to person. It is recommended to consult with a healthcare professional for an accurate diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.011555878445506,0,question,6,0.0,225,16,ChatGPT,False,"question
+(query)"
