@@ -1,4 +1,4 @@
-,docno,text,qid,query,score,rank,prompt,answer_number,weighted_position,num_answer_words,num_matching_words,model,is_natural_question,query_prompt
+,docno,text,qid,query,score,rank,prompt,answer_number,weighted_position,num_answer_words,num_matching_words,model,is_natural_question,contains_only_query_words,query_prompt
 3202,chatgpt_123,"- Fatigue and low energy levels
 - Weight gain or difficulty losing weight
 - Cold sensitivity
@@ -13,7 +13,7 @@
 - Infertility or difficulty getting pregnant
 - Increased sensitivity to cold temperatures
 - Swelling in the face or extremities (edema)
-- Hoarse voice or difficulty speaking clearly",123,hypothyroidism symptoms,-11.716312408447266,125,q,5,0.7716049382716049,81,0,ChatGPT,False,"q
+- Hoarse voice or difficulty speaking clearly",123,hypothyroidism symptoms,-11.716312408447266,125,q,5,0.7716049382716049,81,0,ChatGPT,False,False,"q
 (query)"
 2664,chatgpt_68,"- Fatigue
 - Difficulty walking or coordination problems
@@ -28,7 +28,7 @@
 - Depression or mood swings
 - Sexual dysfunction
 - Heat sensitivity, which can worsen symptoms
-- Pain or muscle spasms",68,List of multiple sclerosis symptoms,-9.270967483520508,157,question,4,0.7104072398190046,77,1,ChatGPT,False,"question
+- Pain or muscle spasms",68,List of multiple sclerosis symptoms,-9.270967483520508,157,question,4,0.7104072398190046,77,1,ChatGPT,False,False,"question
 (query)"
 3464,chatgpt_68,"- Fatigue and weakness
 - Difficulty with coordination and balance
@@ -42,7 +42,7 @@
 - Problems with bladder and bowel function
 - Sexual dysfunction
 - Tremors or uncontrollable shaking
-- Heat sensitivity, where symptoms worsen in hot temperatures",68,List of multiple sclerosis symptoms,-9.195804595947266,157,q,10,0.7104072398190046,86,1,ChatGPT,False,"q
+- Heat sensitivity, where symptoms worsen in hot temperatures",68,List of multiple sclerosis symptoms,-9.195804595947266,157,q,10,0.7104072398190046,86,1,ChatGPT,False,False,"q
 (query)"
 3214,chatgpt_68,"- Fatigue: Feeling excessively tired and lacking energy
 - Numbness or tingling: Sensations of pins and needles, often in the limbs
@@ -58,7 +58,7 @@
 - Sexual dysfunction: Impotence, decreased libido, or difficulty achieving orgasm
 - Heat sensitivity: Worsening of symptoms when exposed to heat or hot temperatures
 - Vertigo or dizziness: Sensation of spinning or feeling lightheaded
-- Speech and swallowing difficulties: Trouble speaking clearly or swallowing food or liquids properly",68,List of multiple sclerosis symptoms,-8.781569480895996,152,q,5,0.6877828054298643,173,6,ChatGPT,False,"q
+- Speech and swallowing difficulties: Trouble speaking clearly or swallowing food or liquids properly",68,List of multiple sclerosis symptoms,-8.781569480895996,152,q,5,0.6877828054298643,173,6,ChatGPT,False,False,"q
 (query)"
 2914,chatgpt_68,"- Fatigue
 - Numbness or tingling in the limbs
@@ -92,7 +92,7 @@
 - Bowel and bladder problems, such as incontinence or difficulty emptying the bladder completely
 - Sexual dysfunction
 - Pain or discomfort in the affected areas
-- Difficulty with coordination and balance",68,List of multiple sclerosis symptoms,-8.794341087341309,152,question,9,0.6877828054298643,231,3,ChatGPT,False,"question
+- Difficulty with coordination and balance",68,List of multiple sclerosis symptoms,-8.794341087341309,152,question,9,0.6877828054298643,231,3,ChatGPT,False,False,"question
 (query)"
 2564,chatgpt_68,"- Fatigue
 - Difficulty walking or coordination problems
@@ -107,7 +107,7 @@
 - Bladder or bowel problems
 - Sexual dysfunction
 - Heat sensitivity
-- Tremors or involuntary movements",68,List of multiple sclerosis symptoms,-8.699295043945312,151,question,2,0.6832579185520362,69,0,ChatGPT,False,"question
+- Tremors or involuntary movements",68,List of multiple sclerosis symptoms,-8.699295043945312,151,question,2,0.6832579185520362,69,0,ChatGPT,False,False,"question
 (query)"
 3914,chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy.
 2. Numbness or tingling: Sensations of pins and needles or numbness in the limbs, face, or body.
@@ -128,7 +128,7 @@
 17. Speech problems: Slurred speech, difficulty finding words, or changes in voice tone.
 18. Swallowing difficulties: Choking or coughing while eating or drinking.
 19. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.
-20. Emotional changes: Mood swings, irritability, or emotional instability.",68,List of multiple sclerosis symptoms,-8.333916664123535,148,no_prompt,9,0.669683257918552,248,5,ChatGPT,False,"no_prompt
+20. Emotional changes: Mood swings, irritability, or emotional instability.",68,List of multiple sclerosis symptoms,-8.333916664123535,148,no_prompt,9,0.669683257918552,248,5,ChatGPT,False,False,"no_prompt
 (query)"
 3714,chatgpt_68,"1. Fatigue: Feeling excessively tired and lacking energy.
 2. Numbness or tingling: Sensations of pins and needles in various parts of the body.
@@ -149,7 +149,7 @@
 17. Respiratory problems: Difficulty breathing or shortness of breath.
 18. Dizziness and vertigo: Feeling lightheaded or experiencing a spinning sensation.
 19. Reduced sense of taste or smell: Decreased ability to taste or smell.
-20. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.",68,List of multiple sclerosis symptoms,-8.5093412399292,148,no_prompt,5,0.669683257918552,221,9,ChatGPT,False,"no_prompt
+20. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.",68,List of multiple sclerosis symptoms,-8.5093412399292,148,no_prompt,5,0.669683257918552,221,9,ChatGPT,False,False,"no_prompt
 (query)"
 3064,chatgpt_68,"- Fatigue
 - Difficulty walking or coordination problems
@@ -165,7 +165,7 @@
 - Heat sensitivity, which can worsen symptoms temporarily
 - Tremors or uncontrollable shaking
 - Vertigo or dizziness
-- Pain or discomfort in the body.",68,List of multiple sclerosis symptoms,-8.190292358398438,142,q,2,0.6425339366515838,84,1,ChatGPT,False,"q
+- Pain or discomfort in the body.",68,List of multiple sclerosis symptoms,-8.190292358398438,142,q,2,0.6425339366515838,84,1,ChatGPT,False,False,"q
 (query)"
 3164,chatgpt_68,"- Fatigue and weakness
 - Numbness or tingling in the limbs
@@ -181,7 +181,7 @@
 - Sexual dysfunction
 - Heat sensitivity, where symptoms worsen in hot weather or after physical activity
 - Tremors or uncontrollable shaking
-- Difficulty with swallowing or chewing",68,List of multiple sclerosis symptoms,-7.656305313110352,136,q,4,0.6153846153846154,104,1,ChatGPT,False,"q
+- Difficulty with swallowing or chewing",68,List of multiple sclerosis symptoms,-7.656305313110352,136,q,4,0.6153846153846154,104,1,ChatGPT,False,False,"q
 (query)"
 3664,chatgpt_68,"- Fatigue and lack of energy
 - Difficulty walking or maintaining balance
@@ -197,15 +197,15 @@
 - Sexual dysfunction
 - Heat sensitivity, which can worsen symptoms temporarily
 - Pain or discomfort, including headaches or muscle aches
-- Tremors or involuntary muscle movements",68,List of multiple sclerosis symptoms,-6.576451778411865,132,no_prompt,4,0.5972850678733032,97,2,ChatGPT,False,"no_prompt
+- Tremors or involuntary muscle movements",68,List of multiple sclerosis symptoms,-6.576451778411865,132,no_prompt,4,0.5972850678733032,97,2,ChatGPT,False,False,"no_prompt
 (query)"
-2606,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me during our conversation. I can provide general information about the risk factors for developing type 2 diabetes, but it's important to consult with a healthcare professional for a personalized assessment of your risk.",22,my risk for developing type 2 diabetes,-1.8266587257385247,76,question,3,0.304,57,6,ChatGPT,False,"question
+2606,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me during our conversation. I can provide general information about the risk factors for developing type 2 diabetes, but it's important to consult with a healthcare professional for a personalized assessment of your risk.",22,my risk for developing type 2 diabetes,-1.8266587257385247,76,question,3,0.304,57,6,ChatGPT,False,False,"question
 (query)"
-3456,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information about risk factors for developing type 2 diabetes, but I cannot assess your individual risk without more specific information. It's always best to consult with a healthcare professional for a personalized assessment of your risk factors and any necessary recommendations or screenings.",22,my risk for developing type 2 diabetes,-0.987324595451355,63,q,10,0.252,77,8,ChatGPT,False,"q
+3456,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information about risk factors for developing type 2 diabetes, but I cannot assess your individual risk without more specific information. It's always best to consult with a healthcare professional for a personalized assessment of your risk factors and any necessary recommendations or screenings.",22,my risk for developing type 2 diabetes,-0.987324595451355,63,q,10,0.252,77,8,ChatGPT,False,False,"q
 (query)"
-3356,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information on risk factors for developing type 2 diabetes, but for an accurate assessment of your risk, it is best to consult with a healthcare professional who can evaluate your medical history, family history, lifestyle factors, and conduct appropriate tests if necessary.",22,my risk for developing type 2 diabetes,-0.8473442196846008,58,q,8,0.232,76,6,ChatGPT,False,"q
+3356,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information on risk factors for developing type 2 diabetes, but for an accurate assessment of your risk, it is best to consult with a healthcare professional who can evaluate your medical history, family history, lifestyle factors, and conduct appropriate tests if necessary.",22,my risk for developing type 2 diabetes,-0.8473442196846008,58,q,8,0.232,76,6,ChatGPT,False,False,"q
 (query)"
-2506,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information about the risk factors for developing type 2 diabetes, but for an accurate assessment of your personal risk, it is best to consult a healthcare professional who can evaluate your medical history, lifestyle, and conduct appropriate tests.",22,my risk for developing type 2 diabetes,-0.6692743301391602,54,question,1,0.216,72,6,ChatGPT,False,"question
+2506,chatgpt_22,"I'm sorry, but as an AI language model, I don't have access to personal data about individuals unless it has been shared with me in the course of our conversation. I can provide general information about the risk factors for developing type 2 diabetes, but for an accurate assessment of your personal risk, it is best to consult a healthcare professional who can evaluate your medical history, lifestyle, and conduct appropriate tests.",22,my risk for developing type 2 diabetes,-0.6692743301391602,54,question,1,0.216,72,6,ChatGPT,False,False,"question
 (query)"
 3417,chatgpt_131,"1. Wall Angels: Stand with your back against a wall and your feet about 6 inches away. Raise your arms to shoulder height, with your elbows bent at 90 degrees and your forearms against the wall. Slowly slide your arms up and down the wall, maintaining contact with the wall at all times. Repeat 10-15 times.
 
@@ -221,7 +221,7 @@
 
 7. Seated Spinal Twist: Sit on the floor with your legs extended in front of you. Bend your right knee and cross it over your left leg, placing your right foot on the floor next to your left knee. Twist your torso to the right, placing your left elbow on the outside of your right knee. Hold this position for 20-30 seconds, then repeat on the other side.
 
-Remember to listen to your body and start with exercises that feel comfortable for you. Gradually increase the intensity and duration of each exercise as your posture improves. If you experience any pain or discomfort, stop the exercise and consult a healthcare professional.",131,exercises for better posture,-2.1772210597991943,17,q,9,0.2,407,8,ChatGPT,False,"q
+Remember to listen to your body and start with exercises that feel comfortable for you. Gradually increase the intensity and duration of each exercise as your posture improves. If you experience any pain or discomfort, stop the exercise and consult a healthcare professional.",131,exercises for better posture,-2.1772210597991943,17,q,9,0.2,407,8,ChatGPT,False,False,"q
 (query)"
 3917,chatgpt_131,"1. Wall angels: Stand with your back against a wall, feet shoulder-width apart. Bend your elbows to 90 degrees and press your arms into the wall. Slide your arms up and down the wall while keeping your elbows and wrists in contact with the wall. Repeat for 2-3 sets of 10-12 reps.
 
@@ -237,7 +237,7 @@ Remember to listen to your body and start with exercises that feel comfortable f
 
 7. Neck stretches: Sit or stand tall and tilt your head to one side, bringing your ear towards your shoulder. Hold for 10-15 seconds, then repeat on the other side. Next, tilt your head forward, bringing your chin towards your chest. Hold for 10-15 seconds, then slowly lift your head back up. Repeat for 2-3 sets of 10-12 reps.
 
-Remember to always consult with a healthcare professional or certified trainer before starting any new exercise routine, especially if you have any pre-existing conditions or injuries.",131,exercises for better posture,-0.7200773358345032,13,no_prompt,9,0.1529411764705882,360,12,ChatGPT,False,"no_prompt
+Remember to always consult with a healthcare professional or certified trainer before starting any new exercise routine, especially if you have any pre-existing conditions or injuries.",131,exercises for better posture,-0.7200773358345032,13,no_prompt,9,0.1529411764705882,360,12,ChatGPT,False,False,"no_prompt
 (query)"
 2567,chatgpt_131,"1. Wall Angel: Stand with your back against a wall and your feet about six inches away. Keep your head, shoulders, and buttocks touching the wall. Bend your elbows to 90 degrees and raise them to shoulder height, with your forearms resting against the wall. Slowly slide your arms up and down the wall, maintaining contact with your back and arms at all times. Repeat 10-15 times.
 
@@ -249,7 +249,7 @@ Remember to always consult with a healthcare professional or certified trainer b
 
 5. Plank: Begin in a push-up position with your hands directly under your shoulders. Engage your core and straighten your body, forming a straight line from your head to your heels. Hold this position for 30 seconds to 1 minute, focusing on keeping your back flat and your shoulders pulled back.
 
-Remember to listen to your body and start with exercises that are appropriate for your fitness level. If you have any existing medical conditions or concerns, it's always a good idea to consult with a healthcare professional before starting a new exercise routine.",131,exercises for better posture,-0.4229450523853302,12,question,2,0.1411764705882353,302,5,ChatGPT,False,"question
+Remember to listen to your body and start with exercises that are appropriate for your fitness level. If you have any existing medical conditions or concerns, it's always a good idea to consult with a healthcare professional before starting a new exercise routine.",131,exercises for better posture,-0.4229450523853302,12,question,2,0.1411764705882353,302,5,ChatGPT,False,False,"question
 (query)"
 3067,chatgpt_131,"1. Shoulder rolls: Stand or sit upright with your arms by your sides. Roll your shoulders forward and up towards your ears, then back and down in a circular motion. Repeat this 10 times.
 2. Wall angels: Stand with your back against a wall and your feet about 6 inches away from the wall. Slowly slide your arms up the wall, keeping your elbows and wrists in contact with the wall. Then slide your arms back down. Repeat this 10 times.
@@ -258,7 +258,7 @@ Remember to listen to your body and start with exercises that are appropriate fo
 5. Bridge pose: Lie on your back with your knees bent and your feet flat on the floor. Press through your feet as you lift your hips off the floor, creating a straight line from your knees to your shoulders. Hold this position for 30 seconds to 1 minute.
 6. Chest stretches: Stand with your feet hip-width apart and interlace your fingers behind your back. Gently squeeze your shoulder blades together as you lift your arms away from your body. Hold this stretch for 30 seconds.
 7. Neck stretches: Sit or stand with your back straight. Slowly tilt your head to the right, bringing your ear towards your shoulder. Hold this stretch for 10 seconds, then repeat on the left side. Next, drop your chin towards your chest, feeling a stretch in the back of your neck. Hold for 10 seconds, then lift your chin towards the ceiling, feeling a stretch in the front of your neck. Hold for 10 seconds.
-Remember to always consult with a healthcare professional before starting any exercise program, especially if you have any pre-existing conditions or injuries.",131,exercises for better posture,-0.350243479013443,11,q,2,0.1294117647058823,355,6,ChatGPT,False,"q
+Remember to always consult with a healthcare professional before starting any exercise program, especially if you have any pre-existing conditions or injuries.",131,exercises for better posture,-0.350243479013443,11,q,2,0.1294117647058823,355,6,ChatGPT,False,False,"q
 (query)"
 3017,chatgpt_131,"1. Shoulder blade squeeze: Stand or sit with your back straight and your arms relaxed by your sides. Squeeze your shoulder blades together as if you're trying to hold a pencil between them. Hold for 5-10 seconds, then release. Repeat 10-15 times.
 
@@ -272,5 +272,5 @@ Remember to always consult with a healthcare professional before starting any ex
 
 6. Standing forward fold: Stand with your feet hip-width apart. Slowly hinge forward at the hips, keeping your back straight, until your torso is parallel to the floor. Let your head and arms hang down towards the ground. Hold for 30 seconds to 1 minute, then slowly come back up to standing.
 
-Remember to always listen to your body and start with exercises that feel comfortable. Gradually increase the intensity and duration as your strength and flexibility improve.",131,exercises for better posture,-0.1961158812046051,10,q,1,0.1176470588235294,310,7,ChatGPT,False,"q
+Remember to always listen to your body and start with exercises that feel comfortable. Gradually increase the intensity and duration as your strength and flexibility improve.",131,exercises for better posture,-0.1961158812046051,10,q,1,0.1176470588235294,310,7,ChatGPT,False,False,"q
 (query)"

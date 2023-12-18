@@ -1,4 +1,4 @@
-docno,text,qid,query,score,rank,prompt,answer_number,weighted_position,num_answer_words,num_matching_words,model,is_natural_question,query_prompt
+docno,text,qid,query,score,rank,prompt,answer_number,weighted_position,num_answer_words,num_matching_words,model,is_natural_question,contains_only_query_words,query_prompt
 chatgpt_68,"- Fatigue
 - Difficulty walking or coordination problems
 - Numbness or tingling in the limbs
@@ -12,7 +12,7 @@ chatgpt_68,"- Fatigue
 - Depression or mood swings
 - Sexual dysfunction
 - Heat sensitivity, which can worsen symptoms
-- Pain or muscle spasms",68,List of multiple sclerosis symptoms,-9.270967483520508,157,question,4,0.7104072398190046,77,1,ChatGPT,False,"question
+- Pain or muscle spasms",68,List of multiple sclerosis symptoms,-9.270967483520508,157,question,4,0.7104072398190046,77,1,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"- Fatigue and weakness
 - Difficulty with coordination and balance
@@ -26,7 +26,7 @@ chatgpt_68,"- Fatigue and weakness
 - Problems with bladder and bowel function
 - Sexual dysfunction
 - Tremors or uncontrollable shaking
-- Heat sensitivity, where symptoms worsen in hot temperatures",68,List of multiple sclerosis symptoms,-9.195804595947266,157,q,10,0.7104072398190046,86,1,ChatGPT,False,"q
+- Heat sensitivity, where symptoms worsen in hot temperatures",68,List of multiple sclerosis symptoms,-9.195804595947266,157,q,10,0.7104072398190046,86,1,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"- Fatigue: Feeling excessively tired and lacking energy
 - Numbness or tingling: Sensations of pins and needles, often in the limbs
@@ -42,7 +42,7 @@ chatgpt_68,"- Fatigue: Feeling excessively tired and lacking energy
 - Sexual dysfunction: Impotence, decreased libido, or difficulty achieving orgasm
 - Heat sensitivity: Worsening of symptoms when exposed to heat or hot temperatures
 - Vertigo or dizziness: Sensation of spinning or feeling lightheaded
-- Speech and swallowing difficulties: Trouble speaking clearly or swallowing food or liquids properly",68,List of multiple sclerosis symptoms,-8.781569480895996,152,q,5,0.6877828054298643,173,6,ChatGPT,False,"q
+- Speech and swallowing difficulties: Trouble speaking clearly or swallowing food or liquids properly",68,List of multiple sclerosis symptoms,-8.781569480895996,152,q,5,0.6877828054298643,173,6,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"- Fatigue
 - Numbness or tingling in the limbs
@@ -76,7 +76,7 @@ chatgpt_68,"- Fatigue
 - Bowel and bladder problems, such as incontinence or difficulty emptying the bladder completely
 - Sexual dysfunction
 - Pain or discomfort in the affected areas
-- Difficulty with coordination and balance",68,List of multiple sclerosis symptoms,-8.794341087341309,152,question,9,0.6877828054298643,231,3,ChatGPT,False,"question
+- Difficulty with coordination and balance",68,List of multiple sclerosis symptoms,-8.794341087341309,152,question,9,0.6877828054298643,231,3,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"- Fatigue
 - Difficulty walking or coordination problems
@@ -91,7 +91,7 @@ chatgpt_68,"- Fatigue
 - Bladder or bowel problems
 - Sexual dysfunction
 - Heat sensitivity
-- Tremors or involuntary movements",68,List of multiple sclerosis symptoms,-8.699295043945312,151,question,2,0.6832579185520362,69,0,ChatGPT,False,"question
+- Tremors or involuntary movements",68,List of multiple sclerosis symptoms,-8.699295043945312,151,question,2,0.6832579185520362,69,0,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy.
 2. Numbness or tingling: Sensations of pins and needles or numbness in the limbs, face, or body.
@@ -112,7 +112,7 @@ chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy.
 17. Speech problems: Slurred speech, difficulty finding words, or changes in voice tone.
 18. Swallowing difficulties: Choking or coughing while eating or drinking.
 19. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.
-20. Emotional changes: Mood swings, irritability, or emotional instability.",68,List of multiple sclerosis symptoms,-8.333916664123535,148,no_prompt,9,0.669683257918552,248,5,ChatGPT,False,"no_prompt
+20. Emotional changes: Mood swings, irritability, or emotional instability.",68,List of multiple sclerosis symptoms,-8.333916664123535,148,no_prompt,9,0.669683257918552,248,5,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: Feeling excessively tired and lacking energy.
 2. Numbness or tingling: Sensations of pins and needles in various parts of the body.
@@ -133,7 +133,7 @@ chatgpt_68,"1. Fatigue: Feeling excessively tired and lacking energy.
 17. Respiratory problems: Difficulty breathing or shortness of breath.
 18. Dizziness and vertigo: Feeling lightheaded or experiencing a spinning sensation.
 19. Reduced sense of taste or smell: Decreased ability to taste or smell.
-20. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.",68,List of multiple sclerosis symptoms,-8.5093412399292,148,no_prompt,5,0.669683257918552,221,9,ChatGPT,False,"no_prompt
+20. Seizures: Uncontrolled electrical activity in the brain resulting in seizures.",68,List of multiple sclerosis symptoms,-8.5093412399292,148,no_prompt,5,0.669683257918552,221,9,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"- Fatigue
 - Difficulty walking or coordination problems
@@ -149,7 +149,7 @@ chatgpt_68,"- Fatigue
 - Heat sensitivity, which can worsen symptoms temporarily
 - Tremors or uncontrollable shaking
 - Vertigo or dizziness
-- Pain or discomfort in the body.",68,List of multiple sclerosis symptoms,-8.190292358398438,142,q,2,0.6425339366515838,84,1,ChatGPT,False,"q
+- Pain or discomfort in the body.",68,List of multiple sclerosis symptoms,-8.190292358398438,142,q,2,0.6425339366515838,84,1,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"- Fatigue and weakness
 - Numbness or tingling in the limbs
@@ -165,7 +165,7 @@ chatgpt_68,"- Fatigue and weakness
 - Sexual dysfunction
 - Heat sensitivity, where symptoms worsen in hot weather or after physical activity
 - Tremors or uncontrollable shaking
-- Difficulty with swallowing or chewing",68,List of multiple sclerosis symptoms,-7.656305313110352,136,q,4,0.6153846153846154,104,1,ChatGPT,False,"q
+- Difficulty with swallowing or chewing",68,List of multiple sclerosis symptoms,-7.656305313110352,136,q,4,0.6153846153846154,104,1,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"- Fatigue and lack of energy
 - Difficulty walking or maintaining balance
@@ -181,7 +181,7 @@ chatgpt_68,"- Fatigue and lack of energy
 - Sexual dysfunction
 - Heat sensitivity, which can worsen symptoms temporarily
 - Pain or discomfort, including headaches or muscle aches
-- Tremors or involuntary muscle movements",68,List of multiple sclerosis symptoms,-6.576451778411865,132,no_prompt,4,0.5972850678733032,97,2,ChatGPT,False,"no_prompt
+- Tremors or involuntary muscle movements",68,List of multiple sclerosis symptoms,-6.576451778411865,132,no_prompt,4,0.5972850678733032,97,2,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic neurological disease that affects the central nervous system. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -200,7 +200,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic neurological disease that affec
 13. Speech and swallowing difficulties: Slurred speech, difficulty articulating, or trouble swallowing.
 14. Heat sensitivity: Increased symptoms or a temporary worsening of symptoms when exposed to heat.
 
-It's important to note that MS symptoms can vary greatly from person to person. Some individuals may experience only mild symptoms, while others may have more severe and debilitating symptoms. If you suspect you may have multiple sclerosis or are experiencing any of these symptoms, it's important to consult with a healthcare professional for proper diagnosis and treatment.",68,List of multiple sclerosis symptoms,-0.0169767495244741,0,question,8,0.0,268,17,ChatGPT,False,"question
+It's important to note that MS symptoms can vary greatly from person to person. Some individuals may experience only mild symptoms, while others may have more severe and debilitating symptoms. If you suspect you may have multiple sclerosis or are experiencing any of these symptoms, it's important to consult with a healthcare professional for proper diagnosis and treatment.",68,List of multiple sclerosis symptoms,-0.0169767495244741,0,question,8,0.0,268,17,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely from person to person, and may change over time. Here is a list of common symptoms that individuals with MS may experience:
 
@@ -224,7 +224,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 
 10. Bladder and bowel dysfunction: MS can affect the nerves that control bladder and bowel function, causing problems such as urinary urgency, incontinence, or constipation.
 
-It's important to note that these symptoms can vary in severity and may come and go over time. If you are experiencing any of these symptoms or suspect you may have MS, it's essential to consult with a healthcare professional for a proper diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0166720934212207,0,multimedqa,4,0.0,279,17,ChatGPT,False,"multimedqa
+It's important to note that these symptoms can vary in severity and may come and go over time. If you are experiencing any of these symptoms or suspect you may have MS, it's essential to consult with a healthcare professional for a proper diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0166720934212207,0,multimedqa,4,0.0,279,17,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms experienced by individuals with MS can vary widely, but here is a list of common symptoms associated with the condition:
 
@@ -242,7 +242,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 12. Sexual problems: Decreased libido, erectile dysfunction, or difficulty achieving orgasm.
 13. Pain: Chronic pain, often in the form of neuropathic pain or muscle spasms.
 
-It's important to note that these symptoms can vary greatly among individuals with MS, and not all symptoms may be experienced by everyone. If you suspect you may have MS or are experiencing any of these symptoms, it's crucial to consult with a healthcare professional for an accurate diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0178701356053352,0,multimedqa,3,0.0,265,13,ChatGPT,False,"multimedqa
+It's important to note that these symptoms can vary greatly among individuals with MS, and not all symptoms may be experienced by everyone. If you suspect you may have MS or are experiencing any of these symptoms, it's crucial to consult with a healthcare professional for an accurate diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0178701356053352,0,multimedqa,3,0.0,265,13,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It can cause a wide range of symptoms that vary from person to person. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -257,7 +257,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 9. Sensory changes: Changes in sensation, such as a reduced ability to taste or smell, can occur in MS.
 10. Emotional changes: Depression, anxiety, and mood swings can be associated with MS.
 
-It is important to note that the symptoms of MS can vary widely and may change over time. If you are experiencing any of these symptoms or have concerns, it is recommended to consult a healthcare professional for an accurate diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0176736265420913,0,multimedqa,7,0.0,252,15,ChatGPT,False,"multimedqa
+It is important to note that the symptoms of MS can vary widely and may change over time. If you are experiencing any of these symptoms or have concerns, it is recommended to consult a healthcare professional for an accurate diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0176736265420913,0,multimedqa,7,0.0,252,15,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system, including the brain and spinal cord. The symptoms of MS can vary widely among individuals and can change over time. Here is a list of common symptoms:
 
@@ -272,7 +272,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 9. Emotional changes: MS can affect mood, leading to depression, anxiety, or mood swings.
 10. Pain and discomfort: MS can cause various types of pain, including nerve pain, muscle pain, and headaches.
 
-It is important to note that these symptoms can vary in severity and may come and go. Additionally, not everyone with MS will experience all of these symptoms. If you suspect you may have MS or are experiencing any concerning symptoms, it is recommended to consult with a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0180949382483959,0,multimedqa,5,0.0,264,17,ChatGPT,False,"multimedqa
+It is important to note that these symptoms can vary in severity and may come and go. Additionally, not everyone with MS will experience all of these symptoms. If you suspect you may have MS or are experiencing any concerning symptoms, it is recommended to consult with a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0180949382483959,0,multimedqa,5,0.0,264,17,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely from person to person, as the condition can affect different parts of the brain and spinal cord. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -296,7 +296,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 
 10. Emotional changes: MS can also affect mood and emotions, leading to depression, anxiety, irritability, or changes in personality.
 
-It's important to note that these symptoms can vary in severity and may come and go over time. If you experience any of these symptoms or suspect you may have MS, it is crucial to consult with a healthcare professional for a proper diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0161495432257652,0,multimedqa,6,0.0,329,18,ChatGPT,False,"multimedqa
+It's important to note that these symptoms can vary in severity and may come and go over time. If you experience any of these symptoms or suspect you may have MS, it is crucial to consult with a healthcare professional for a proper diagnosis and appropriate management.",68,List of multiple sclerosis symptoms,-0.0161495432257652,0,multimedqa,6,0.0,329,18,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"There are several symptoms associated with multiple sclerosis (MS). It's important to note that the symptoms can vary widely from person to person, and they may also change over time. Here is a list of common symptoms:
 
@@ -324,7 +324,7 @@ chatgpt_68,"There are several symptoms associated with multiple sclerosis (MS). 
 
 12. Sexual dysfunction: MS can affect sexual function and desire in both men and women.
 
-It's important to remember that these symptoms can also be caused by other conditions, so it's essential to consult with a healthcare professional for an accurate diagnosis.",68,List of multiple sclerosis symptoms,-0.0183096248656511,0,question,7,0.0,299,14,ChatGPT,False,"question
+It's important to remember that these symptoms can also be caused by other conditions, so it's essential to consult with a healthcare professional for an accurate diagnosis.",68,List of multiple sclerosis symptoms,-0.0183096248656511,0,question,7,0.0,299,14,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"- Fatigue: One of the most common symptoms of multiple sclerosis, causing overwhelming tiredness and a lack of energy.
 - Numbness or tingling: Many individuals with MS experience numbness or tingling sensations in various parts of their body, such as the arms, legs, or face.
@@ -343,7 +343,7 @@ chatgpt_68,"- Fatigue: One of the most common symptoms of multiple sclerosis, ca
 - Sensory changes: MS can cause abnormal sensations, such as tingling, burning, or itching, often in the limbs or trunk.
 - Tremors or involuntary movements: Some individuals with MS may experience tremors or uncontrollable movements, known as spasticity.
 - Hearing loss or tinnitus: MS can cause hearing loss or ringing in the ears (tinnitus) in some individuals.
-- Swallowing difficulties: MS can affect the muscles involved in swallowing, leading to problems with eating or drinking.",68,List of multiple sclerosis symptoms,-0.0445753186941146,0,question,10,0.0,379,11,ChatGPT,False,"question
+- Swallowing difficulties: MS can affect the muscles involved in swallowing, leading to problems with eating or drinking.",68,List of multiple sclerosis symptoms,-0.0445753186941146,0,question,10,0.0,379,11,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"Common symptoms of multiple sclerosis (MS) can vary greatly between individuals, but some of the most common symptoms include:
 
@@ -360,7 +360,7 @@ chatgpt_68,"Common symptoms of multiple sclerosis (MS) can vary greatly between 
 11. Speech difficulties: Slurred speech, difficulty finding words, or changes in vocal tone or volume.
 12. Heat sensitivity: Increased symptoms or worsened functioning when exposed to heat or hot environments.
 
-It is important to note that these symptoms can vary in severity and frequency, and individuals with MS may experience a combination of different symptoms. Additionally, symptoms may come and go or change over time.",68,List of multiple sclerosis symptoms,-0.0227303989231586,0,q,1,0.0,246,15,ChatGPT,False,"q
+It is important to note that these symptoms can vary in severity and frequency, and individuals with MS may experience a combination of different symptoms. Additionally, symptoms may come and go or change over time.",68,List of multiple sclerosis symptoms,-0.0227303989231586,0,q,1,0.0,246,15,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"1. Fatigue: Many individuals with multiple sclerosis experience extreme fatigue, which can impact their daily activities and quality of life.
 
@@ -382,7 +382,7 @@ chatgpt_68,"1. Fatigue: Many individuals with multiple sclerosis experience extr
 
 10. Pain and muscle spasms: Some people with multiple sclerosis may experience chronic pain, including headaches, back pain, or muscle spasms throughout the body.
 
-It is important to note that multiple sclerosis symptoms can vary greatly between individuals, and not everyone will experience all of these symptoms. Additionally, the severity and progression of symptoms can also vary from person to person.",68,List of multiple sclerosis symptoms,-0.0299089346081018,0,question,3,0.0,300,26,ChatGPT,False,"question
+It is important to note that multiple sclerosis symptoms can vary greatly between individuals, and not everyone will experience all of these symptoms. Additionally, the severity and progression of symptoms can also vary from person to person.",68,List of multiple sclerosis symptoms,-0.0299089346081018,0,question,3,0.0,300,26,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic neurological condition that affects the central nervous system. The symptoms of MS can vary widely among individuals, and they can also change over time. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -406,7 +406,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic neurological condition that aff
 
 10. Pain and tingling sensations: MS-related pain can manifest as sharp, stabbing, or burning sensations, often in the face or limbs.
 
-It is important to note that these symptoms can vary in severity and frequency among individuals with MS. If you experience any of these symptoms or have concerns about your health, it is recommended to consult with a healthcare professional for a proper diagnosis and management plan.",68,List of multiple sclerosis symptoms,-0.0155844679102301,0,multimedqa,10,0.0,295,15,ChatGPT,False,"multimedqa
+It is important to note that these symptoms can vary in severity and frequency among individuals with MS. If you experience any of these symptoms or have concerns about your health, it is recommended to consult with a healthcare professional for a proper diagnosis and management plan.",68,List of multiple sclerosis symptoms,-0.0155844679102301,0,multimedqa,10,0.0,295,15,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. It can cause a wide range of symptoms, which can vary from person to person. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -423,7 +423,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 11. Emotional changes: Mood swings, depression, anxiety, or emotional instability can occur in MS.
 12. Sensitivity to heat: Many people with MS find that their symptoms worsen when exposed to heat, such as hot weather or hot baths.
 
-It's important to note that not everyone with MS will experience all of these symptoms, and the severity can vary greatly. If you suspect you may have MS or are experiencing any of these symptoms, it is best to consult with a healthcare professional for a proper diagnosis and suitable treatment options.",68,List of multiple sclerosis symptoms,-0.0225312300026416,0,multimedqa,2,0.0,324,14,ChatGPT,False,"multimedqa
+It's important to note that not everyone with MS will experience all of these symptoms, and the severity can vary greatly. If you suspect you may have MS or are experiencing any of these symptoms, it is best to consult with a healthcare professional for a proper diagnosis and suitable treatment options.",68,List of multiple sclerosis symptoms,-0.0225312300026416,0,multimedqa,2,0.0,324,14,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"1. Fatigue: Many people with multiple sclerosis (MS) experience extreme tiredness and lack of energy, which can affect their daily activities and overall quality of life.
 2. Numbness or tingling: MS can cause sensations of numbness or tingling in different parts of the body, such as the face, arms, legs, or fingers.
@@ -439,7 +439,7 @@ chatgpt_68,"1. Fatigue: Many people with multiple sclerosis (MS) experience extr
 12. Sexual dysfunction: MS can affect sexual function in both men and women, leading to problems like decreased libido, erectile dysfunction, or difficulties with arousal or orgasm.
 13. Pain and muscle spasms: Many people with MS experience chronic pain, such as headaches, back pain, or muscle spasms.
 14. Heat sensitivity: Heat can worsen MS symptoms in some individuals, causing increased fatigue, weakness, or other symptoms.
-15. Sensory disturbances: MS can cause abnormal sensations, such as itching, burning, or electric shock-like sensations in different parts of the body.",68,List of multiple sclerosis symptoms,-0.0584463030099868,0,question,5,0.0,349,16,ChatGPT,False,"question
+15. Sensory disturbances: MS can cause abnormal sensations, such as itching, burning, or electric shock-like sensations in different parts of the body.",68,List of multiple sclerosis symptoms,-0.0584463030099868,0,question,5,0.0,349,16,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely depending on the location and severity of the damage to the nerves.
 
@@ -465,7 +465,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 
 11. Heat sensitivity: Many people with MS find that their symptoms worsen when they are exposed to heat, such as hot weather, hot showers, or fever.
 
-It is important to note that these symptoms can vary from person to person, and some individuals may experience only a few symptoms while others may experience multiple. Additionally, the symptoms of MS can change over time, with periods of relapse and remission. If you or someone you know is experiencing any of these symptoms, it is important to consult a healthcare professional for a proper diagnosis and management plan.",68,List of multiple sclerosis symptoms,-0.0402785576879978,0,question,1,0.0,361,16,ChatGPT,False,"question
+It is important to note that these symptoms can vary from person to person, and some individuals may experience only a few symptoms while others may experience multiple. Additionally, the symptoms of MS can change over time, with periods of relapse and remission. If you or someone you know is experiencing any of these symptoms, it is important to consult a healthcare professional for a proper diagnosis and management plan.",68,List of multiple sclerosis symptoms,-0.0402785576879978,0,question,1,0.0,361,16,ChatGPT,False,False,"question
 (query)"
 chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme fatigue that is not relieved by rest.
 
@@ -497,7 +497,7 @@ chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme f
 
 15. Tremors: Involuntary shaking or tremors, usually in the hands or arms, can occur.
 
-It's important to note that not everyone with multiple sclerosis will experience all of these symptoms, and the severity and combination of symptoms can vary greatly among individuals.",68,List of multiple sclerosis symptoms,-0.0256743915379047,0,no_prompt,1,0.0,324,23,ChatGPT,False,"no_prompt
+It's important to note that not everyone with multiple sclerosis will experience all of these symptoms, and the severity and combination of symptoms can vary greatly among individuals.",68,List of multiple sclerosis symptoms,-0.0256743915379047,0,no_prompt,1,0.0,324,23,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely from person to person, and may change over time. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -521,7 +521,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 
 10. Pain and muscle spasms: Chronic pain, including headaches, back pain, or muscle spasms, can be experienced by individuals with MS.
 
-It's important to note that these symptoms are not exclusive to MS and can also occur in other conditions. If you suspect you may have MS or experience any of these symptoms, it is crucial to consult a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.017229288816452,0,multimedqa,8,0.0,360,17,ChatGPT,False,"multimedqa
+It's important to note that these symptoms are not exclusive to MS and can also occur in other conditions. If you suspect you may have MS or experience any of these symptoms, it is crucial to consult a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.017229288816452,0,multimedqa,8,0.0,360,17,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely depending on the location and extent of the damage to the nerves. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -538,7 +538,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 11. Emotional changes: Depression, anxiety, mood swings, or uncontrollable laughing or crying.
 12. Pain and muscle spasms: Chronic pain, often in the back or legs, as well as muscle spasms.
 
-It's important to note that not all individuals with MS experience the same symptoms, and the severity of symptoms can vary. If you suspect you may have MS or are experiencing any of these symptoms, it is recommended to consult with a healthcare professional for a proper diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0168025698512792,0,multimedqa,9,0.0,246,14,ChatGPT,False,"multimedqa
+It's important to note that not all individuals with MS experience the same symptoms, and the severity of symptoms can vary. If you suspect you may have MS or are experiencing any of these symptoms, it is recommended to consult with a healthcare professional for a proper diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0168025698512792,0,multimedqa,9,0.0,246,14,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects the central nervous system. The symptoms of MS can vary widely between individuals, depending on which areas of the central nervous system are affected. Here is a list of common symptoms associated with multiple sclerosis:
 
@@ -562,7 +562,7 @@ chatgpt_68,"Multiple sclerosis (MS) is a chronic autoimmune disease that affects
 
 10. Emotional changes: Depression, anxiety, mood swings, and irritability are commonly reported in individuals with MS. These emotional changes may be related to the physical and cognitive challenges associated with the condition.
 
-It's important to note that the symptoms of MS can vary greatly from person to person, and some individuals may experience additional symptoms not listed here. If you suspect you may have MS or are experiencing any concerning symptoms, it is recommended to consult with a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0173784382641315,0,multimedqa,1,0.0,403,28,ChatGPT,False,"multimedqa
+It's important to note that the symptoms of MS can vary greatly from person to person, and some individuals may experience additional symptoms not listed here. If you suspect you may have MS or are experiencing any concerning symptoms, it is recommended to consult with a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0173784382641315,0,multimedqa,1,0.0,403,28,ChatGPT,False,False,"multimedqa
 (query)"
 chatgpt_68,"1. Fatigue: People with multiple sclerosis often experience extreme fatigue, even after minimal physical or mental exertion.
 
@@ -592,7 +592,7 @@ chatgpt_68,"1. Fatigue: People with multiple sclerosis often experience extreme 
 
 14. Dizziness and vertigo: MS can cause dizziness, lightheadedness, or a spinning sensation (vertigo), making it difficult to maintain balance.
 
-It is important to note that the symptoms and their severity can vary significantly among individuals with multiple sclerosis. Additionally, symptoms may come and go or change over time.",68,List of multiple sclerosis symptoms,-0.04600116237998,0,no_prompt,2,0.0,322,9,ChatGPT,False,"no_prompt
+It is important to note that the symptoms and their severity can vary significantly among individuals with multiple sclerosis. Additionally, symptoms may come and go or change over time.",68,List of multiple sclerosis symptoms,-0.04600116237998,0,no_prompt,2,0.0,322,9,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: MS often causes extreme fatigue and lack of energy, which can affect daily activities.
 
@@ -624,7 +624,7 @@ chatgpt_68,"1. Fatigue: MS often causes extreme fatigue and lack of energy, whic
 
 15. Difficulty with coordination and fine motor skills: MS can make it challenging to perform tasks that require fine motor skills, such as writing or buttoning a shirt.
 
-It's important to note that not everyone with MS will experience all of these symptoms, and the severity and progression of symptoms can vary widely from person to person.",68,List of multiple sclerosis symptoms,-0.061999324709177,0,no_prompt,3,0.0,319,11,ChatGPT,False,"no_prompt
+It's important to note that not everyone with MS will experience all of these symptoms, and the severity and progression of symptoms can vary widely from person to person.",68,List of multiple sclerosis symptoms,-0.061999324709177,0,no_prompt,3,0.0,319,11,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme fatigue, often unrelated to the level of physical activity or exertion.
 2. Numbness or tingling: This symptom commonly occurs in the limbs, face, or other parts of the body.
@@ -645,7 +645,7 @@ chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme f
 17. Difficulty with swallowing and chewing: This can lead to problems with eating and maintaining proper nutrition.
 18. Respiratory problems: People with multiple sclerosis may experience difficulty breathing or have a higher risk of respiratory infections.
 19. Sensitivity to cold temperatures: Cold weather or exposure to cold temperatures may worsen symptoms.
-20. Hearing loss or ringing in the ears (tinnitus): Some individuals with multiple sclerosis develop hearing problems or experience a persistent ringing in the ears.",68,List of multiple sclerosis symptoms,-0.0223960187286138,0,no_prompt,10,0.0,329,17,ChatGPT,False,"no_prompt
+20. Hearing loss or ringing in the ears (tinnitus): Some individuals with multiple sclerosis develop hearing problems or experience a persistent ringing in the ears.",68,List of multiple sclerosis symptoms,-0.0223960187286138,0,no_prompt,10,0.0,329,17,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: MS often causes extreme tiredness and lack of energy.
 2. Numbness or tingling: Many people with MS experience numbness or tingling in their limbs or other parts of their body.
@@ -662,7 +662,7 @@ chatgpt_68,"1. Fatigue: MS often causes extreme tiredness and lack of energy.
 13. Tremors or shaking: Some people with MS experience tremors or shaking in their limbs.
 14. Difficulty with coordination and fine motor skills: MS can make it difficult to perform precise movements, such as writing or buttoning a shirt.
 15. Dizziness and vertigo: Some people with MS experience dizziness or a spinning sensation (vertigo).
-It's important to note that everyone's experience with MS is different, and not all individuals will experience all of these symptoms. Additionally, symptoms can vary in severity and frequency. It is recommended to consult a healthcare professional for a proper diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.0786909908056259,0,no_prompt,6,0.0,336,7,ChatGPT,False,"no_prompt
+It's important to note that everyone's experience with MS is different, and not all individuals will experience all of these symptoms. Additionally, symptoms can vary in severity and frequency. It is recommended to consult a healthcare professional for a proper diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.0786909908056259,0,no_prompt,6,0.0,336,7,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: Many individuals with multiple sclerosis experience extreme tiredness and lack of energy, even after a good night's sleep.
 2. Numbness or tingling: Some people with multiple sclerosis may experience a sensation of numbness or tingling in various parts of their body, often in the limbs.
@@ -679,7 +679,7 @@ chatgpt_68,"1. Fatigue: Many individuals with multiple sclerosis experience extr
 13. Sensitivity to heat: Many individuals with multiple sclerosis find that their symptoms worsen in hot weather or after physical activity.
 14. Dizziness or vertigo: Feeling lightheaded, dizzy, or experiencing a spinning sensation can be a symptom of multiple sclerosis.
 15. Difficulty swallowing: Some people with multiple sclerosis may have trouble swallowing or feel like food is getting stuck in their throat.
-It's important to note that these symptoms can vary greatly from person to person and may change over time. It is recommended to consult a healthcare professional for a proper diagnosis and management of multiple sclerosis symptoms.",68,List of multiple sclerosis symptoms,-0.0207524430006742,0,no_prompt,7,0.0,336,34,ChatGPT,False,"no_prompt
+It's important to note that these symptoms can vary greatly from person to person and may change over time. It is recommended to consult a healthcare professional for a proper diagnosis and management of multiple sclerosis symptoms.",68,List of multiple sclerosis symptoms,-0.0207524430006742,0,no_prompt,7,0.0,336,34,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy are common symptoms of multiple sclerosis (MS).
 
@@ -711,7 +711,7 @@ chatgpt_68,"1. Fatigue: Excessive tiredness and lack of energy are common sympto
 
 15. Heat sensitivity: Many individuals with MS are sensitive to heat and may experience worsening symptoms when exposed to hot temperatures.
 
-It's important to note that the symptoms of multiple sclerosis can vary widely from person to person, and not everyone with MS will experience all of the listed symptoms. Additionally, symptoms can fluctuate and change over time. If you are experiencing any of these symptoms or suspect you may have MS, it is important to consult with a healthcare professional for an accurate diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0387367308139801,0,no_prompt,8,0.0,338,17,ChatGPT,False,"no_prompt
+It's important to note that the symptoms of multiple sclerosis can vary widely from person to person, and not everyone with MS will experience all of the listed symptoms. Additionally, symptoms can fluctuate and change over time. If you are experiencing any of these symptoms or suspect you may have MS, it is important to consult with a healthcare professional for an accurate diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0387367308139801,0,no_prompt,8,0.0,338,17,ChatGPT,False,False,"no_prompt
 (query)"
 chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme fatigue, often described as a lack of energy or a feeling of exhaustion even after minimal physical or mental exertion.
 
@@ -737,7 +737,7 @@ chatgpt_68,"1. Fatigue: Many people with multiple sclerosis experience extreme f
 
 12. Speech and swallowing difficulties: Some individuals with multiple sclerosis may experience slurred speech, difficulty articulating words, or problems with swallowing.
 
-It's important to note that multiple sclerosis symptoms can vary widely among individuals, and not everyone will experience all of these symptoms. Additionally, the severity and progression of symptoms can also differ from person to person. If you suspect you may have multiple sclerosis or are experiencing any of these symptoms, it's important to consult a healthcare professional for an accurate diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0221647191792726,0,q,7,0.0,389,36,ChatGPT,False,"q
+It's important to note that multiple sclerosis symptoms can vary widely among individuals, and not everyone will experience all of these symptoms. Additionally, the severity and progression of symptoms can also differ from person to person. If you suspect you may have multiple sclerosis or are experiencing any of these symptoms, it's important to consult a healthcare professional for an accurate diagnosis and appropriate treatment.",68,List of multiple sclerosis symptoms,-0.0221647191792726,0,q,7,0.0,389,36,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"Some common symptoms of multiple sclerosis include:
 
@@ -752,7 +752,7 @@ chatgpt_68,"Some common symptoms of multiple sclerosis include:
 9. Sexual dysfunction: Difficulty with sexual arousal, performance, or satisfaction.
 10. Bladder and bowel problems: Difficulty with bladder control, frequent urination, urgency to urinate, constipation, or loss of bowel control.
 
-It's important to note that the symptoms of multiple sclerosis can vary greatly from person to person, and some individuals may experience additional symptoms not listed here.",68,List of multiple sclerosis symptoms,-0.0161990411579608,0,q,6,0.0,171,13,ChatGPT,False,"q
+It's important to note that the symptoms of multiple sclerosis can vary greatly from person to person, and some individuals may experience additional symptoms not listed here.",68,List of multiple sclerosis symptoms,-0.0161990411579608,0,q,6,0.0,171,13,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
 
@@ -772,7 +772,7 @@ chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
 14. Emotional changes: Mood swings, irritability, or emotional instability.
 15. Tremors: Involuntary shaking movements in one or more parts of the body.
 
-It is important to note that MS symptoms can vary widely between individuals and may change over time. It is recommended to consult a healthcare professional for a proper diagnosis and management of MS symptoms.",68,List of multiple sclerosis symptoms,-0.0192880071699619,0,q,3,0.0,200,10,ChatGPT,False,"q
+It is important to note that MS symptoms can vary widely between individuals and may change over time. It is recommended to consult a healthcare professional for a proper diagnosis and management of MS symptoms.",68,List of multiple sclerosis symptoms,-0.0192880071699619,0,q,3,0.0,200,10,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
 
@@ -792,7 +792,7 @@ chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
 14. Dizziness and vertigo: Some individuals with MS may experience dizziness, lightheadedness, or a spinning sensation (vertigo).
 15. Difficulty walking: As MS progresses, it can cause significant mobility issues, including difficulty walking or even complete loss of mobility.
 
-It is important to note that MS symptoms can vary widely between individuals, and not everyone will experience all of these symptoms. Additionally, the severity and frequency of symptoms can also vary. It is recommended to consult a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0255832970142364,0,q,9,0.0,351,18,ChatGPT,False,"q
+It is important to note that MS symptoms can vary widely between individuals, and not everyone will experience all of these symptoms. Additionally, the severity and frequency of symptoms can also vary. It is recommended to consult a healthcare professional for a proper evaluation and diagnosis.",68,List of multiple sclerosis symptoms,-0.0255832970142364,0,q,9,0.0,351,18,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
 
@@ -812,7 +812,7 @@ chatgpt_68,"Some common symptoms of multiple sclerosis (MS) include:
 14. Sensitivity to touch and temperature: Increased sensitivity to pain, touch, and extreme temperatures.
 15. Vertigo: A spinning sensation or feeling off-balance.
 
-It is important to note that the symptoms of MS can vary greatly from person to person, and individuals may experience a combination of these symptoms or different symptoms altogether. It is recommended to consult a healthcare professional for an accurate diagnosis and personalized treatment plan.",68,List of multiple sclerosis symptoms,-0.0213192719966173,0,q,8,0.0,217,14,ChatGPT,False,"q
+It is important to note that the symptoms of MS can vary greatly from person to person, and individuals may experience a combination of these symptoms or different symptoms altogether. It is recommended to consult a healthcare professional for an accurate diagnosis and personalized treatment plan.",68,List of multiple sclerosis symptoms,-0.0213192719966173,0,q,8,0.0,217,14,ChatGPT,False,False,"q
 (query)"
 chatgpt_68,"Here is a list of common symptoms experienced by individuals with multiple sclerosis (MS):
 
@@ -832,5 +832,5 @@ chatgpt_68,"Here is a list of common symptoms experienced by individuals with mu
 14. Swallowing difficulties: Choking or difficulty swallowing food or liquids.
 15. Hearing problems: Partial hearing loss or ringing in the ears (tinnitus).
 
-It's important to note that not all individuals with MS will experience all of these symptoms, and symptoms can vary greatly from person to person. It is recommended to consult with a healthcare professional for an accurate diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.011555878445506,0,question,6,0.0,225,16,ChatGPT,False,"question
+It's important to note that not all individuals with MS will experience all of these symptoms, and symptoms can vary greatly from person to person. It is recommended to consult with a healthcare professional for an accurate diagnosis and management of symptoms.",68,List of multiple sclerosis symptoms,-0.011555878445506,0,question,6,0.0,225,16,ChatGPT,False,False,"question
 (query)"
