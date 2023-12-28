@@ -1,0 +1,2 @@
+# Evaluation of externally generated rankings
+The evaluate_external_results.py script takes the ranked passages from a ranking pipeline as input and calculates the ndcg@10, map and bref scores for them for the 3 different dimensions of relevance, credibility and readability.
